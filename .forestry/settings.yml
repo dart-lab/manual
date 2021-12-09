@@ -6,9 +6,10 @@ webhook_url:
 sections:
 - type: directory
   path: docs
-  label: Manual
+  label: Pages
   create: documents
-  match: "**/*"
+  match: "*.md"
+  exclude: index.md
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
