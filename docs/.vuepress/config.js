@@ -37,22 +37,24 @@ module.exports = {
     lastUpdated: false,
     nav: [
         {
-            text: 'Editing the Manual',
-            link: '/editing-the-manual/',
-        },
-        {
             text: 'Code of Conduct',
-            link: '/code-of-conduct/',
+            link: '/code-of-conduct/'
         },
         {
             text: 'Language Guide',
-            link: '/lang-guide/'},
+            link: '/lang-guide/'
+        },
         {
             text: 'Admin and Computing',
-            link: '/admin-and-computing/'},
+            link: '/admin-and-computing/'
+        },
+        {
+            text: 'Editing the Manual',
+            link: '/editing-the-manual/'
+        },
         {
             text: 'Contacts',
-            link: '/contacts/',
+            link: '/contacts/'
         },
     ],
     sidebar: getSidebar()
