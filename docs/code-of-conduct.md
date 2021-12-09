@@ -6,7 +6,7 @@ title: The DART Code of Conduct
 
 ## _principles for a happy workplace_
 
-### 1. **Be cool** :v:
+### 1. **Be kind** :v:
 
 _At the DART lab we value camaraderie. Be generous to each other, and to
 everyone we encounter in our work._
