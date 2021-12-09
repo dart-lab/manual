@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: docs
-  label: Pages
+  label: Manual
   create: documents
   match: "**/*"
 upload_dir: uploads
