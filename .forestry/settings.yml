@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: https://app.forestry.io/sites/b2jnb08vov1gnw/#/pages/docs-admin-and-computing-md
+  label: Lab Manual
+  match: "**/*"
+  read_only: false
 - type: directory
   path: docs
   label: Pages
