@@ -1,7 +1,7 @@
 ---
-title: "Commnity & Outreach"
----
+title: Community & Outreach
 
+---
 Community & Outreach
 ====================
 
