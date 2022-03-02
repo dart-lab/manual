@@ -74,21 +74,17 @@ _By Lorna Ginnell_
 We are super lucky to be situated in an area with a great selection of
 cafés and eateries! Here are some gems:
 
-* For breakfast or coffee meetings: _Project Coffee_ (warning, no
-  Wi-Fi!)
-* For dreamy breakfasts (and treats) when you're not planning on doing
-  any work: _Honeycomb and Co_
-* For those days in the office when you need a pick me up and instant
-  coffee just won't do: _The Counter (Kiosk next to M&S)_
+* For breakfast or coffee meetings: _Project Coffee_ (warning, no Wi-Fi!), _Soderberg_
+* For those days in the office when you need a pick me up and instant coffee just won't do: _The Counter (Kiosk next to M&S), Twelve Triangles_
 * For when you want to escape from the office but don't want to go too
   far: _The Round Square, Blackwood Coffee, Café Nero_
-* Hot Chocolate: _The Chocolate Tree_
 * The best sandwiches: _Karine's Deli_
 * Grab and go lunches: _M&S, Waitrose_ (they also have a Sushi Bar)
 * A quiet place to do some solo work: _Redbox (in Marchmont)._ OK so
   this is like half an hour away but it's really spacious, not too
   busy and has lots of plugs and free Wi-Fi! And good coffee and sweet
   treats. So a nice place to settle in and write for the day.
+* For dreamy breakfasts when you're not planning on doing any work: _Honeycomb and Co_
 * After work drinks: _The Hermitage, Montpelier, Black Ivy_
 * Dinner: _Montpelier, Mia's Italian, Nonas_
 * Walks: _The Braid & Blackford Hill, Bruntsfield Links_
