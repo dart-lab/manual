@@ -155,7 +155,9 @@ contacts for this will be Sue Davidson or Dorothy Air (CCBS HR Officer).
 
 \* _as a rule of thumb, undergrad degree = UE05, masters degree = UE06, PhD = UE07, postdoc with a few years' experience / lecturer = UE08, senior lecturer / reader = UE09, professor = UE10. Remember that experience in a relevant role is often better than a degree though!_
 
-In summary, here is a **timeline for recruitment**, assuming you don't find anyone on the talent register -- if you do it'll be quicker if you hire them, slower if you interview but don't hire them:
+### In summary, here is a **timeline for recruitment**, 
+
+This is assuming you don't find anyone on the talent register -- if you do it'll be quicker if you hire them, slower if you interview but don't hire them:
 
  1. Draft and agree the job description with your team: +1 weeks
  2. Job grading completed / simultaneously confirm job code: +6 weeks
