@@ -67,7 +67,7 @@ We have prepared a [Community Partner Recruitment Pack](https://drive.google.com
 1. Introduction to the recruitment pack. 
 2. Self-assessment checklist - designed to help you think about how you want to involve community members in your research. 
 3. Recruitment advert - a template you can use to create your own advert to recruit community advisors.
-4. Application form - a template you can use to design the online form that potential community partners can use to express interest in joining your study. 
+4. Application form - a template you can use to design the online form for potential community partners to express interest in joining your study. 
 
 [https://drive.google.com/drive/folders/1EVeUTF01szrbgmtQ6PpsoWEbu2dy58Sn](https://drive.google.com/drive/folders/1EVeUTF01szrbgmtQ6PpsoWEbu2dy58Sn "https://drive.google.com/drive/folders/1EVeUTF01szrbgmtQ6PpsoWEbu2dy58Sn")
 
