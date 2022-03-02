@@ -95,12 +95,11 @@ Note that for most items, we may have the manual available, but additional forms
 
 _By Maggi Laurie_
 
-You can find a list of data collection tools available to DART members [on Teams here](https://uoe.sharepoint.com/:x:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/DART%20measures%20and%20resources.xlsx?d=wec6e392d137147bbbd7b79a59d17692c&csf=1&web=1&e=QmqtSz).  
+You can find a list of toys and technology available to DART members [on Teams here](https://uoe.sharepoint.com/:x:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/DART%20measures%20and%20resources.xlsx?d=wec6e392d137147bbbd7b79a59d17692c&csf=1&web=1&e=QmqtSz).  
 
 In **Toys and Games**, there are three categories: digital toys (separate from iPads), toys associated with assessments (e.g. toys from the ADOS kit which can assess symbolic play), and participant tokens (including fidgets and participant gifts).
 
-register of assessments and measures, which contains register for
-'iPads' and a section on digital toys under 'Toys and Games.'
+In **Technology** we don't have info yet but we plan to list things like dictaphones, video cameras, laptops etc. 
 
 ## Online services: Infogram, Qualtrics etc.
 
