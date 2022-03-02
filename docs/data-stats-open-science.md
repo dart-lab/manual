@@ -1,14 +1,12 @@
 ---
-title: "Data, Stats and Open Science"
+title: Data, Stats and Open Science
+
 ---
+# Data, Stats and Open Science
 
-Data, Stats and Open Science
-============================
+## Data storage systems and definitions
 
-Data storage systems and definitions
-------------------------------------
-
-*by Sue Fletcher-Watson*
+_by Sue Fletcher-Watson_
 
 ### Shared Drives on the University Server
 
@@ -28,7 +26,7 @@ trials; storing data which only needs to be shared with other UoE staff.
 
 If you use a PC new shared drives should appear automatically on your
 desktop at login. If you use a Mac you may need to network the shared
-drives by going to Finder \> Go \> Connect to Server... and then pasting
+drives by going to Finder > Go > Connect to Server... and then pasting
 in the file pathway which IS will send to you when you set it up / join
 the folder. It is worth saving this pathway.
 
@@ -39,64 +37,40 @@ Activate at the link above, using your EASE username and password. Up to
 20GB of data is stored at the University of Edinburgh and managed by
 Information Services.
 
-DataSync is useful for: project folders that you want to share with
-people outside the University who either don't have Dropbox or don't
-want Dropbox; sharing folders which exceed the free Dropbox folder
-limit; sharing and synchronising files across multiple devices including
-your mobile. [There are FAQs
-here](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync).
+DataSync is useful for: project folders that you want to share with people outside the University who either don't have Dropbox or don't want Dropbox; sharing folders which exceed the free Dropbox folder limit; sharing and synchronising files across multiple devices including your mobile. [There is more information here](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync).
 
-You can access DataSync through your browser or create a file on your
-desktop that automatically syncs new content. The [desktop version uses
-a client called
-OwnCloud](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync/desktop-clients)
-that you download to your computer, and is also available [for mobile
-devices](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync/mobile-clients).
+You can access DataSync through your browser or create a file on your desktop that automatically syncs new content. The [desktop version uses a client called OwnCloud](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync/desktop-clients)   
+that you download to your computer, and is also available [for mobile devices](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync/mobile-clients).
 When using Own Cloud: if you add or edit a file in one place it is
 copied / the change is propogated to the other place(s); if a file is
 deleted in one place, it is deleted in all places. The system offers
 some ability for you to restore files that you have deleted (within 10
 days)
 
-You can [share individual DataSync files or
-folders](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync/sharing)
+You can [share individual DataSync files or folders](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync/sharing)
 with people within and outside the University.
 
 #### [DataShare](https://datashare.is.ed.ac.uk/)
 
-DataShare is for making a data set publicly available once a project is
-completed. UoE staff can set up an account with their EASE login but
-collaborators need to apply for an "EASE Friend" account. There is
-[information on how to deposit data
-here](https://www.ed.ac.uk/information-services/research-support/research-data-service/sharing-preserving-data/data-repository/how-to-deposit).
-Before depositing any data you should [follow this
-checklist](https://www.ed.ac.uk/information-services/research-support/research-data-service/sharing-preserving-data/data-repository/checklist)
-and discuss all the items with a colleague.
+DataShare is for making a data set publicly available once a project is completed. UoE staff can set up an account with their EASE login but collaborators need to apply for an "EASE Friend" account. There is [information on how to deposit data here](https://www.ed.ac.uk/information-services/research-support/research-data-service/sharing-preserving-data/data-repository/how-to-deposit). Before depositing any data you should [follow this checklist](https://www.ed.ac.uk/information-services/research-support/research-data-service/sharing-preserving-data/data-repository/checklist) and discuss all the items with a colleague.
 
 #### [DataVault](https://datavault.ed.ac.uk/)
 
-DataVault is for long-term, private and secure storage of a finalised,
-"golden copy" dataset, once a project is completed. UoE staff can set up
-an account with their EASE login. There is [information on how to
-deposit data
-here](https://www.ed.ac.uk/information-services/research-support/research-data-service/sharing-preserving-data/datavault).
+DataVault is for long-term, private and secure storage of a finalised, "golden copy" dataset, once a project is completed. UoE staff can set up an account with their EASE login. There is [information on how to deposit data here](https://www.ed.ac.uk/information-services/research-support/research-data-service/sharing-preserving-data/datavault).
 The data are archived and you can set a date to have the data securely
 destroyed if you wish.
 
-### *Further information*:
+### _Further information_:
 
-The [research data service
-webpage](https://www.ed.ac.uk/information-services/research-support/research-data-service/sharing-preserving-data)
+The [research data service webpage](https://www.ed.ac.uk/information-services/research-support/research-data-service/sharing-preserving-data)
 has lots of useful information about all of the above services and more.
 
-There is also a [Data Access and Governance
-committee](https://www.ed.ac.uk/clinical-brain-sciences/data-access-governance)
+There is also a [Data Access and Governance committee](https://www.ed.ac.uk/clinical-brain-sciences/data-access-governance)
 in CCBS who might be able ot help if you have queries.
 
-Data Management & how to password protect and encrypt a file.
--------------------------------------------------------------
+## Data Management & how to password protect and encrypt a file.
 
-*By Sue Fletcher-Watson*
+_By Sue Fletcher-Watson_
 
 ### Data Management: file types
 
@@ -107,7 +81,6 @@ Data Management & how to password protect and encrypt a file.
    for your study. Consider using multiple tabs to record different
    types of information -- for example if you want to include notes on
    each timepoint of a longitudinal study.
-
 2. A pseudonymised master file containing pseudonymised data listing
    the participant codes and their research data -- such as
    questionnaire scores, reaction times or survey responses. Consider
@@ -116,13 +89,11 @@ Data Management & how to password protect and encrypt a file.
    tab. Include a glossary to define any variable labels and a table
    with notes recording any scoring or labelling conventions -- e.g. 1
    = female, 2 = male.
-
 3. Raw data files for each individual participant. Save these in an
    individual participant folder, labelled with their participant code
    and use the same code for each individual file. Raw data files might
    include raw eye-tracker output, audio or video recordings, or
    interview transcripts.
-
 4. Specific project analysis files. If you want to do some data
    combination or modification (e.g. convert raw eye-tracking variables
    into a summary score; combine survey items into a scale) you may
@@ -135,40 +106,28 @@ Data Management & how to password protect and encrypt a file.
    selection in SPSS, or something in R to de-select those cases that
    you don't need for your analysis.
 
-### *Rules for good data management*:
+### _Rules for good data management_:
 
-- If in doubt, password protect a file (see below for how to do this)
-
-- Develop a template master database, thoroughly and carefully. Use
+* If in doubt, password protect a file (see below for how to do this)
+* Develop a template master database, thoroughly and carefully. Use
   dummy data to check it. Then use that template and aim to only ever
   have ONE master data file for your project. You can add rows and
   columns, but should aim to never remove information.
-
-- Label your participants using a convention such as
-  Participant\_studyname\_number. For example: P\_CE\_001 Make sure
+* Label your participants using a convention such as
+  Participant_studyname_number. For example: P_CE_001 Make sure
   that the number has enough digits to encompass all potential future
   participants. Avoid coding group status within the participant code
   (e.g. A for Autistic) as this make the code unnecessarily revealing
   about the participant.
-
-- Label your study master file using a similar convention. E.g.
-  MasterData\_ClickEast\_blind If your study doesn't have a catchy
+* Label your study master file using a similar convention. E.g.
+  MasterData_ClickEast_blind If your study doesn't have a catchy
   name, using your name or initials might be better.
 
-### *To password protect a file in Excel*:
+### _To password protect a file in Excel_:
 
-Select Save As \> Select Options \> Choose a password \> confirm your
-password. You can also consider adding a different password for
-modification of the file, to make it harder for people to accidentally
-edit your master data. Strong but memorable passwords can be created
-using unpredictable but thematically-linked word strings. E.g.
-chocolatebeachpilates (based on three favourite things). You can also
-use the first letters of a sentence -- such as a favourite song lyric --
-and including relevant symbols or punctuation. E.g. Ror&wok!Bck&wwm
-(Raindrops on roses and whiskers on kittens! Bright copper kettles and
-warm woollen mittens)
+Select Save As > Select Options > Choose a password > confirm your password. You can also consider adding a different password for modification of the file, to make it harder for people to accidentally edit your master data. Strong but memorable passwords can be created using unpredictable but thematically-linked word strings. E.g. chocolatebeachpilates (based on three favourite things). You can also use the first letters of a sentence -- such as a favourite song lyric -- and including relevant symbols or punctuation. E.g. Ror&wok!Bck&wwm (Raindrops on roses and whiskers on kittens! Bright copper kettles and warm woollen mittens).
 
-### *To encrypt a file using Veracrypt*:
+### _To encrypt a file using Veracrypt_:
 
 You can safely encrypt files using a free online programme, recommended
 for encryption by our IT service, called
@@ -193,10 +152,9 @@ when you send the file you should send the decryption key separately --
 e.g. text them the decryption but send the folder by email. Or email the
 decryption but send the file via DataSync.
 
-How to share project information with collaborators
----------------------------------------------------
+## How to share project information with collaborators
 
-*By Bethan Dean*
+_By Bethan Dean_
 
 **NB: Data storage systems are listed in the preceding section.** Some
 of these -- DataSync and Shared Drives - may also be useful for sharing
@@ -231,9 +189,9 @@ from outside the University may be given write access to the wiki by the
 owner or delegated administrator. In order to log into the wiki,
 external users will require an EASE Friend account. There is no enforced
 size limit for a single Wiki space; however, individual attachments
-cannot exceed 30MB. The Wiki is available from anywhere in the world.  
+cannot exceed 30MB. The Wiki is available from anywhere in the world.
 
-Wikis are good for: sharing content with collaborators *and the public,*
+Wikis are good for: sharing content with collaborators _and the public,_
 when that content is not sensitive. It should not be used to share
 research data.
 
@@ -250,49 +208,40 @@ documents via email; Enables users to control access to sensitive data
 using permissions; OneDrive allows you to store up to 1Tbyte of
 documents; Can be accessed from any computer.
 
-GDPR -- what is it and how does it affect me?
----------------------------------------------
+## GDPR -- what is it and how does it affect me?
 
-There's detailed information on the UoE [GDPR
-webpages](http://www.ed.ac.uk/records-management/gdpr)
+There's detailed information on the UoE [Data Protection webpages](http://www.ed.ac.uk/records-management/gdpr).
 
 **Basic Principles:**
 
-- Personal data means anything that can identify an individual:
-  - name, address etc but also photographs / videos and voice
-  - recordings
-
-- In general, make sure you **MINIMISE** what you collect:
-  - strictly only what is necessary
-
-- be **TRANSPARENT** about why you are collecting it
-
-- Don't forget to **DESTROY** it after the stated retention time.
+* Personal data means anything that can identify an individual:
+  * name, address etc but also photographs / videos and voice
+  * recordings
+* In general, make sure you **MINIMISE** what you collect:
+  * strictly only what is necessary
+* be **TRANSPARENT** about why you are collecting it
+* Don't forget to **DESTROY** it after the stated retention time.
 
 **Training:**
 
 1. [Data protection](https://www.ed.ac.uk/records-management/training/data-protection)
-
 2. [Information security](https://www.ed.ac.uk/infosec/learning-about-protection/register-information-security-essentials)
-
 3. [DP Training Research (search for this on LEARN)](https://www.learn.ed.ac.uk/)
 
-**[Data Protection Impact Assessments (DPIA)](http://www.ed.ac.uk/records-management/guidance/checklist/data-protection-impact-assessment):** You must conduct a DPIA when commencing a new project, be it
+[**Data Protection Impact Assessments (DPIA)**](http://www.ed.ac.uk/records-management/guidance/checklist/data-protection-impact-assessment)**:** You must conduct a DPIA when commencing a new project, be it
 research / procurement / event / newsletter etc.
 
-**[GDPR
-checklist](https://www.ed.ac.uk/files/atoms/files/gdpr_checklist_ccbs.pdf):**
+[**GDPR
+checklist**](https://www.ed.ac.uk/files/atoms/files/gdpr_checklist_ccbs.pdf)**:**
 If processing personal information is a key part of your role (PIs!
 Event organisers! Admin & comms staff!) please refer to the GDPR
 Checklist and make sure everything you are doing is GDPR compliant
 
-**Questions? Need advice? Contact** UoE Data Protection Officer Dr Rena
-Gertz.
+**Questions? Need advice? Contact** UoE Data Protection Officer Dr Rena Gertz - [Rena.Gertz@ed.ac.uk](mailto:Rena.Gertz@ed.ac.uk).
 
-Responsible Analysis
---------------------
+## Responsible Analysis
 
-*By Sue FW*
+_By Sue FW_
 
 These notes come from a discussion we had during lab-group about what
 tools we have at our disposal to prevent p-hacking and ensuring we are
@@ -303,7 +252,6 @@ responsible in our statistical analyses, and their reporting:
    report, think about publishing a protocol outlining your analysis
    plan in detail. This will save time later on and demonstrate
    transparency, and it goes some way to prevent inadvertent p-hacking
-
 2. Report effect sizes as well as p-values and base your interpretation
    more on the former (indicating the size of any difference -- is it
    trivial? Is it meaningful?) rather than the latter. Effect sizes are
@@ -311,21 +259,18 @@ responsible in our statistical analyses, and their reporting:
    when analysing an under-powered data set. You can also use Bayesian
    statistics which explicitly evaluate whether an effect size is
    likely to be a "true" effect.
-
 3. Report confidence intervals for any differences, allowing your
    reader to examine the full range of possible sizes-of-difference
    that are compatible with your data. If even the smallest difference
    estimate (lowest bound of your confidence interval) is greater than
    zero you can be very confident that your detected effect is a "true"
    effect. When interpreting data -- especially when looking for
-   *clinical* as well as *statistical* significance, consider the range
+   _clinical_ as well as _statistical_ significance, consider the range
    of possible effects that are compatible with your data.
-
 4. Make sure you correct for multiple tests, by reducing the required
    p-value in proportion with the number of tests being carried out.
    This especially applies when performing multiple tests on the same
    variables -- e.g. a large correlation matrix
-
 5. Validate your analysis in a second data set. This is very hard for
    us as our data are often quite unique but sometimes it's possible to
    leave out a proportion of your data for cross-validation checks. To
@@ -333,7 +278,6 @@ responsible in our statistical analyses, and their reporting:
    and seeking protocol harmonisation, whereby multiple research teams
    use the same / overlapping data collection protocols on their
    samples.
-
 6. Visualise your data and take the time to get to know its shape.
    Don't be afraid to include narrative descriptions of your data as
    well as statistical tests
@@ -347,8 +291,7 @@ own, or others' conference findings, but instead use them as an
 opportunity to get feedback on our methods and rehearse analysis
 pathways which might contribute usefully to our pre-registration.
 
-Statistics resources
---------------------
+## Statistics resources
 
 **University of Edinburgh Resources**
 
@@ -356,43 +299,39 @@ Statistics resources
    clinics](https://www.ed.ac.uk/institute-academic-development/postgraduate/doctoral/courses/themes).
    We've also heard tell of a statistics clinic that takes place in the
    Main Library... watch this space for more info
-
 2. It is possible to "pitch" a project that involves data analysis to
    students in the Maths department -- ask Sue for more details
-
 3. [R Ladies has an Edinburgh
    chapter](https://www.meetup.com/rladies-edinburgh/), where you can
    go along to get advice and guidance, and swap tips, on using R:
 
-*R-Ladies Edinburgh welcomes members of all R proficiency levels,
-whether you\'re a new or aspiring R user, or an experienced R programmer
+_R-Ladies Edinburgh welcomes members of all R proficiency levels,
+whether you're a new or aspiring R user, or an experienced R programmer
 interested in mentoring, networking & expert upskilling. Our community
-is designed to develop our members\' R skills & knowledge through
+is designed to develop our members' R skills & knowledge through
 social, collaborative learning & sharing. Supporting minority identity
 access to STEM skills & careers, the Free Software Movement, and
-contributing to the global R community!*
+contributing to the global R community!_
 
-4. The [Research Data
+1. The [Research Data
    Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/training)
-   run courses including *Handling Data Using SPSS:*
+   run courses including _Handling Data Using SPSS:_
 
-*Computer Lab-based, hands on workshop - No prior experience or
+_Computer Lab-based, hands on workshop - No prior experience or
 preparation required. The aim of this half-day course is to show you how
 the facilities provided by SPSS can help with the management of your
 research data, demonstrating the benefits of using SPSS syntax-driven
-commands*
+commands_
 
-5. Crispin Jordan provides [stats support at a drop-in
+1. Crispin Jordan provides [stats support at a drop-in
    clinic](https://crispinjordan.weebly.com/data-analysis-help.html) --
-   follow the link to see available dates and to book a slot.  
-
-6. Places to approach for paid stats support for projects that have
+   follow the link to see available dates and to book a slot.
+2. Places to approach for paid stats support for projects that have
    available budget include the [Edinburgh Clinical Trials
    Unit](https://www.ed.ac.uk/usher/edinburgh-clinical-trials) and the
    [Edinburgh Clinical Research
    Facility](https://www.edinburghcrf.ed.ac.uk/).
-
-7. [AQMEN](http://www.aqmen.ac.uk/) (the Applied Quantitative Methods
+3. [AQMEN](http://www.aqmen.ac.uk/) (the Applied Quantitative Methods
    Network) runs training courses on statistical methods and data
    anlysis.
 
@@ -400,54 +339,44 @@ commands*
 
 1. [DataCamp](https://www.datacamp.com/) provide online training on
    statistical analysis.
-
 2. Th [Laerd Statistics website](https://statistics.laerd.com/)
    provides a subscription service for access to statistics guidance
    and support, for £5 per month for a 3-month subscription. We could
    probably cover the cost of this, provided they are registered as a
    supplier for the University.
-
 3. [G-Power is free
    software](http://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower.html)
    that you can download that provides basically all the power
    calculations you ever need.
-
 4. Online calculator - [power analysis with cross random
    effects](https://jakewestfall.shinyapps.io/crossedpower/)
-
 5. Tutorial -- [a worksheet on repeated measures
    ANCOVA](http://www.bbk.ac.uk/psychology/dnl/stats/Repeated_Measures_ANCOVA.html)
    and managing covariates
-
 6. Tutorial -- an interactive [visualisation of p-value
    distributions](http://rpsychologist.com/d3/pdist/)
-
 7. If you're interested in Bayesian analysis then:
-
-    - Here are some [slides](https://osf.io/mhe5b/) from a Bayes
-      course Catherine went to, and recommended
-
-    - The free software for Bayes is [JASP ](https://jasp-stats.org/)
+   * Here are some [slides](https://osf.io/mhe5b/) from a Bayes
+     course Catherine went to, and recommended
+   * The free software for Bayes is [JASP ](https://jasp-stats.org/)
 
 **Using R - beginners**
 
 1. An [online
    book](http://www.fon.hum.uva.nl/paul/lot2015/Navarro2014.pdf) called
-   *Learning Statistics with R: A tutorial for psychology students and
-   other beginners.* There are other version of the same book, and
+   _Learning Statistics with R: A tutorial for psychology students and
+   other beginners._ There are other version of the same book, and
    related resources [at this
    website](https://learningstatisticswithr.com/)
-
 2. Code Academy runs a [free online
    course](https://www.codecademy.com/learn/learn-r) for learning to
    use R
 
 **Using R -- more sophisticated resources**
 
-3. Some example data and [code for plotting summaries of
+1. Some example data and [code for plotting summaries of
    data](https://github.com/ecsalomon/summaryPlotting)
-
-4. A [tutorial on using
+2. A [tutorial on using
    ggplot2](http://varianceexplained.org/RData/code/code_lesson2/) for
    data visualisation
 
@@ -456,9 +385,8 @@ commands*
 1. Coding - [a friendly introduction to
    GitHub](http://joeyklee.github.io/friendly-github-intro/)
 
-Open Science Resources
-----------------------
+## Open Science Resources
 
-- Information about the [FAIR principles of data
+* Information about the [FAIR principles of data
   science](https://www.go-fair.org/fair-principles/): data should be
   Findable, Accessible, Interoperable and Reuseable
