@@ -103,14 +103,6 @@ Make sure to keep a copy of your course completion certificate and email
 it to your supervisor or study coordinator so it can be added to the
 study file.
 
-## Hybrid working
-
-The University supports hybrid working and in the wake of Covid-19 they have created a hybrid working framework which is available here: [https://www.ed.ac.uk/hybrid-working](https://www.ed.ac.uk/hybrid-working "https://www.ed.ac.uk/hybrid-working")
-
-Hybrid working is a mix of on campus and off campus working and is not constrained by one specific location, for example an office or home workplace.
-
-If you want a hybrid working model you should discuss this with your live manager. 
-
 ## How to request annual leave
 
 \[needs updating with info about People & Money\]
