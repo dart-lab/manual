@@ -141,24 +141,11 @@ contacts for this will be Sue Davidson or Dorothy Air (CCBS HR Officer).
  3. Draft a job description using the [HR template](https://www.ed.ac.uk/files/atoms/files/job_description_template.docx) and agree it with anyone else involved in hiring. This is an important part of the process -- if your JD is too narrow you might not get a range of applicants to choose from. If it is too broad you will be swamped with ineligible applicants. Make sure it reflects the _things they will actually be doing_ and the _skills and level of independence they need._ Think carefully about whether qualifications or experience are more important to you -- and what kinds.
  4. Send your job description to HR for grading \[allow 6 weeks\]
  5. While the job is being graded, make sure you have the funding source in place: you need to have a job code from which the person's salary will be paid, and there needs to be enough budget associated with that job code to cover their whole salary. \[allow 1 month\]
- 6. Once the job comes back from being graded, you need to send it, with the financial information supporting the salary, to the Deanery committee for approval. They will sign off to say you can hire this person, based on the job description and the available funds. They meet every two weeks. \[allow 2-3 weeks\]
- 7. Think about who you want to be on the interview panel, and agree an approximate date for the interviews -- the timeline below might help. Keep an eye on this as it can shift and you need to have your interview date agreed well in advance.
- 8. When the grading is completed, check it matches your vision for the
-    post, and your budget! If not, you can adjust the JD and send for
-    re-grading*.
- 9. [Check the talent
-    register](https://www.edweb.ed.ac.uk/human-resources/recruitment/talent-register/recruiters)
-    to see if there's someone already at UoE who could do the job you
-    are advertising. If you spot someone, you can request their CV and
-    if they meet the essential criteria for the job you
-    \[must\]{.underline} interview them before advertising your post.
-10. Assuming there's no-one on the Talent Register, you can then request
-    for your job to be posted on the UoE Vacancies site. You will need
-    to know: the Cost Centre and Job Code which is paying the salary;
-    the full-time equivalent hours for the role; the duration of the
-    contract; the salary grade; the planned start date**.** Your job
-    advert should be based on the job description but also include an
-    **estimated interview date.** There's a template job advert in the
+ 6. When the grading is completed, check it matches your vision for the post, and your budget! If not, you can adjust the JD and send for re-grading*.
+ 7. Once the job comes back from being graded, you need to send it, with the financial information supporting the salary, to the Deanery committee for approval. You will need to know: the Cost Centre and Job Code which is paying the salary; the full-time equivalent hours for the role; the duration of the contract; the salary grade; the planned start date** They will sign off to say you can hire this person, based on the job description and the available funds. They meet every two weeks. \[allow 2-3 weeks\]
+ 8. During steps 5 and 6, think about who you want to be on the interview panel, and agree an approximate date for the interviews -- the timeline below might help. Keep an eye on this as it can shift and you need to have your interview date agreed well in advance.
+ 9. [Check the talent register](https://www.edweb.ed.ac.uk/human-resources/recruitment/talent-register/recruiters) to see if there's someone already at UoE who could do the job you are advertising. If you spot someone, you can request their CV and if they meet the essential criteria for the job you \[must\]{.underline} interview them before advertising your post.
+10. Assuming there's no-one on the Talent Register, you can then request for your job to be posted on the UoE Vacancies site. .** You**j**advert should be based on the job description but also include**nestimated interview date.** There's a template job advert in the
     DART Resources folder.
 11. When the job closes you will need to select candidates for
     interview, usually by making a long-list and then agreeing a
