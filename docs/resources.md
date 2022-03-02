@@ -8,13 +8,9 @@ title: Resources, Logos, Assessments, Technology, Manuals, Tests
 
 _By Sue Fletcher-Watson_
 
-You can download logos for DART and for the Salvesen Mindroom Research
-Centre here:
+You can download logos for DART, the Patrick Wild Centre, the Salvesen Mindroom Research Centre, the Theirworld Edinburgh Birth Cohort and the University of Edinburgh on Teams [here](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=UadNeR). 
 
-[https://www.dropbox.com/sh/p5num4xbjnu9jau/AAA7TV--4CtZtFJSC6KzNE6ha?dl=0](https://www.dropbox.com/sh/p5num4xbjnu9jau/AAA7TV--4CtZtFJSC6KzNE6ha?dl=0)
-
-This is the SMRC logo. If you ever need to alter the size please make
-sure you drag from the corner so you don't adjust the proportions.
+There's also a dropbox fold with logos for the Salvesen Mindroom Research Centre and the University of Edinburgh [at this link](https://www.dropbox.com/sh/163ox1y5rv7bci8/AAAG3vwSsbL5An2VbROGwVBRa?dl=0), which can be useful if you want to share logos with external parties. 
 
 ![](uploads/smrc_logo_best.jpg)
 
@@ -143,8 +139,8 @@ We have accounts with the following services, for members of the DART group only
 
 1. We have an account with [Infogram](https://infogram.com/login) which is an online service for producing stylish infographics, recruitment flyers and so on. Please keep this account tidy by creating your own folder and keeping your infographics in your named folder.
 2. We have an account with [Survey Monkey](https://www.surveymonkey.com/) which is an online survey platform - our account is now unpaid so this is only good for quick, short surveys.
-3. We have an account with [Qualtrics](https://www.qualtrics.com/uk/) which is an online survey platform, best for questionnaires. If you are using a survey to collect research data, talk to Sue FW about creating your own independent Qualtrics log-in. 
-4. We have a [YouTube](https://www.youtube.com/channel/UCPORsrJRCt1okyUF6csA3Dg) account. 
+3. We have an account with [Qualtrics](https://www.qualtrics.com/uk/) which is an online survey platform, best for questionnaires. If you are using a survey to collect research data, talk to Sue FW about creating your own independent Qualtrics log-in.
+4. We have a [YouTube](https://www.youtube.com/channel/UCPORsrJRCt1okyUF6csA3Dg) account.
 
 ## Video Camera Protocol (aka don't be a jerk)
 
