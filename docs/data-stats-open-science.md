@@ -300,15 +300,9 @@ pathways which might contribute usefully to our pre-registration.
 3. [R Ladies has an Edinburgh chapter](https://www.meetup.com/rladies-edinburgh/), where you can
    go along to get advice and guidance, and swap tips, on using R:
 
-_R-Ladies Edinburgh welcomes members of all R proficiency levels,
-whether you're a new or aspiring R user, or an experienced R programmer
-interested in mentoring, networking & expert upskilling. Our community
-is designed to develop our members' R skills & knowledge through
-social, collaborative learning & sharing. Supporting minority identity
-access to STEM skills & careers, the Free Software Movement, and
-contributing to the global R community!  
+_R-Ladies Edinburgh welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. Supporting minority identity access to STEM skills & careers, the Free Software Movement, and contributing to the global R community!  
   
-_(Just a note to say - this group is super inclusive to all women and non-binary people).
+_(Just a note to say that despite the name, this group are very very inclusive: "_We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R."_)
 
 4. The [Research Data Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/training)
    run courses including _Handling Data Using SPSS:_
