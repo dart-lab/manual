@@ -144,3 +144,19 @@ Key advice on getting costs for grants include:
   grant awarding body are not absolutely precisely the same as worktribe,
   provided I'm confident I have enough money to pay people / do the work,
   and it is in the right categories
+
+## Reporting to UKRI via ResearchFish
+
+UKRI [ResearchFish](https://researchfish.com/) is an online platform that UKRI (which includes all the UK research councils - MRC, ESRC etc.) uses to capture impact of work they have funded. 
+
+Grant holders need to complete ResearchFish pages every year, normally in Feb-March.
+
+There is a way to get publications to associate automatically with your awards in ResearchFish: 
+
+* open the research output on Pure
+* scroll down to the ‘Relations’ section at the bottom, and choose ‘Project’. You can search by title, R number, or funder reference number.
+* These added ‘relations’ are transferred to ResearchFish by the UoE Research Information Systems Manager. This bulk upload is a manual process which is done once a year before the UKRI Researchfish reporting window.
+
+ NB: _This only works for publications. There is no way to automatically prepopulate any other section of your Researchfish return._ 
+
+Similarly, Researchfish and [ORCID](https://orcid.org/) can be linked for publications only. In Researchfish, choose ‘Connect to ORCID’ at the top right.
