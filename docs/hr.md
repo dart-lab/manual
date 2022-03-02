@@ -32,6 +32,14 @@ This includes:
 * Annual leave calculator spreadsheet
 * P&DR forms
 
+## Hybrid working
+
+The University supports hybrid working and in the wake of Covid-19 they have created a hybrid working framework which is available here: [https://www.ed.ac.uk/hybrid-working](https://www.ed.ac.uk/hybrid-working "https://www.ed.ac.uk/hybrid-working")
+
+Hybrid working is a mix of on campus and off campus working and is not constrained by one specific location, for example an office or home workplace.
+
+If you want a hybrid working model you should discuss this with your live manager.
+
 ## The Voucher Reward Scheme
 
 _By Sue FW_
@@ -212,7 +220,7 @@ If you want to consider whether the University can sponsor an employee in the UK
 
 If it is confirmed that sponsorship is available, you could then refer the individual on to [staffvisahelp@ed.ac.uk](mailto:staffvisahelp@ed.ac.uk) and they will assist them with their visa application. This can take several weeks, depending on what documents are required.
 
-There are two types of visas: “global talent” and “skilled worker”. There are a few requisites: the appointees salary has to be over £24,000; they need proof that they have been taught in English or have English certification; they need to prove they have had a balance in their bank account of >£1,200 for a 3 month period. However, most pertinent for you is that (a) visas take at least 3 months to obtain and (b) it costs £2,400 for the employee visa plus any partner/dependent visa costs. More detailed information can be found [here](https://www.ed.ac.uk/global/staff-visas/overview-of-relevant-visa-routes). 
+There are two types of visas: “global talent” and “skilled worker”. There are a few requisites: the appointees salary has to be over £24,000; they need proof that they have been taught in English or have English certification; they need to prove they have had a balance in their bank account of >£1,200 for a 3 month period. However, most pertinent for you is that (a) visas take at least 3 months to obtain and (b) it costs £2,400 for the employee visa plus any partner/dependent visa costs. More detailed information can be found [here](https://www.ed.ac.uk/global/staff-visas/overview-of-relevant-visa-routes).
 
 ## Writing a reference
 
