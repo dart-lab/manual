@@ -19,7 +19,11 @@ or emailing [finance.helpline@ed.ac.uk](mailto:finance.helpline@ed.ac.uk)
 
 _by Sue FW_
 
-1. **Submit the request on the appropriate form**
+* Use these pages to get an overview of financial systems within CCBS: 
+
+[CCBS information for everyone. ](https://www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone)
+
+* **Submit the request on the appropriate form**
 
 UoE forms can be downloaded from [www.ed.ac.uk/finance/for-staff/forms](http://www.ed.ac.uk/finance/for-staff/forms)
 
@@ -30,8 +34,8 @@ might go out of date.
 The purchasing request form is CCBS-specific and can be downloaded from
 the CCBS website Staff Only pages at [www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone](http://www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone)
 
-1. **Fill in \[all\]{.underline} the details \[before\]{.underline}
-   submitting to your finance officer or local contact**
+* **Fill in \[all\]{.underline} the details \[before\]{.underline}
+  submitting to your finance officer or local contact**
 
 Make sure that the UoE finance code is fully completed, and all relevant
 contact name and addresses have been supplied. Your local contact will
@@ -49,20 +53,22 @@ e.g.
 \*The initial letter of the job code refers to the type of account: R =
 research grant; D = donation; G = general
 
-* 'R' job codes have a restricted set of account codes that can be
-  used, according to what you applied for in your grant. \[Please
-  don't pair an R job code with an account code that doesn't apply
-  to that grant\]{.underline}.
+'R' job codes have a restricted set of account codes that can be
+used, according to what you applied for in your grant. \[Please
+don't pair an R job code with an account code that doesn't apply
+to that grant\]{.underline}.
 
-  Please look up on webfirst and keep a note of which account codes can
-  be paired with which R numbers. If you don't have access to you job
-  code on webfirst, please contact the Centre Manager.
-* 'D' job codes can also be restricted, if a restriction has been
-  specified in the donation agreement.
-* 'G' job codes can be used with any account code.
+Please look up on webfirst and keep a note of which account codes can
+be paired with which R numbers. If you don't have access to you job
+code on webfirst, please contact the Centre Manager.
 
-1. **Obtain authorisation from the PI/budget holder
-   \[before\]{.underline} submitting**
+'D' job codes can also be restricted, if a restriction has been
+specified in the donation agreement.
+
+'G' job codes can be used with any account code.
+
+* **Obtain authorisation from the PI/budget holder
+  \[before\]{.underline} submitting**
 
 This will normally be Sue FW
 
@@ -141,6 +147,8 @@ approved suppliers directly (e.g. transcription services) by asking them
 to invoice the University.
 
 You can [access eExpenses here](https://www.expenses.finance.ed.ac.uk/).
+
+And you can [use this form](https://www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone/request-access-to-ccbs-finance-codes) to get access to a new job code. 
 
 To use eExpenses, you need to register first -- ask Sue Davidson or your local finance administrator for a registration form.
 
