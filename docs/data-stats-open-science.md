@@ -248,10 +248,7 @@ tools we have at our disposal to prevent p-hacking and ensuring we are
 analysing data responsibly and transparently. We identified 6 ways to be
 responsible in our statistical analyses, and their reporting:
 
-1. Pre-register your analyses -- even if you can't do a registered
-   report, think about publishing a protocol outlining your analysis
-   plan in detail. This will save time later on and demonstrate
-   transparency, and it goes some way to prevent inadvertent p-hacking
+1. Pre-register your analyses -- even if you can't do a registered report, think about publishing a protocol outlining your analysis plan in detail. This will save time later on and demonstrate transparency, and it goes some way to prevent inadvertent p-hacking.
 2. Report effect sizes as well as p-values and base your interpretation
    more on the former (indicating the size of any difference -- is it
    trivial? Is it meaningful?) rather than the latter. Effect sizes are
@@ -295,14 +292,12 @@ pathways which might contribute usefully to our pre-registration.
 
 **University of Edinburgh Resources**
 
-1. The Institute of Academic Development runs [1-1 statistics
-   clinics](https://www.ed.ac.uk/institute-academic-development/postgraduate/doctoral/courses/themes).
+1. The Institute of Academic Development runs [1-1 statistics clinics](https://www.ed.ac.uk/institute-academic-development/postgraduate/doctoral/courses/themes).
    We've also heard tell of a statistics clinic that takes place in the
    Main Library... watch this space for more info
 2. It is possible to "pitch" a project that involves data analysis to
    students in the Maths department -- ask Sue for more details
-3. [R Ladies has an Edinburgh
-   chapter](https://www.meetup.com/rladies-edinburgh/), where you can
+3. [R Ladies has an Edinburgh chapter](https://www.meetup.com/rladies-edinburgh/), where you can
    go along to get advice and guidance, and swap tips, on using R:
 
 _R-Ladies Edinburgh welcomes members of all R proficiency levels,
@@ -311,10 +306,11 @@ interested in mentoring, networking & expert upskilling. Our community
 is designed to develop our members' R skills & knowledge through
 social, collaborative learning & sharing. Supporting minority identity
 access to STEM skills & careers, the Free Software Movement, and
-contributing to the global R community!_
+contributing to the global R community!  
+  
+_(Just a note to say - this group is super inclusive to all women and non-binary people).
 
-1. The [Research Data
-   Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/training)
+4. The [Research Data Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/training)
    run courses including _Handling Data Using SPSS:_
 
 _Computer Lab-based, hands on workshop - No prior experience or
@@ -323,17 +319,15 @@ the facilities provided by SPSS can help with the management of your
 research data, demonstrating the benefits of using SPSS syntax-driven
 commands_
 
-1. Crispin Jordan provides [stats support at a drop-in
+5. Crispin Jordan provides [stats support at a drop-in
    clinic](https://crispinjordan.weebly.com/data-analysis-help.html) --
    follow the link to see available dates and to book a slot.
-2. Places to approach for paid stats support for projects that have
+6. Places to approach for paid stats support for projects that have
    available budget include the [Edinburgh Clinical Trials
    Unit](https://www.ed.ac.uk/usher/edinburgh-clinical-trials) and the
    [Edinburgh Clinical Research
    Facility](https://www.edinburghcrf.ed.ac.uk/).
-3. [AQMEN](http://www.aqmen.ac.uk/) (the Applied Quantitative Methods
-   Network) runs training courses on statistical methods and data
-   anlysis.
+7. [AQMEN](http://www.aqmen.ac.uk/) (the Applied Quantitative Methods Network) runs training courses on statistical methods and data analysis.
 
 **General Online Resources**
 
@@ -368,9 +362,8 @@ commands_
    other beginners._ There are other version of the same book, and
    related resources [at this
    website](https://learningstatisticswithr.com/)
-2. Code Academy runs a [free online
-   course](https://www.codecademy.com/learn/learn-r) for learning to
-   use R
+2. Code Academy runs a [free online course](https://www.codecademy.com/learn/learn-r) for learning to use R.
+3. University of Edinburgh Coding Club - [Our Coding Club](https://ourcodingclub.github.io/ "our coding club") - runs a range of in-person/zoom training workshops for R and Python, plus they have a range on online tutorials and courses - these range in difficulty but most are accessible right from beginner level. 
 
 **Using R -- more sophisticated resources**
 
