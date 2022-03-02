@@ -58,9 +58,9 @@ One way to strengthen your research is by working with a _community advisor —_
 
 The expertise of community members can be useful at different stages of your research — from deciding the most relevant measurements to use in your study, to disseminating your findings to the people most affected by your topic of research.
 
-Furthermore, working with a community partner also provides you with the opportunity to help _them_ learn something about how scientific research is done and the challenges we have to overcome as researchers. There are many engaging ways to do this — for example, you could organise a lab visit and arrange for them to see what your day-to-day activities look like as a scientist.
+Furthermore, working with a community advisor also provides you with the opportunity to help _them_ learn something about how scientific research is done and the challenges we have to overcome as researchers. There are many engaging ways to do this — for example, you could organise a lab visit and arrange for them to see what your day-to-day activities look like as a scientist.
 
-### Sample Documents 
+### Sample Documents
 
 We have prepared a [Community Partner Recruitment Pack](https://drive.google.com/drive/folders/1EVeUTF01szrbgmtQ6PpsoWEbu2dy58Sn "Community Partner Recruitment Pack") to get you thinking about how you want to involve community members in your research and to help you prepare the documents you need to recruit community members for your research. This recruitment pack contains the following:
 
