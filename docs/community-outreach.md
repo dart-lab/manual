@@ -48,13 +48,19 @@ with.
 
 ## Working with a community advisor
 
-_By Reesha Zahir_ 
+_By Reesha Zahir_
 
 One way to strengthen your research is by working with a _community advisor —_ someone who belongs to the group of people that your research focuses on. Working with community advisors can:
 
-* Help shape your study in a way that maximises the relevance of your findings
+* Help shape your study in a way that maximises the relevance of your findings to the people that your research focuses on
 * Help you interpret your results meaningfully, using the context of your community advisor’s lived experiences
 * Improve the translational value of your research
+
+The expertise of community members can be useful at different stages of your research — from deciding the most relevant measurements to use in your study, to disseminating your findings to the people most affected by your topic of research.
+
+Furthermore, working with a community partner also provides you with the opportunity to help _them_ learn something about how scientific research is done and the challenges we have to overcome as researchers. There are many engaging ways to do this — for example, you could organise a lab visit and arrange for them to see what your day-to-day activities look like as a scientist.
+
+### Sample documents:
 
 ## Open access: Getting your papers made available to everyone
 
