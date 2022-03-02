@@ -48,7 +48,9 @@ with.
 
 ## Working with a community advisor
 
-\[needs content - Reesha?\]
+_By Reesha Zahir_ 
+
+One way to strengthen your research is by working with a _community advisor —_ someone who belongs to the group of people that your research focuses on. Working with community advisors can:
 
 ## Open access: Getting your papers made available to everyone
 
