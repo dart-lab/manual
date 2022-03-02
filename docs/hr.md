@@ -146,26 +146,12 @@ contacts for this will be Sue Davidson or Dorothy Air (CCBS HR Officer).
  8. During steps 5 and 6, think about who you want to be on the interview panel, and agree an approximate date for the interviews -- the timeline below might help. Keep an eye on this as it can shift and you need to have your interview date agreed well in advance.
  9. [Check the talent register](https://www.edweb.ed.ac.uk/human-resources/recruitment/talent-register/recruiters) to see if there's someone already at UoE who could do the job you are advertising. If you spot someone, you can request their CV and if they meet the essential criteria for the job you \[must\]{.underline} interview them before advertising your post.
 10. Assuming there's no-one on the Talent Register, you can then request for your job to be posted on the UoE Vacancies site. Your advert should be based on the job description but also include an **estimated interview date.** There's a template job advert in the relevant [folder on Teams](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/recruiting%20staff%20%26%20volunteers?csf=1&web=1&e=H02GKb) (Running a Project > Recruiting staff and volunteers)
-11. When the job closes you will need to select candidates for
-    interview, usually by making a long-list and then agreeing a
-    shortlist with other panel members. Here is the [HR guidance on
-    shortlisting](https://www.edweb.ed.ac.uk/human-resources/recruitment/recruiters-guide/shortlisting/shortlisting-process).
-    Make it as quantitative and transparent as possible.
-12. Then ask the HR representative to invite them to interview,
-    including information about anything you want them to prepare in
-    advance. Here is the [HR guidance on
-    interviewing](https://www.edweb.ed.ac.uk/human-resources/recruitment/recruiters-guide/shortlisting/interviewing).
-    Make sure the room is accessible.
-13. After the interviews, HR will ask to collect in your notes and
-    ratings, and they will inform the unsuccessful candidates. It's nice
-    to offer feedback if anyone gets in touch.
-14. For the successful person, you can offer the job directly by phone.
-    Make sure you clarify that this is 'subject to references' if they
-    haven't already been received. Once all references are in, you need
-    to get their contract issued so keep an eye on this with HR.
-15. The final stage is to think about induction -- what are they going
-    to do in their first days / weeks in post? What resources and
-    training do they need? Who do they need to meet?
+11. While the job is being advertised it is worth talking with your interview panel and agreeing questions.  This will allow you to send copies of these questions to candidates who are invited to interview in advance, which is considered a good accessible interview practice especially relevant for neurodivergent candidates. 
+12. When the job closes you will need to select candidates for interview, usually by making a long-list and then agreeing a shortlist with other panel members. Here is the [HR guidance on shortlisting](https://www.edweb.ed.ac.uk/human-resources/recruitment/recruiters-guide/shortlisting/shortlisting-process).  Make it as quantitative and transparent as possible.
+13. Then ask the HR representative to invite them to interview, including information about anything you want them to prepare in advance. Here is the [HR guidance on interviewing](https://www.edweb.ed.ac.uk/human-resources/recruitment/recruiters-guide/shortlisting/interviewing). Make sure the room is accessible.
+14. After the interviews, HR will ask to collect in your notes and ratings, and they will inform the unsuccessful candidates. It's nice to offer feedback if anyone gets in touch.
+15. For the successful person, you can offer the job directly by phone. Make sure you clarify that this is '_subject to references_' if they haven't already been received. Once all references are in, you need to get their contract issued so keep an eye on this with HR.
+16. The final stage is to think about induction -- what are they going to do in their first days / weeks in post? What resources and training do they need? Who do they need to meet?
 
 \* _as a rule of thumb, undergrad degree = UE05, masters degree = UE06,
 PhD = UE07, postdoc with a few years' experience / lecturer = UE08,
