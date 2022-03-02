@@ -1,26 +1,23 @@
 ---
-title: "Finance"
+title: Finance
+
 ---
+# Finance
 
-Finance
-=======
+## Finance helpline
 
-Finance helpline
-----------------
-
-*By Sue FW*
+_By Sue FW_
 
 You can find the [Finance Helpline page here](https://www.ed.ac.uk/finance/finance-helpline?utm_campaign=2295170_SEP%20-%20All%20Staff%20email%20%E2%80%93%20New%20Finance%20Helpline%20-%2031-Jan-19&utm_medium=email&utm_source=dotmailer&dm_i=27JU,1D6YQ,425AZ8,4H81J,1).
 There is a link for UoE staff and students and a link for external
 providers which may be of use when people are chasing payments etc.
 
 Alternatively you can contact the Helpline by calling 0131 651 5151
-or emailing <finance.helpline@ed.ac.uk>
+or emailing [finance.helpline@ed.ac.uk](mailto:finance.helpline@ed.ac.uk)
 
-General information about financial transactions within CCBS
-------------------------------------------------------------
+## General information about financial transactions within CCBS
 
-*by Sue FW*
+_by Sue FW_
 
 1. **Submit the request on the appropriate form**
 
@@ -33,8 +30,8 @@ might go out of date.
 The purchasing request form is CCBS-specific and can be downloaded from
 the CCBS website Staff Only pages at [www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone](http://www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone)
 
-2.  **Fill in [all]{.underline} the details [before]{.underline}
-    submitting to your finance officer or local contact**
+1. **Fill in \[all\]{.underline} the details \[before\]{.underline}
+   submitting to your finance officer or local contact**
 
 Make sure that the UoE finance code is fully completed, and all relevant
 contact name and addresses have been supplied. Your local contact will
@@ -44,42 +41,39 @@ UoE finance codes are made up of three parts, and all three are needed
 for a transaction.
 
 e.g.
-| 217CHA                                                                                           | 3138                                                                                                                                        | R12345                                           |
-| -                                                                                                | -                                                                                                                                           | -                                                |
-| **Cost Centre** - this is like the sort code; it's specific to the individual or research group. | **Account code** - this identifies the category of the purchase/sale, for instance 3138 refers to Research Consumables, 3432 is for Postage | **Job code\*** - this is like the account number |
 
+| 217CHA | 3138 | R12345 |
+| --- | --- | --- |
+| Cost Centre - this is like the sort code; it's specific to the individual or research group. | Account code - this identifies the category of the purchase/sale, for instance 3138 refers to Research Consumables, 3432 is for Postage | Job code* - this is like the account number |
 
 \*The initial letter of the job code refers to the type of account: R =
 research grant; D = donation; G = general
 
-- 'R' job codes have a restricted set of account codes that can be
-  used, according to what you applied for in your grant. [Please
+* 'R' job codes have a restricted set of account codes that can be
+  used, according to what you applied for in your grant. \[Please
   don't pair an R job code with an account code that doesn't apply
-  to that grant]{.underline}.
+  to that grant\]{.underline}.
 
   Please look up on webfirst and keep a note of which account codes can
   be paired with which R numbers. If you don't have access to you job
   code on webfirst, please contact the Centre Manager.
-
-- 'D' job codes can also be restricted, if a restriction has been
+* 'D' job codes can also be restricted, if a restriction has been
   specified in the donation agreement.
+* 'G' job codes can be used with any account code.
 
-- 'G' job codes can be used with any account code.
-
-3. **Obtain authorisation from the PI/budget holder
-    [before]{.underline} submitting**
+1. **Obtain authorisation from the PI/budget holder
+   \[before\]{.underline} submitting**
 
 This will normally be Sue FW
 
-4. **Submit your request to your [single contact person]{.underline}**
+1. **Submit your request to your \[single contact person\]{.underline}**
 
 Please don't copy in other people who might be able to help. This can
 cause confusion over responsibilities and often slows things up.
 
-5.  **Please be patient -- wait at least 3 days before following up**
+1. **Please be patient -- wait at least 3 days before following up**
 
-Specific transaction types within CCBS
---------------------------------------
+## Specific transaction types within CCBS
 
 **Purchase orders** (PO): Please fill a purchasing request form
 (download from CCBS website) and send one email with all the details
@@ -113,10 +107,9 @@ for something or to receive a payment
 **Sales invoices**: Please request a PO from the customer and provide
 full grant details
 
-How to use WebFirst
--------------------
+## How to use WebFirst
 
-*By Sue FW*
+_By Sue FW_
 
 **Webfirst** is an online system for checking balances, transactions,
 expenditure and income for specific Job Codes. You need to request
@@ -132,13 +125,12 @@ here.](https://www.wiki.ed.ac.uk/display/Finance/WebFirst+-+Available+Reports)
 If you find a report format that is useful, it's worth saving it in your
 Favourites / making a note to access it again!
 
-*PLEASE ADD INFORMATION HERE IF YOU DISCOVER USEFUL THINGS ABOUT
-WEBFIRST THAT YOU WANT TO SHARE!*
+_PLEASE ADD INFORMATION HERE IF YOU DISCOVER USEFUL THINGS ABOUT
+WEBFIRST THAT YOU WANT TO SHARE!_
 
-How to make an expense claim through e-expenses
------------------------------------------------
+## How to make an expense claim through e-expenses
 
-*By Sue FW*
+_By Sue FW_
 
 **Wherever possible, you should try to make purchases through University
 suppliers instead of paying for things yourself and claiming them
@@ -156,62 +148,45 @@ local finance administrator for a registration form.
 When using eExpenses, the approximate step-by-step process is as
 follows:
 
-1. Log in using your EASE details
-
-2. Select Create A Claim on the left hand side
-
-3. Give your claim item a sensible title, such as "BPS conference
-   expenses". You can claim a bunch of things at the same time and it
-   makes sense to group them by event (e.g. travel, accommodation and
-   meals for a conference\*). Don't make a claim for every single
-   receipt.
-
-4. If you think your claim is at all unusual or confusing, use the
-   "additional details" box to add information
-
-5. Then for each item in the claim select the Category (e.g. Research
-   Grant) and Expense Type (e.g. Consumables)
-
-6. Enter a description for the item, e.g. SRS manual
-
-7. Select the Cost Centre that is the 'parent' for the Job Code you are
-   claiming from
-
-8. Select the Job Code
-
-9. Select an Approval Group -- this is the group of finance officers
-   who will be asked to approve your claim. The Approval Group should
-   match the Cost Centre. E.g. Cost Centre = 214PSY, approval group =
-   Clinical Sciences Psychiatry
-
+ 1. Log in using your EASE details
+ 2. Select Create A Claim on the left hand side
+ 3. Give your claim item a sensible title, such as "BPS conference
+    expenses". You can claim a bunch of things at the same time and it
+    makes sense to group them by event (e.g. travel, accommodation and
+    meals for a conference*). Don't make a claim for every single
+    receipt.
+ 4. If you think your claim is at all unusual or confusing, use the
+    "additional details" box to add information
+ 5. Then for each item in the claim select the Category (e.g. Research
+    Grant) and Expense Type (e.g. Consumables)
+ 6. Enter a description for the item, e.g. SRS manual
+ 7. Select the Cost Centre that is the 'parent' for the Job Code you are
+    claiming from
+ 8. Select the Job Code
+ 9. Select an Approval Group -- this is the group of finance officers
+    who will be asked to approve your claim. The Approval Group should
+    match the Cost Centre. E.g. Cost Centre = 214PSY, approval group =
+    Clinical Sciences Psychiatry
 10. Add the amount, and the date the expenses was incurred -- i.e. when
     you paid for it, not when it happened.
-
 11. For specific expenses like Travel there will also be other fields to
     complete. It is worth adding as much detail as you can.
-
 12. Save the item. Then select the paperclip icon on the right-hand side
     to upload relevant documents. There should be a scanned receipt /
     e-receipt (e.g. downloaded email) for every item.
-
 13. You can then go back to step 5 above, and add additional items to
     your claim.
-
 14. Once you have all your items added, you can submit the claim
-
 15. Then print the claim and attach \[Lizzy note: don't staple the
     receipts to the form\] any paper receipts. You need to attach paper
     receipts for anything where the original receipt was not digital --
     e.g. meals.
-
 16. Get the claim signed by a more senior budget holder -- normally Sue
     FW -- and then submit the paperwork to Ken.
-
 17. When your claim is paid you will receive an email with a "Remittance
     Advice" notifying you of the amount which has been paid into your
     account. If you submitted multiple claims at once, this will be for
     the total of all approved claims.
-
 18. It is possible that your claim will be queried by the Approval Group
     in which case you will receive an email notification. You can log in
     to eExpenses again and edit your claim / provide additional
@@ -226,13 +201,12 @@ card statement with the actual payment listed. You can claim for the
 cost of the item and any bank fees associated with the transaction --
 just add these up and put them through as a single claim item.
 
-\* *noting of course that we should aim to book travel and accommodation
-through Key Travel!*
+\* _noting of course that we should aim to book travel and accommodation
+through Key Travel!_
 
-Definitions of UoE expenses terminology and systems
----------------------------------------------------
+## Definitions of UoE expenses terminology and systems
 
-*By Lizzy Kirkham & Sue FW*
+_By Lizzy Kirkham & Sue FW_
 
 ### Finance Codes
 
@@ -276,7 +250,7 @@ costs that are being assigned to the project. Salaries of staff already
 employed by the University are a good example of this -- the salary is
 being paid by the University regardless of whether you win the grant,
 but if you get the funding a proportion of this person's time (and an
-associated proportion of their salary) is being *allocated* to the
+associated proportion of their salary) is being _allocated_ to the
 grant. E.g. the ESRC pay for 5% of my salary and I give them 5% of my
 working week.
 
@@ -366,19 +340,17 @@ Favourites / making a note to access it again!
 system. It is used to administer every stage of a research project. You
 can read a bit more about Worktribe with some useful links on page 7.
 
-Using petty cash
-----------------
+## Using petty cash
 
 \[needs content\]
 
 Just don't
 
-How to pay participants
------------------------
+## How to pay participants
 
 **Option 1 -- Gift vouchers**
 
-*By Bérengère Digard*
+_By Bérengère Digard_
 
 Gift vouchers can be ordered by Ken at one of the University-approved
 suppliers ([High Street Vouchers](https://www.highstreetvouchers.com/)
@@ -391,10 +363,9 @@ You can also buy vouchers yourself from the Post Office or Amazon, and
 claim them back (Amazon is not a University-approved supplier, so you
 cannot ask Ken to order them for you) via eExpenses.
 
-How to pay external consultants / providers
--------------------------------------------
+## How to pay external consultants / providers
 
-*By Sue FW*
+_By Sue FW_
 
 NB: copies of all the documents listed below should be available in the
 DART Resources folder under Finance. Do check you have the latest copy
@@ -408,21 +379,17 @@ The steps are:
    provide HMRC confirmation that they are registered for
    self-assessment, plus details of their bank account and registered
    VAT number (if they have one)
-
 2. You must complete an Employment Status questionnaire, and an
    Engagement of Services Agreement. These explain what you asking the
    external provider to do and lay out the University's legal
    obligations to them as a new "employee". This is essentially in lieu
    of a proper contract of employment. It is a useful process to go
    through.
-
 3. The documents need to be sent to payroll for approval (by your local
    finance officer) -- they in turn send them to HMRC for confirmation
    so it takes a while
-
 4. After confirmation is received from HMRC and Payroll, the provider
    can be added to the Approved Suppliers list.
-
 5. They can then invoice the University and receive payment.
 
 **Option 2:** If the consultant is not self-employed they can be paid
@@ -464,91 +431,82 @@ they have questions, these statements from HR might be helpful:
 reference group for a study, the easiest way to pay them as is a
 subsistence payment for each meeting they attend.
 
-How to pay UoE employees or students for work or overtime
----------------------------------------------------------
+## How to pay UoE employees or students for work or overtime
 
 \[needs content\]
 
-Booking travel through the University
--------------------------------------
+## Booking travel through the University
 
-### Key Travel
+### Diversity Travel
 
-*NEEDS SOMETHING ABOUT KEY TRAVEL HERE*
+The UoE has a new (in 2022) travel contract with [Diversity Travel](https://www.diversitytravel.com/uk/what-we-do/). You can book travel direct through them and it will be charged onto a grant job code, which means you are never out of pocket. You can ask them to search for journeys for you, or you can tell them the specific flights / hotels etc that you want. There is an [online booking tool at this link](https://idp.diversitytravel.com/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Did_token%2520token%26client_id%3Dgatewaysystem%26state%3DUCONDxsvkByc5EoUAZZuGRVjQKiYBK_X5O7S1Vg587kxH%26redirect_uri%3Dhttps%253A%252F%252Fgateway.diversitytravel.com%252Fhome%26scope%3Dopenid%2520profile%2520offline_access%2520gatewayapi%26nonce%3DUCONDxsvkByc5EoUAZZuGRVjQKiYBK_X5O7S1Vg587kxH). 
+
+Booking your own travel
+
+You can also 
 
 ### Booking AirBnBs
 
 The University's expenses policy allows for AirBnB bookings, and there
 is more in the travel and accommodation FAQs for the [**New Expenses
-Policy section**](https://www.ed.ac.uk/finance/for-staff/financial-regulations-policies-and-procedures/new-expenses-policy/expenses-faqs-travel-and-accommodation-expenses).  **[However]{.underline}**,
+Policy section**](https://www.ed.ac.uk/finance/for-staff/financial-regulations-policies-and-procedures/new-expenses-policy/expenses-faqs-travel-and-accommodation-expenses).  **\[However\]{.underline}**,
 some grant providers have issues with projects using Airbnb so contact
 your grant manager and check that they (the funder) are happy to cover
 these costs.
 
 **Also please** note that:
 
-- Airbnb is not regulated and may fail to meet basic safety
-standards such as smoke detection, electrical testing, extinguishers and
-fire escape.
+* Airbnb is not regulated and may fail to meet basic safety
+  standards such as smoke detection, electrical testing, extinguishers and
+  fire escape.
+* Airbnb is highly unlikely to share traveller information with
+  the University in the event of an emergency.
+* Airbnb hosts sometimes cancel at the last minute for various
+  reasons and UoE insurance will not cover any direct or indirect costs
+  associated with that. Airbnb hosts may have no insurance and their
+  normal domestic insurance may not cover them for letting rooms.
+* Airbnb hosts may trade illegally if the host city, for
+  instance, does not permit short-term room rentals. The accommodation may
+  be an unused back bedroom in a stranger's house. The accommodation will
+  often be less secure than a hotel, with no CCTV, key control, robust
+  door locks, swipe access or room safe. Travellers should wherever
+  possible favour accommodation where it has smoke detection and good
+  locks / security.
+* Airbnb bookings may be illegal if the country / region / city
+  / building does not permit short-term room rentals, or if the host has
+  not complied with local regulations but nonetheless advertises the
+  property on the platform regardless.
 
-- Airbnb is highly unlikely to share traveller information with
-the University in the event of an emergency.
-
-- Airbnb hosts sometimes cancel at the last minute for various
-reasons and UoE insurance will not cover any direct or indirect costs
-associated with that. Airbnb hosts may have no insurance and their
-normal domestic insurance may not cover them for letting rooms.
-
-- Airbnb hosts may trade illegally if the host city, for
-instance, does not permit short-term room rentals. The accommodation may
-be an unused back bedroom in a stranger's house. The accommodation will
-often be less secure than a hotel, with no CCTV, key control, robust
-door locks, swipe access or room safe. Travellers should wherever
-possible favour accommodation where it has smoke detection and good
-locks / security.
-
-- Airbnb bookings may be illegal if the country / region / city
-/ building does not permit short-term room rentals, or if the host has
-not complied with local regulations but nonetheless advertises the
-property on the platform regardless.
-
- In order to avoid some of these problems, travellers can use the Airbnb
+In order to avoid some of these problems, travellers can use the Airbnb
 platform ONLY where:
 
-- You can identify that the country / city / region / building
-permits short-term lets and the property complies with local
-regulations, so the booking is legal.
-
-- There is a reasonably full history of positive reviews
-
-- The accommodation is a self-contained apartment (so you aren't
-staying in a stranger's back bedroom or similar).
-
-- You can identify the neighbourhood as safe.
-
-- You don't rely only on the Airbnb bookings calendar, but also
-email the host directly, as some hosts are not assiduous about updating
-calendars.
-
-- You leave full contact details in your travel plan including
-location of the apartment and owner contact details.
+* You can identify that the country / city / region / building
+  permits short-term lets and the property complies with local
+  regulations, so the booking is legal.
+* There is a reasonably full history of positive reviews
+* The accommodation is a self-contained apartment (so you aren't
+  staying in a stranger's back bedroom or similar).
+* You can identify the neighbourhood as safe.
+* You don't rely only on the Airbnb bookings calendar, but also
+  email the host directly, as some hosts are not assiduous about updating
+  calendars.
+* You leave full contact details in your travel plan including
+  location of the apartment and owner contact details.
 
 Please remember to have a valid insurance policy, which you can arrange
 free of charge via [**the Insurance
-Office**](https://www.ed.ac.uk/finance/about/sections/insurance). 
+Office**](https://www.ed.ac.uk/finance/about/sections/insurance).
 
-Ordering consumables and equipment through the University
----------------------------------------------------------
+## Ordering consumables and equipment through the University
 
-*By Sue FW*
+_By Sue FW_
 
 **In most cases:** Please email Sue D with order requests and copy in
 Sue FW.  Sue D will action these orders on the assumption that cc-ing
 SFW indicates approval.  Please (obviously) make sure you discuss orders
 with me in advance.  Anything over £200 threshold will need written
-approval from SFW, not just a cc. 
+approval from SFW, not just a cc.
 
-How to create a grant budget
-----------------------------
+## How to create a grant budget
 
 \[needs content\]
