@@ -96,6 +96,8 @@ cafés and eateries! Here are some gems:
 [http://scottmcallisterdesign.co.uk](http://scottmcallisterdesign.co.uk) -- recommended though not used yet,
 an autistic graphic designer in Scotland.
 
+David Roberts (designroute.hello@gmail.com) has done some graphic design work for Catherine before (happy to share examples). He's a registered supplier at the University so easy to pay, and happy to do small bits of graphic design work - many of the other University registered suppliers only take on bigger jobs. 
+
 ### Transcription
 
 _By Catherine Crompton_
