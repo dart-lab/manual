@@ -40,6 +40,14 @@ Hybrid working is a mix of on campus and off campus working and is not constrain
 
 If you want a hybrid working model you should discuss this with your live manager.
 
+## Working Abroad
+
+The University has published new guidance on working outside the UK, available here: [https://www.ed.ac.uk/human-resources/working-abroad/guidance-for-managers](https://www.ed.ac.uk/human-resources/working-abroad/guidance-for-managers "https://www.ed.ac.uk/human-resources/working-abroad/guidance-for-managers")
+
+The University now has a Working Abroad team who can provide a list of the requirements for each project. The PI needs to engage with the Working Abroad team as early as they can. Working abroad plans should be considered at the grant writing stage as staff working abroad can come with increased costs and tax liabilities. Sometimes the funders will cover these costs.
+
+ This is a [checklist for managers](https://www.ed.ac.uk/human-resources/working-abroad/guidance-for-managers/approval-process) who are being asked to approve a request to work abroad. 
+
 ## The Voucher Reward Scheme
 
 _By Sue FW_
