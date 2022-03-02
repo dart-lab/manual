@@ -62,7 +62,7 @@ Furthermore, working with a community advisor also provides you with the opportu
 
 ### Sample Documents
 
-We have prepared a [Community Partner Recruitment Pack](https://drive.google.com/drive/folders/1EVeUTF01szrbgmtQ6PpsoWEbu2dy58Sn "Community Partner Recruitment Pack") to get you thinking about how you want to involve community members in your research and to help you prepare the documents you need to recruit community members for your research. This recruitment pack contains the following:
+We have prepared a [Community Partner Recruitment Pack](https://drive.google.com/drive/folders/1EVeUTF01szrbgmtQ6PpsoWEbu2dy58Sn "Community Partner Recruitment Pack") to get you thinking about how you want to involve community members in your research and help you prepare the documents you need to recruit community members for your research. This recruitment pack contains the following:
 
 1. Introduction to the recruitment pack.
 2. Self-assessment checklist - designed to help you think about how you want to involve community members in your research.
