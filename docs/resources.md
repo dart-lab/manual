@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Resources, Logos, Assessments, Technology, Manuals, Tests
 
 ---
 # Resources
