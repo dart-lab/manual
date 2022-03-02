@@ -60,14 +60,14 @@ The expertise of community members can be useful at different stages of your res
 
 Furthermore, working with a community partner also provides you with the opportunity to help _them_ learn something about how scientific research is done and the challenges we have to overcome as researchers. There are many engaging ways to do this — for example, you could organise a lab visit and arrange for them to see what your day-to-day activities look like as a scientist.
 
-### Sample documents:
+### Sample Documents 
 
-We have prepared a [Community Partner Recruitment Pack](https://drive.google.com/drive/folders/1EVeUTF01szrbgmtQ6PpsoWEbu2dy58Sn "Community Partner Recruitment Pack") to get you thinking about how you want to involve community members in your research and to help you prepare the documents you need to recruit community members for your research. This recruitment pack contains the following: 
+We have prepared a [Community Partner Recruitment Pack](https://drive.google.com/drive/folders/1EVeUTF01szrbgmtQ6PpsoWEbu2dy58Sn "Community Partner Recruitment Pack") to get you thinking about how you want to involve community members in your research and to help you prepare the documents you need to recruit community members for your research. This recruitment pack contains the following:
 
-1. Introduction to the recruitment pack. 
-2. Self-assessment checklist - designed to help you think about how you want to involve community members in your research. 
+1. Introduction to the recruitment pack.
+2. Self-assessment checklist - designed to help you think about how you want to involve community members in your research.
 3. Recruitment advert - a template you can use to create your own advert to recruit community advisors.
-4. Application form - a template you can use to design the online form for potential community partners to express interest in joining your study. 
+4. Application form - a template you can use to design the online form for potential community partners to express interest in joining your study.
 
 [https://drive.google.com/drive/folders/1EVeUTF01szrbgmtQ6PpsoWEbu2dy58Sn](https://drive.google.com/drive/folders/1EVeUTF01szrbgmtQ6PpsoWEbu2dy58Sn "https://drive.google.com/drive/folders/1EVeUTF01szrbgmtQ6PpsoWEbu2dy58Sn")
 
