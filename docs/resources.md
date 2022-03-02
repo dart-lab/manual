@@ -46,8 +46,8 @@ obviously it's safest to give a bit more notice._
 
 _There is_ [_information about the service at this
 page_](https://www.accom.ed.ac.uk/for-staff/delivered-catering/)_ and an
-online _[_order form at this
-page_](https://www.catering.accom.ed.ac.uk/KxWebCatering/CurrentBookings.aspx)_.
+online [_order form at this
+page_](https://www.catering.accom.ed.ac.uk/KxWebCatering/CurrentBookings.aspx).
 When you check out from the system there is a box for "Account Notes".
 This is a good place to list the cost centre and job code which you want
 billed for the catering \[see Expenses chapter for details on these
@@ -55,9 +55,9 @@ terms\]. In Psychiatry the "person to be billed" and the "authorised by"
 will normally both be Ken O'Neill._
 
 _If those links don't work for you, the best way to access the online
-catering form is to _[_log in to MyEd_](https://www.myed.ed.ac.uk/)_ and
+catering form is to _[_log in to MyEd_](https://www.myed.ed.ac.uk/) and
 select Catering from the menu on the left hand side, or from the
-Services tab at the top of the page._
+Services tab at the top of the page.
 
 _If you have queries about online delivered catering you can email_
 [_accomoldcollege@ed.ac.uk_](mailto:accomoldcollege@ed.ac.uk) _or call 0131 667 1971_
@@ -135,52 +135,16 @@ _By Maggi Laurie_
 See register of assessments and measures, which contains register for
 'iPads' and a section on digital toys under 'Toys and Games.'
 
-## Logins for online services: Infogram, Survey Monkey etc.
+## Online services: Infogram, Qualtrics etc.
 
 _By Sue Fletcher-Watson_
 
-The following passwords are for members of the DART group only. If in
-doubt, check with Sue before sharing.
+We have accounts with the following services, for members of the DART group only. Log-in details are available in the DART Teams account (Admin & Resources > Notebook)
 
-1. We have an account with Infogram which is an online service for
-   producing stylish infographics, recruitment flyers and so on.
-
-Please keep this account tidy by creating your own folder and keeping
-your infographics in your named folder.
-
-Link: \[Infogram.com\]{.underline}
-
-Username
-: [catherine.crompton@ed.ac.uk](mailto:Catherine.crompton@ed.ac.uk)
-
-Password:D&RTinfogram!2017
-
-1. We have an account with Survey Monkey which is an online survey
-   platform, best for surveys:
-
-Link: [https://www.surveymonkey.com/dashboard/](https://www.surveymonkey.com/dashboard/)
-
-Username: PatrickWildSurveys
-
-Password: orangemile2
-
-1. We have an account with Qualtrics which is an online survey
-   platform, best for questionnaires:
-
-Link: [qualtrics.com](http://qualtrics.com)
-
-Username:
-[sue.Fletcher-Watson@ed.ac.uk](mailto:Sue.Fletcher-Watson@ed.ac.uk)
-
-Password: dark-night15
-
-1. We have a youtube account for DART videos
-
-> Link: youtube.com
->
-> Username: [dart@ed.ac.uk](mailto:dart@ed.ac.uk)
->
-> Password: HeyIt'sTheD&RTLaB!6591
+1. We have an account with [Infogram](https://infogram.com/login) which is an online service for producing stylish infographics, recruitment flyers and so on. Please keep this account tidy by creating your own folder and keeping your infographics in your named folder.
+2. We have an account with [Survey Monkey](https://www.surveymonkey.com/) which is an online survey platform - our account is now unpaid so this is only good for quick, short surveys.
+3. We have an account with [Qualtrics](https://www.qualtrics.com/uk/) which is an online survey platform, best for questionnaires. If you are using a survey to collect research data, talk to Sue FW about creating your own independent Qualtrics log-in. 
+4. We have a [YouTube](https://www.youtube.com/channel/UCPORsrJRCt1okyUF6csA3Dg) account. 
 
 ## Video Camera Protocol (aka don't be a jerk)
 
