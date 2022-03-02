@@ -75,50 +75,31 @@ email [_accomoldcollege@ed.ac.uk_](mailto:accomoldcollege@ed.ac.uk) _to request 
 sites](https://blog.hootsuite.com/20-free-stock-photo-sites-social-media-images/?utm_source=twitter&utm_medium=owned_social&utm_campaign=social_hootsuite)
 which provide free-to-use photos for websites, tweets etc:
 
-## A register of assessments available to the DART group
+## Data collection tools available to use
 
 _By Maggi Laurie_
 
-Please refer to the spreadsheet 'DART measures and resources' for
-content and information (Dropbox > DART Group > Lab manual content).
-This is currently in a 'work-in-progress' state which needs updating by
-lab members who are using/have purchased measures within their projects.
+You can find a list of data collection tools available to DART members [on Teams here](https://uoe.sharepoint.com/:x:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/DART%20measures%20and%20resources.xlsx?d=wec6e392d137147bbbd7b79a59d17692c&csf=1&web=1&e=QmqtSz). 
 
-There are four tabs: Measures, Assessments, Toys and Games and iPads. In
-Measures, you will find mostly paper questionnaires and assessments
-which are self/parent-report -- i.e. they do not _directly_
-measure/observe a phenomenon -- these items live in the Assessments tab.
-You will see information about the item, when it was published, where we
-have a manual available (Y = yes, N = no), where that manual/toolkit is
-available from/stored at DART. You will also see what project the item
-was purchased for, when it was purchased, and the rough age group that
-the instrument is intended for (grouped as infant, child, adult). The
-tab 'On loan/in use' will specify if the instrument is currently being
-used for a project -- which means that someone might be able to assist
-with sourcing and purchasing, and there may be spare booklets somewhere
-for you to have a look and see whether you do want to use that item.
-Also check the notes tab to see if items may be available to loan from
-other places (e.g. PPLS) if they are in regular use for a project. In
-Toys and Games, there are three categories: digital toys (separate from
-iPads), toys associated with assessments (e.g. toys from the ADOS kit
-which can assess symbolic play), and participant tokens (including
-fidgets and participant gifts).
+There are four tabs: Measures, Assessments, Toys and Games and iPads. 
 
-Note that for most items, we may have the manual available, but
-additional forms and booklets may need to be purchased for your project.
-It is your responsibility to check the content is complete before
-commencing your project -- you many need to order extra report forms or
-check games / batteries etc. Please also schedule time at the end of
-your data collection period to clean, and neatly store the kit. It is
-also important to check the version number/publication date, and
-cross-reference online to see if a newer version of a measure or
-assessment exists, e.g. ADOS-G vs. ADOS-2.
+In **Measures**, you will find mostly paper questionnaires and assessments which are self/parent-report. Tools that _directly_ measure/observe a phenomenon, such as an IQ test, live in the **Assessments** tab. 
 
-## A register of technology available to the DART group
+For both kinds, you will see information about the item, when it was published, where we have a manual available (Y = yes, N = no), where that manual/toolkit is available from/stored at DART. You will also see what project the item was purchased for, when it was purchased, and the rough age group that the instrument is intended for (grouped as infant, child, adult). The column 'On loan/in use' will specify if the instrument is currently being used for a project -- which means that someone might be able to assist with sourcing and purchasing, and there may be spare booklets somewhere for you to have a look and see whether you do want to use that item. Also check the notes column to see if items may be available to loan from other places (e.g. PPLS) if they are in regular use for a project. 
+
+In **Experiment Battery** there are details of experimental tasks that lack the standardisation of materials listed under Assessments. Examples might include a perspective-taking task or working memory task like the N-back assessment.
+
+Note that for most items, we may have the manual available, but additional forms and booklets may need to be purchased for your project. It is your responsibility to check the content is complete before commencing your project -- you many need to order extra report forms or check games / batteries etc. Please also schedule time at the end of your data collection period to clean, and neatly store the kit. It is also important to check the version number/publication date, and cross-reference online to see if a newer version of a measure or assessment exists, e.g. ADOS-G vs. ADOS-2.
+
+## Toys & technology available to use
 
 _By Maggi Laurie_
 
-See register of assessments and measures, which contains register for
+You can find a list of data collection tools available to DART members [on Teams here](https://uoe.sharepoint.com/:x:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/DART%20measures%20and%20resources.xlsx?d=wec6e392d137147bbbd7b79a59d17692c&csf=1&web=1&e=QmqtSz).  
+
+In **Toys and Games**, there are three categories: digital toys (separate from iPads), toys associated with assessments (e.g. toys from the ADOS kit which can assess symbolic play), and participant tokens (including fidgets and participant gifts).
+
+register of assessments and measures, which contains register for
 'iPads' and a section on digital toys under 'Toys and Games.'
 
 ## Online services: Infogram, Qualtrics etc.
