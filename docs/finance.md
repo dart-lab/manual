@@ -142,8 +142,7 @@ to invoice the University.
 
 You can [access eExpenses here](https://www.expenses.finance.ed.ac.uk/).
 
-To use eExpenses, you need to register first -- ask Ken O'Neill or your
-local finance administrator for a registration form.
+To use eExpenses, you need to register first -- ask Sue Davidson or your local finance administrator for a registration form.
 
 When using eExpenses, the approximate step-by-step process is as
 follows:
@@ -201,8 +200,7 @@ card statement with the actual payment listed. You can claim for the
 cost of the item and any bank fees associated with the transaction --
 just add these up and put them through as a single claim item.
 
-\* _noting of course that we should aim to book travel and accommodation
-through Key Travel!_
+\* _noting of course that we should aim to book travel and accommodation through Diversity Travel (see section lower down this page)!_
 
 ## Definitions of UoE expenses terminology and systems
 
@@ -439,11 +437,11 @@ subsistence payment for each meeting they attend.
 
 ### Diversity Travel
 
-The UoE has a new (in 2022) travel contract with [Diversity Travel](https://www.diversitytravel.com/uk/what-we-do/). You can book travel direct through them and it will be charged onto a grant job code, which means you are never out of pocket. You can ask them to search for journeys for you, or you can tell them the specific flights / hotels etc that you want. You can also give them a budget limit, if you only have a specific amount of funding available. There is an [online booking tool at this link](https://idp.diversitytravel.com/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Did_token%2520token%26client_id%3Dgatewaysystem%26state%3DUCONDxsvkByc5EoUAZZuGRVjQKiYBK_X5O7S1Vg587kxH%26redirect_uri%3Dhttps%253A%252F%252Fgateway.diversitytravel.com%252Fhome%26scope%3Dopenid%2520profile%2520offline_access%2520gatewayapi%26nonce%3DUCONDxsvkByc5EoUAZZuGRVjQKiYBK_X5O7S1Vg587kxH). 
+The UoE has a new (in 2022) travel contract with [Diversity Travel](https://www.diversitytravel.com/uk/what-we-do/). You can book travel direct through them and it will be charged onto a grant job code, which means you are never out of pocket. You can ask them to search for journeys for you, or you can tell them the specific flights / hotels etc that you want. You can also give them a budget limit, if you only have a specific amount of funding available. There is an [online booking tool at this link](https://idp.diversitytravel.com/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Did_token%2520token%26client_id%3Dgatewaysystem%26state%3DUCONDxsvkByc5EoUAZZuGRVjQKiYBK_X5O7S1Vg587kxH%26redirect_uri%3Dhttps%253A%252F%252Fgateway.diversitytravel.com%252Fhome%26scope%3Dopenid%2520profile%2520offline_access%2520gatewayapi%26nonce%3DUCONDxsvkByc5EoUAZZuGRVjQKiYBK_X5O7S1Vg587kxH).
 
 ### Booking your own travel
 
-You can also book your own travel and claim it back. This is not the University's recommended or preferred option, and it can also mean you may be out of pocket for a period of time while you wait for your expense claim to be paid. But it is still allowed and sometimes it may be the right option for you. 
+You can also book your own travel and claim it back. This is not the University's recommended or preferred option, and it can also mean you may be out of pocket for a period of time while you wait for your expense claim to be paid. But it is still allowed and sometimes it may be the right option for you.
 
 ### Booking AirBnBs
 
