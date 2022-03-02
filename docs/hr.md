@@ -153,29 +153,23 @@ contacts for this will be Sue Davidson or Dorothy Air (CCBS HR Officer).
 15. For the successful person, you can offer the job directly by phone. Make sure you clarify that this is '_subject to references_' if they haven't already been received. Once all references are in, you need to get their contract issued so keep an eye on this with HR.
 16. The final stage is to think about induction -- what are they going to do in their first days / weeks in post? What resources and training do they need? Who do they need to meet?
 
-\* _as a rule of thumb, undergrad degree = UE05, masters degree = UE06,
-PhD = UE07, postdoc with a few years' experience / lecturer = UE08,
-senior lecturer / reader = UE09, professor = UE10. Remember that
-experience in a relevant role is often better than a degree though!_
+\* _as a rule of thumb, undergrad degree = UE05, masters degree = UE06, PhD = UE07, postdoc with a few years' experience / lecturer = UE08, senior lecturer / reader = UE09, professor = UE10. Remember that experience in a relevant role is often better than a degree though!_
 
-In summary, here is a **timeline for recruitment**, assuming you don't
-find anyone on the talent register -- if you do it'll take longer:
+In summary, here is a **timeline for recruitment**, assuming you don't find anyone on the talent register -- if you do it'll be quicker if you hire them, slower if you interview but don't hire them:
 
-1. Draft and agree the job description with your team: +1 weeks
-2. Job grading completed: +5 weeks
-3. Talent register checked: +1 week
-4. Job advert posted on UoE Vacancies site: +2 weeks
-5. Application closes: + 2 weeks minimum, + 4 weeks normally. _You
-   can't recruit outside the EU unless you advertise for 4 weeks or
-   more._
-6. Long-listing candidates: + 1 weeks
-7. Discuss shortlist for interview with your panel: +1 week
-8. Send interview invitations: +1 week
-9. Interviews: +2 weeks
+ 1. Draft and agree the job description with your team: +1 weeks
+ 2. Job grading completed / simultaneously confirm job code: +6 weeks
+ 3. Deanery approval process: +3 weeks
+ 4. Talent register checked: +1 week
+ 5. Job advert posted on UoE Vacancies site: +1 week
+ 6. Application closes: + 2 weeks minimum, + 4 weeks normally. _You can't recruit outside the EU unless you advertise for 4 weeks or more._
+ 7. Long-listing candidates: + 1 weeks
+ 8. Discuss shortlist for interview with your panel: +1 week
+ 9. Send interview invitations: +1 week
+10. Interviews: +2 weeks
+11. Appointing a candidate, getting their contract sorted before their start date: +4 weeks
 
-In other words, recruiting someone will normally take about four months.
-If you expedite every stage you might get this down to 3 months, but
-rarely less than that.
+In other words, recruiting someone will normally take about four months, plus an extra month before the successful person can start, They may need longer if they have a notice period they need to complete. If you expedite every stage you might get this down to 3 months, but rarely less than that.
 
 ## Recruiting staff who need a visa
 
