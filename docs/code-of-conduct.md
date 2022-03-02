@@ -6,7 +6,7 @@ title: The DART Code of Conduct
 
 ## _happiness at work and excellence in research_
 
-### 1. **Kindness** :v:
+### 1. Kindness :v:
 
 _At the DART lab we value camaraderie. We are generous to each other, and to everyone we encounter in our work. We take good care of our shared spaces and resources. We are forgiving._ 
 
