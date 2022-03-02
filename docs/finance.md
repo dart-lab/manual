@@ -72,12 +72,12 @@ specified in the donation agreement.
 
 This will normally be Sue FW
 
-1. **Submit your request to your \[single contact person\]{.underline}**
+* **Submit your request to your \[single contact person\]{.underline}**
 
 Please don't copy in other people who might be able to help. This can
 cause confusion over responsibilities and often slows things up.
 
-1. **Please be patient -- wait at least 3 days before following up**
+* **Please be patient -- wait at least 3 days before following up**
 
 ## Specific transaction types within CCBS
 
