@@ -1,5 +1,5 @@
 ---
-title: Finance
+title: Finance, Expenses, Purchasing, Claims, Salaries
 
 ---
 # Finance
