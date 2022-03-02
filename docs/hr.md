@@ -46,7 +46,7 @@ The University has published new guidance on working outside the UK, available h
 
 The University now has a Working Abroad team who can provide a list of the requirements for each project. The PI needs to engage with the Working Abroad team as early as they can. Working abroad plans should be considered at the grant writing stage as staff working abroad can come with increased costs and tax liabilities. Sometimes the funders will cover these costs.
 
- This is a [checklist for managers](https://www.ed.ac.uk/human-resources/working-abroad/guidance-for-managers/approval-process) who are being asked to approve a request to work abroad. 
+This is a [checklist for managers](https://www.ed.ac.uk/human-resources/working-abroad/guidance-for-managers/approval-process) who are being asked to approve a request to work abroad.
 
 ## The Voucher Reward Scheme
 
@@ -136,36 +136,23 @@ _By Sue FW_
 Here's a basic step by step outline of how to hire someone at UoE. Your
 contacts for this will be Sue Davidson or Dorothy Air (CCBS HR Officer).
 
- 1. Make sure you have done your [Equality &
-    Diversity](https://www.ed.ac.uk/equality-diversity/help-advice/training-resources)
-    and [Unconscious
-    Bias](https://www.edweb.ed.ac.uk/human-resources/learning-development/courses/other-courses/elearning/overcoming-unconscious-bias)
-    training.
- 2. Draft a job description using the [HR
-    template](https://www.ed.ac.uk/files/atoms/files/job_description_template.docx)
-    and agree it with anyone else involved in hiring. This is an
-    important part of the process -- if your JD is too narrow you might
-    not get a range of applicants to choose from. If it is too broad you
-    will be swamped with ineligible applicants. Make sure it reflects
-    the _things they will actually be doing_ and the _skills and level
-    of independence they need._ Think carefully about whether
-    qualifications or experience are more important to you -- and what
-    kinds.
- 3. Send your job description to HR for grading \[allow 4-6 weeks\]
- 4. Think about who you want to be on the interview panel, and agree an
-    approximate date for the interviews -- the timeline below might
-    help. Keep an eye on this as it can shift and you need to have your
-    interview date agreed well in advance.
- 5. When the grading is completed, check it matches your vision for the
+ 1. Get some funding to hire a new employee
+ 2. Make sure you have done your [Equality & Diversity](https://www.ed.ac.uk/equality-diversity/help-advice/training-resources) and [Unconscious Bias](https://www.edweb.ed.ac.uk/human-resources/learning-development/courses/other-courses/elearning/overcoming-unconscious-bias) training.
+ 3. Draft a job description using the [HR template](https://www.ed.ac.uk/files/atoms/files/job_description_template.docx) and agree it with anyone else involved in hiring. This is an important part of the process -- if your JD is too narrow you might not get a range of applicants to choose from. If it is too broad you will be swamped with ineligible applicants. Make sure it reflects the _things they will actually be doing_ and the _skills and level of independence they need._ Think carefully about whether qualifications or experience are more important to you -- and what kinds.
+ 4. Send your job description to HR for grading \[allow 6 weeks\]
+ 5. While the job is being graded, make sure you have the funding source in place: you need to have a job code from which the person's salary will be paid, and there needs to be enough budget associated with that job code to cover their whole salary. \[allow 1 month\]
+ 6. Once the job comes back from being graded, you need to send it, with the financial information supporting the salary, to the Deanery committee for approval. They will sign off to say you can hire this person, based on the job description and the available funds. They meet every two weeks. \[allow 2-3 weeks\]
+ 7. Think about who you want to be on the interview panel, and agree an approximate date for the interviews -- the timeline below might help. Keep an eye on this as it can shift and you need to have your interview date agreed well in advance.
+ 8. When the grading is completed, check it matches your vision for the
     post, and your budget! If not, you can adjust the JD and send for
     re-grading*.
- 6. [Check the talent
+ 9. [Check the talent
     register](https://www.edweb.ed.ac.uk/human-resources/recruitment/talent-register/recruiters)
     to see if there's someone already at UoE who could do the job you
     are advertising. If you spot someone, you can request their CV and
     if they meet the essential criteria for the job you
     \[must\]{.underline} interview them before advertising your post.
- 7. Assuming there's no-one on the Talent Register, you can then request
+10. Assuming there's no-one on the Talent Register, you can then request
     for your job to be posted on the UoE Vacancies site. You will need
     to know: the Cost Centre and Job Code which is paying the salary;
     the full-time equivalent hours for the role; the duration of the
@@ -173,24 +160,24 @@ contacts for this will be Sue Davidson or Dorothy Air (CCBS HR Officer).
     advert should be based on the job description but also include an
     **estimated interview date.** There's a template job advert in the
     DART Resources folder.
- 8. When the job closes you will need to select candidates for
+11. When the job closes you will need to select candidates for
     interview, usually by making a long-list and then agreeing a
     shortlist with other panel members. Here is the [HR guidance on
     shortlisting](https://www.edweb.ed.ac.uk/human-resources/recruitment/recruiters-guide/shortlisting/shortlisting-process).
     Make it as quantitative and transparent as possible.
- 9. Then ask the HR representative to invite them to interview,
+12. Then ask the HR representative to invite them to interview,
     including information about anything you want them to prepare in
     advance. Here is the [HR guidance on
     interviewing](https://www.edweb.ed.ac.uk/human-resources/recruitment/recruiters-guide/shortlisting/interviewing).
     Make sure the room is accessible.
-10. After the interviews, HR will ask to collect in your notes and
+13. After the interviews, HR will ask to collect in your notes and
     ratings, and they will inform the unsuccessful candidates. It's nice
     to offer feedback if anyone gets in touch.
-11. For the successful person, you can offer the job directly by phone.
+14. For the successful person, you can offer the job directly by phone.
     Make sure you clarify that this is 'subject to references' if they
     haven't already been received. Once all references are in, you need
     to get their contract issued so keep an eye on this with HR.
-12. The final stage is to think about induction -- what are they going
+15. The final stage is to think about induction -- what are they going
     to do in their first days / weeks in post? What resources and
     training do they need? Who do they need to meet?
 
