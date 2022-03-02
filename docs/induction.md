@@ -109,6 +109,8 @@ The University supports hybrid working and in the wake of Covid-19 they have cre
 
 Hybrid working is a mix of on campus and off campus working and is not constrained by one specific location, for example an office or home workplace.
 
+If you want a hybrid working model you should discuss this with your live manager. 
+
 ## How to request annual leave
 
 \[needs updating with info about People & Money\]
