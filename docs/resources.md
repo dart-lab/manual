@@ -18,19 +18,9 @@ There's also a dropbox fold with logos for the Salvesen Mindroom Research Centre
 
 _By Sue Fletcher-Watson_
 
-[This page has template
-letters](https://www.ed.ac.uk/clinical-brain-sciences/templates),
-powerpoint slides and posters for anyone working within CCBS.
+[This page has template letters](https://www.ed.ac.uk/clinical-brain-sciences/templates), powerpoint slides and posters for anyone working within CCBS.
 
-We have our own SMRC letterhead, which is available in this dropbox
-folder with the logos:
-
-[https://www.dropbox.com/sh/p5num4xbjnu9jau/AAA7TV--4CtZtFJSC6KzNE6ha?dl=0](https://www.dropbox.com/sh/p5num4xbjnu9jau/AAA7TV--4CtZtFJSC6KzNE6ha?dl=0)
-
-There is also a Patrick Wild Centre letter head available in dropbox
-here:
-
-[https://www.dropbox.com/s/v9zr52gtsn5stpe/PWC letterhead.docx?dl=0](https://www.dropbox.com/s/v9zr52gtsn5stpe/PWC%20letterhead.docx?dl=0)
+We have our own SMRC letterhead, which is available in [this Teams folder](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=pBU7Id) with the logos. 
 
 ## Ordering catering
 
