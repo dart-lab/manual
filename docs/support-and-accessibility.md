@@ -51,9 +51,9 @@ _Speak to someone_
 
 This includes support and guidance for anyone seeking help with mental health issues.
 
-The [Advice Place](https://eusa.ed.ac.uk/adviceplace) is an independent and confidential advisory service for students on health and wellbeing, accommodation, finances and other related issues. They are part of the Edinburgh University Students’ Association, and they can be contacted online, by phone or in person at Potterrow and King’s Buildings House.
+The [Advice Place](https://eusa.ed.ac.uk/adviceplace) is an independent and confidential advisory service for students on health and wellbeing, accommodation, finances and other related issues. They are part of the [Edinburgh University Students’ Association](https://www.eusa.ed.ac.uk/), and they can be contacted online, by phone or in person at Potterrow and King’s Buildings House.
 
-The University provides Counselling Services for [students](https://www.ed.ac.uk/student-counselling) and [staff](https://www.ed.ac.uk/counselling-services/staff) to support with work-related or personal issues. The [Chaplaincy](https://www.ed.ac.uk/chaplaincy) is another safe and open service to all students and staff that offers [Multifaith and Belief](https://www.ed.ac.uk/chaplaincy/multifaith-and-belief-spirituality "https://www.ed.ac.uk/chaplaincy/multifaith-and-belief-spirituality") provision, a [Listening Service](https://www.ed.ac.uk/chaplaincy/the-listening-service "https://www.ed.ac.uk/chaplaincy/the-listening-service"), [Events](https://www.ed.ac.uk/chaplaincy/events) and a [Mindfulness](https://www.ed.ac.uk/chaplaincy/mindfulness "https://www.ed.ac.uk/chaplaincy/mindfulness") programme.
+The University provides Counselling Services for [students](https://www.ed.ac.uk/student-counselling) and [staff](https://www.ed.ac.uk/counselling-services/staff) to support with work-related or personal issues. The [Chaplaincy](https://www.ed.ac.uk/chaplaincy) is another safe and open service that offers [Multifaith and Belief](https://www.ed.ac.uk/chaplaincy/multifaith-and-belief-spirituality "https://www.ed.ac.uk/chaplaincy/multifaith-and-belief-spirituality") provision, a [Listening service](https://www.ed.ac.uk/chaplaincy/the-listening-service "https://www.ed.ac.uk/chaplaincy/the-listening-service"), [events](https://www.ed.ac.uk/chaplaincy/events) and a [Mindfulness](https://www.ed.ac.uk/chaplaincy/mindfulness "https://www.ed.ac.uk/chaplaincy/mindfulness") programme.
 
 _Self-help_
 
@@ -65,7 +65,7 @@ These [services](https://www.ed.ac.uk/counselling-services/crisis-support), [org
 
 **Report and support**
 
-[Repport + Support](https://reportandsupport.ed.ac.uk/) offers a place to report incidents of sexual violence, harassment, domestic abuse, and stalking. Access via VPN from off campus networks is recommended, and both anonymous and named reports are accepted. Reporting here does not automatically trigger a complaint or conduct investigation, but these options will be discussed when appropriate.
+[Repport + Support](https://reportandsupport.ed.ac.uk/) offers a place to report incidents of sexual violence, harassment, domestic abuse, and stalking. Access via VPN from off campus networks is recommended, and both anonymous and named reports are accepted. Reporting here does not automatically trigger a complaint or conduct investigation, but these options will be discussed if appropriate.
 
 **Worried about someone?**
 
