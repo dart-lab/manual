@@ -71,7 +71,7 @@ These [services](https://www.ed.ac.uk/counselling-services/crisis-support), [org
 
 The University provides [support and guidance](https://www.ed.ac.uk/staff/supporting-students/student-mental-health) for staff who are concerned about a student's mental health. There are also [resources](https://www.ed.ac.uk/students/health-wellbeing/worried-about-someone) for students concerned about another student, a friend, or a flatmate.
 
-**Other sources of support: EDI groups and networks**
+**EDI groups and networks**
 
 Equality, Diversity and Inclusion (EDI) Groups give people the opportunity to share experiences and challenges, seek help and support from their peers. Some of these groups are:
 
