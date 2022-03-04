@@ -79,7 +79,7 @@ Equality, Diversity and Inclusion (EDI) Groups give people the opportunity to sh
 
 · The [Staff Pride Network](https://www.ed.ac.uk/equality-diversity/edi-groups/staffpride-network) for LGBT+ colleagues and allies.
 
-· The [Disabled Staff Network](https://www.ed.ac.uk/equality-diversity/edi-groups/disabled-staff-network) for all disabled staff and carers.
+· The [Disabled Staff Network](https://www.ed.ac.uk/equality-diversity/edi-groups/disabled-staff-network) for staff with disabilities and carers.
 
 · The [Edinburgh Race Equality Network](https://www.ed.ac.uk/equality-diversity/edi-groups/race-equality-network) for Black, Asian and Minority Ethnic staff and allies committed to creating an environment where race is celebrated and everyone is treated fairly.
 
