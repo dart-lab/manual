@@ -31,7 +31,7 @@ There are several services to support physical and mental wellbeing available at
 
 **Health services**
 
-[The Student Health services](https://www.ed.ac.uk/students/health-wellbeing/health-services) include health care, free sexual health services and access to free period products. If you are a student, make sure you register with a nearby doctor.
+[The Student Health services](https://www.ed.ac.uk/students/health-wellbeing/health-services) include health care, free sexual health services and access to free period products. 
 
 The University's [Occupational Health Service](https://www.ed.ac.uk/health-safety/occupational-health) can provide advice on health related issues that may affect staff at work (both self-referrals and referrals from managers are accepted).
 
