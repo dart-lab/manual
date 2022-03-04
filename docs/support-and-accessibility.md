@@ -81,7 +81,7 @@ Equality, Diversity and Inclusion (EDI) Groups give people the opportunity to sh
 
 · The [Disabled Staff Network](https://www.ed.ac.uk/equality-diversity/edi-groups/disabled-staff-network) for staff with disabilities, restrictive health conditions and caring responsibilities.
 
-· The [Edinburgh Race Equality Network](https://www.ed.ac.uk/equality-diversity/edi-groups/race-equality-network) for Black, Asian and Minority Ethnic staff and allies committed to create an environment where race is celebrated and everyone is treated fairly.
+· The [Edinburgh Race Equality Network (EREN)](https://www.ed.ac.uk/equality-diversity/edi-groups/race-equality-network) for Black, Asian and Minority Ethnic staff and allies committed to create an environment where race is celebrated and everyone is treated fairly.
 
 · The [Autistic Peers & Allies group](https://uoe.sharepoint.com/sites/AutisticPeersAllies) for autistic staff, autistic students and allies.
 
