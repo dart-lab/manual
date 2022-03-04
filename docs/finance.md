@@ -19,7 +19,7 @@ or emailing [finance.helpline@ed.ac.uk](mailto:finance.helpline@ed.ac.uk)
 
 _by Sue FW_
 
-* Use these pages to get an overview of financial systems within CCBS: 
+* Use these pages to get an overview of financial systems within CCBS:
 
 [CCBS information for everyone. ](https://www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone)
 
@@ -148,7 +148,7 @@ to invoice the University.
 
 You can [access eExpenses here](https://www.expenses.finance.ed.ac.uk/).
 
-And you can [use this form](https://www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone/request-access-to-ccbs-finance-codes) to get access to a new job code. 
+And you can [use this form](https://www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone/request-access-to-ccbs-finance-codes) to get access to a new job code.
 
 To use eExpenses, you need to register first -- ask Sue Davidson or your local finance administrator for a registration form.
 
@@ -209,6 +209,38 @@ cost of the item and any bank fees associated with the transaction --
 just add these up and put them through as a single claim item.
 
 \* _noting of course that we should aim to book travel and accommodation through Diversity Travel (see section lower down this page)!_
+
+## Travel expenses and booking conference or work travel
+
+_By Catherine_
+
+1. The University's [Sustainable Travel Policy](https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021 "https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021")
+2. We're using a new travel management company - [Diversity Travel](https://www.diversitytravel.com/uk/ "https://www.diversitytravel.com/uk/") - to book travel and accommodation for University business.
+
+From 1 March 2022, the new travel booking system can be accessed via Diversity Travel:
+
+[Log in to Diversity Travel](https://idp.diversitytravel.com/account/login "https://idp.diversitytravel.com/account/login")
+
+On this date, all staff who have previously booked travel either for themselves or on behalf of others will receive an email from Diversity Travel giving them access to the new system.
+
+The policy also supports staff wellbeing by encouraging us to only undertake necessary travel, and promotes inclusion via an “exceptions” mechanism to ensure that no-one with caring responsibilities, disabilities, or other exceptional circumstances is negatively affected by the policy change. Policy headlines include:
+
+* reducing the overall number of journeys in favour of virtual collaboration tools
+* if travel is necessary, favouring low carbon transport options
+* a presumption against air travel within mainland Great Britain
+* the default class for air travel is economy, with premium tickets reserved for disability or for other health-related reasons
+
+**Can I pay for travel myself and then expense it back?**
+
+Public transport fares and taxis may be refunded via expenses for short and infrequent journeys. You can also claim back incidental expenses incurred while travelling via expenses.
+
+**Flights and accommodation cannot be expensed; please pre-book these.**
+
+The University will not reimburse the cost of ordinary commuting or private travel.
+
+Find out more by reading the University’s Expenses Policy.
+
+**Further advice and FAQs** [Booking travel: FAQs | The University of Edinburgh](https://www.ed.ac.uk/staff/business-travel/booking-travel/faqs "https://www.ed.ac.uk/staff/business-travel/booking-travel/faqs")
 
 ## Definitions of UoE expenses terminology and systems
 
