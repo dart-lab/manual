@@ -45,8 +45,6 @@ This is [a more general post of advice](http://dart.ed.ac.uk/dos-and-donts-super
 
 > "Some people with autism have difficulty processing intense, multiple sensory experiences at once. [This animation](https://vimeo.com/52193530) gives the viewer a glimpse into sensory overload, and how often our sensory experiences intertwine in everyday life."
 
-* NAS film - [a basic introduction to autism](https://www.youtube.com/embed/3gZjDxt8Zrg), narrated by an autistic person
-
 ### Public Engagement and Science Communication
 
 * Advice on [how to read news articles about health issues](https://www.nhs.uk/news/Pages/Howtoreadarticlesabouthealthandhealthcare.aspx)
