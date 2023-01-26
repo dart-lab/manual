@@ -2,6 +2,63 @@
 title: Community & Outreach
 
 ---
+# Research Dissemination
+
+## Conferences
+
+_by Mihaela Dragomir & Bérengère Digard_
+
+### Autism
+
+* [INSAR](https://www.autism-insar.org/)
+* [Autistica](https://www.autistica.org.uk/get-involved/research-conference)
+* [Autism Europe](http://www.autismeurope-congress2019.com/en/)
+
+### Bilingualism
+
+* [Polyglot Conference](http://polyglotconference.com/)
+* [International Symposium on Bilingualism](http://sites.psych.ualberta.ca/ISB12/)
+* [Boston University Conference on Language Development](https://www.bu.edu/bucld/conference-info/schedule/)
+
+### Children & Learning
+
+* [FLUX](https://fluxsociety.org/)
+* ICIS
+
+### Human-Computer Interaction (HCI)
+
+**See also:** [**Conferences Calendar**](https://sigchi.org/conferences/calendar/)
+
+* [Interaction Design for Children (IDC)](http://idc-2018.org/)
+* [Human Factors in Computing System (CHI)](http://chi2019.acm.org/)
+* [CHIPlay](https://chiplay.acm.org/2018/)
+* [Computer Supported Cooperative Work (CSCW)](https://cscw.acm.org/2018/)
+* [Designing Interactive Systems (DIS)](http://dis2018.org/)
+* [ASSETS](https://assets18.sigaccess.org/)
+* [INTERACT](http://interact2019.org/)
+
+## Regular talks & seminar series
+
+* [Participatory autism research collective](https://participatoryautismresearch.wordpress.com/category/events/)
+* [KCL ARCH seminars](https://twitter.us19.list-manage.com/subscribe?u=c5c8d2134955dc7dbe09ae0b1&id=c273087409)
+
+## Getting your papers made available to everyone
+
+_by Sue FW_
+
+Our Centre has a dedicated office who will take newly-accepted papers and make sure a copy is posted up online for anyone to access. Simply email [ccbs-openaccess@ed.ac.uk](mailto:ccbs-openaccess@ed.ac.uk) with your acceptance email from the journal.
+
+* Make sure that the email contains the date of acceptance
+* Attach the final version of the manuscript that you submitted -- this should have author details (i.e. include the title page in the document) but should not have any journal formatting. It needs to be YOUR copy.
+* Make sure the manuscript includes acknowledgements for any funding that supported the work
+* Add a note if you think the research deserves media attention -- if so, summarise the finding and the implications
+
+## Poster printing
+
+_by Catherine Crompton_
+
+Teviot Print Shop (based in the entrance hallway of Teviot Student Union) do very reasonable poster printing, with fairly quick turnaround. If you want a cheap fabric poster so you don't have to wrestle a poster tube on to the plane, they charge for £35 for an A0 fabric poster.
+
 # Community & Outreach
 
 ## Working with a study advisory board
@@ -68,46 +125,6 @@ We have prepared a [Community Partner Recruitment Pack](https://drive.google.com
 2. Self-assessment checklist - designed to help you think about how you want to involve community members in your research.
 3. Recruitment advert - a template you can use to create your own advert to recruit community advisors.
 4. Application form - a template you can use to design the online form for potential community partners to express interest in joining your study.
-
-## A list of relevant conferences and their deadlines
-
-_by Mihaela Dragomir & Bérengère Digard_
-
-### HUMAN-COMPUTER INTERACTION - see [ConferencesCalendar](https://sigchi.org/conferences/calendar/)
-
-* [Interaction Design for Children (IDC)](http://idc-2018.org/)
-* [Human Factors in Computing System (CHI)](http://chi2019.acm.org/)
-* [CHIPlay](https://chiplay.acm.org/2018/)
-* [Computer Supported Cooperative Work (CSCW)](https://cscw.acm.org/2018/)
-* [Designing Interactive Systems (DIS)](http://dis2018.org/)
-* [ASSETS](https://assets18.sigaccess.org/)
-* [INTERACT](http://interact2019.org/)
-
-### BILINGUALISM
-
-* [Polyglot Conference](http://polyglotconference.com/)
-* [International Symposium on Bilingualism](http://sites.psych.ualberta.ca/ISB12/)
-* [Boston University Conference on Language Development](https://www.bu.edu/bucld/conference-info/schedule/)
-
-### NEURODIVERSITY
-
-* [INSAR](https://www.autism-insar.org/)
-* [Autistica](https://www.autistica.org.uk/get-involved/research-conference)
-* [AutismEurope](http://www.autismeurope-congress2019.com/en/)
-
-### CHILDREN & LEARNING
-
-* [FLUX](https://fluxsociety.org/)
-* ICIS
-
-## Poster printing
-
-_by Catherine Crompton_
-
-Teviot Print Shop (based in the entrance hallway of Teviot Student
-Union) do very reasonable poster printing, with fairly quick turnaround.
-If you want a cheap fabric poster so you don't have to wrestle a poster
-tube on to the plane, they charge for £35 for an A0 fabric poster.
 
 ## Room booking for community partners
 
