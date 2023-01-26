@@ -1,5 +1,5 @@
 ---
-title: Funding, Grants, & Reporting
+title: Funding & Grants
 
 ---
 # Funding
@@ -76,6 +76,8 @@ This section needs updating but for now [_here's a useful list of postdoctoral f
 
 \[needs content\]
 
+# Grant Applications
+
 ## How to create a grant budget
 
 \[needs content\]
@@ -119,6 +121,8 @@ Key advice on getting costs for grants include:
   grant awarding body are not absolutely precisely the same as worktribe,
   provided I'm confident I have enough money to pay people / do the work,
   and it is in the right categories
+
+# Reporting Requirements
 
 ### Research applications involving NHS Lothian
 
