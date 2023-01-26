@@ -44,7 +44,7 @@ Line Manager and staff must also agree how to maintain contact if the absence is
 
 After any period of absence of up to and including seven calendar days, staff must complete the self-certificate section (Part 1) of a [**Return to Work form**](http://www.docs.csg.ed.ac.uk/HumanResources/forms/Return_to_Work.doc), attached, ideally on the first day back, sending Ken the completed form.  Managers should have a return to work discussion and complete Part 2 of the form when the absence is longer than seven calendar days.  The member of staff should then hand the completed form and any medical certificates to Ken.
 
-Further information is available via the University's [**Absence Management Policy**](http://www.docs.csg.ed.ac.uk/HumanResources/Policies/Absence_Management-Policy.pdf)
+You can view the absence management policy on the University's [Leave, Attendance, and Absence policies webpage](https://www.ed.ac.uk/human-resources/policies-guidance/leave-absence/absence "Absence management policy"). 
 
 ## HR forms
 
