@@ -1,5 +1,5 @@
 ---
-title: Lab Resources
+title: Lab & General Resources
 
 ---
 # Resources
