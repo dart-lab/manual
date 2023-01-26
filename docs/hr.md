@@ -10,6 +10,42 @@ _By Sue FW_
 
 People and Money is the University's new (as of September 2020) system for managing everything to do with people -- annual leave, contracts, flexible working, annual review -- and money! This new system may supersede much of the info provided below. For now, you can watch some introductory videos for the system [at this link](https://uoe.sharepoint.com/sites/ServiceExcellenceProgramme/SitePages/Core-Systems.aspx).
 
+## How to request annual leave
+
+\[needs updating with info about People & Money\]
+
+1. If you can, think about how your annual leave fits with the timeline for your project. Try to avoid annual leave at moments which we already know will be busy. That said, don't worry if you can't manage to co-ordinate your personal and work life!
+2. Email your line manager (normally Sue) to request annual leave, noting the dates
+3. Sue will reply to authorise the request
+4. Forward Sue's reply to Ken O'Neill at v1konei3@exseed.ed.ac.uk
+
+NB: if you are a PhD student you don't have an official annual leave allowance. However you should still take holidays and it is useful and kind to let your supervisors know in advance!
+
+Sue normally marks her annual leave on a calendar on her office door. If you're planning further ahead than that, you can predict that she will often be on leave during school holidays.
+
+## General Information about Annual Leave
+
+The University has a Winter/Christmas closure over the Christmas and New Year period during which only some services operate. Employees who are not required to work during this closure period must use their Annual Leave to cover this period, which is normally four days.
+
+Further information is available on the university [HR](https://www.ed.ac.uk/human-resources/policies-guidance/leave-absence) page and the [Leave and Absence Options page](https://www.ed.ac.uk/human-resources/policies-guidance/leave-absence/leave-options).
+
+## Reporting sick leave
+
+The Psychiatry procedure is for staff to contact their line manager, preferably by phone, to inform them of any sick leave.  If by email, then copy in Ken O'Neill so that he can record it on the HR system.  Managers must ensure the University knows of any absence on the first day of sickness as any delay can have an effect on staff's pay; if Ken is on leave then please email Dorothy Air directly instead.
+
+Staff need to provide the following information:
+
+* The specific reason for absence.
+* The length of time they expect to be absent and/or their expected return date if known.
+* Whether they intend to seek, or have sought medical advice or help.
+* Whether there is anything their manager needs to do to reassign their work or meetings for the time absent.
+
+Line Manager and staff must also agree how to maintain contact if the absence is expected to last longer than one day, so that we are kept fully aware of the situation.
+
+After any period of absence of up to and including seven calendar days, staff must complete the self-certificate section (Part 1) of a [**Return to Work form**](http://www.docs.csg.ed.ac.uk/HumanResources/forms/Return_to_Work.doc), attached, ideally on the first day back, sending Ken the completed form.  Managers should have a return to work discussion and complete Part 2 of the form when the absence is longer than seven calendar days.  The member of staff should then hand the completed form and any medical certificates to Ken.
+
+Further information is available via the University's [**Absence Management Policy**](http://www.docs.csg.ed.ac.uk/HumanResources/Policies/Absence_Management-Policy.pdf)
+
 ## HR forms
 
 _By Sue FW_
