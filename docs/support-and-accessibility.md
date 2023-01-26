@@ -8,20 +8,13 @@ title: Support & Accessibility
 
 _by Sue FW_
 
-[This resource](https://www.w3.org/TR/coga-usable/) was created by the
-Cognitive and Learning Disabilities Task Force as a guideline for making
-online resources accessible.
+[This resource](https://www.w3.org/TR/coga-usable/) was created by the Cognitive and Learning Disabilities Task Force as a guideline for making online resources accessible.
 
 ## Respect at Edinburgh
 
 _By Sue FW_
 
-The University has a zero-tolerance stance towards any form of bullying
-and harassment.  The [Respect at Edinburgh web
-hub](https://www.edweb.ed.ac.uk/equality-diversity/respect) brings
-together information and guidance on the Dignity & Respect policy, the
-processes for raising and addressing concerns, and the support and
-training available.
+The University has a zero-tolerance stance towards any form of bullying and harassment. The [Respect at Edinburgh web hub](https://www.edweb.ed.ac.uk/equality-diversity/respect) brings together information and guidance on the Dignity & Respect policy, the processes for raising and addressing concerns, and the support and training available.
 
 ## University services including counselling, disability service etc.
 
@@ -80,6 +73,51 @@ Equality, Diversity and Inclusion (EDI) Groups give people the opportunity to sh
 * The [Disabled Staff Network](https://www.ed.ac.uk/equality-diversity/edi-groups/disabled-staff-network) for staff with disabilities, restrictive health conditions and caring responsibilities.
 * The [Edinburgh Race Equality Network (EREN)](https://www.ed.ac.uk/equality-diversity/edi-groups/race-equality-network) for Black, Asian and Minority Ethnic staff and allies committed to create an environment where race is celebrated and everyone is treated fairly.
 * The [Autistic Peers & Allies group](https://uoe.sharepoint.com/sites/AutisticPeersAllies) for autistic staff, autistic students and allies.
+
+## Other counselling etc. services & resources
+
+_by Holly Sutherland_
+
+**Free Options**
+
+* [The Wellbeing Thesis](https://thewellbeingthesis.org.uk/): "An online resource for postgraduate research students to support your wellbeing, learning and research."
+* [Togetherall](https://togetherall.com/en-gb/): "Togetherall is a safe, online community where people support each other anonymously to improve mental health and wellbeing." (You should be able to create an account for free via your Uni email.)
+* [The Feeling Good App](https://www.ed.ac.uk/student-counselling/self-help/apps-podcasts-ted-talks-relaxation-recordings/feeling-good-app): "A mental skills training programme which teaches how to calm the mind and develop a positive mindset, enabling greater emotional resilience to deal more effectively with challenges of student life."
+* [iThrive](https://ithriveedinburgh.org.uk/#): "Your online space for mental health and wellbeing information in Edinburgh."
+
+**Paid Options:**
+
+* A [register of counselling agencies](https://edinburghcounsellingagencies.co.uk/) in Edinburgh.
+* A [directory of individual counsellors](https://www.counselling-directory.org.uk/city/edinburgh), which you can filter by the option to offer a student discount.
+
+Here are some counselling services drawn from that first list, which all offer low cost options (though some are based on where you live):
+
+* _Arkordia Counselling and Psychotherapy Service:_ 
+  * General counselling to assist individuals to explore and resolve whatever difficulties are being experienced.
+  * Cost = Negotiated Donations from £10 upwards per session to offer a service available to those on low incomes.
+* _CoCo Counselling_
+  * We offer indoor and outdoor person-centred counselling to all clients over 16
+  * Cost = We ask all clients for a regular contribution each session based on what they can afford.
+* _Crossreach Counselling: Lothians_
+  * Cost = There’s no fixed charge for counselling, but we do ask for a weekly donation for your counselling at whatever level you can afford.
+* _Health All Round_
+  * Drop-in/self-referral for short term counselling. Gorgie/Dalry and wide surrounding area. Registration for the service is during drop in times, 2-4pm on Mondays, 10am-2pm on Wednesdays and 12-2pm on Thursdays.
+  * Cost = Daytime Counselling & CBT - Donation if on benefits, £10 per session if employed. Evening Counselling and CBT - £25 per session. Fast-track counselling service - £40 per session.
+* _Health in Mind_
+  * Craigmillar counselling – this is a general counselling service for people living in Greater Craigmillar, who are finding life difficult to cope with and would like some emotional support.
+  * Cost = All other counselling services are free.
+* _Hope Park Counselling centre_
+  * Individual Counselling for Adults in Edinburgh.
+  * Contribution £2- £30 per session and initial appointment.
+* _North East Edinburgh Counselling Service_
+  * Adults resident in North East Edinburgh area. Self-referral. General counselling service.
+  * Cost = Sessions provided by individually agreed voluntary contribution or free of charge as required.
+* _PF Counselling Service_
+  * General. Individuals over the age of 18.
+  * Cost = No set fee. Contribution negotiated and encouraged based on what client genuinely can afford.
+* _The Next Chapter_
+  * General counselling for people aged 16 and over to explore life’s challenges and address personal difficulties. Reduced fee counselling available for up to 26 sessions per person.
+  * Cost = Negotiated fees in line with income, starting at £10 per sessioN.
 
 ## Lone working - what is it and how to do it safely
 
