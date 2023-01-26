@@ -10,7 +10,7 @@ _by Sue FW_
 
 You can find the [Finance Helpline page here](https://www.ed.ac.uk/finance/finance-helpline?utm_campaign=2295170_SEP%20-%20All%20Staff%20email%20%E2%80%93%20New%20Finance%20Helpline%20-%2031-Jan-19&utm_medium=email&utm_source=dotmailer&dm_i=27JU,1D6YQ,425AZ8,4H81J,1). There is a link for UoE staff and students and a link for external providers which may be of use when people are chasing payments etc.
 
-Alternatively you can contact the Helpline by calling 0131 651 5151 or emailing [finance.helpline@ed.ac.uk](mailto:finance.helpline@ed.ac.uk)
+Alternatively you can contact the Helpline by calling 0131 651 5151 or emailing [finance.helpline@ed.ac.uk](mailto:finance.helpline@ed.ac.uk).
 
 ## General information about financial transactions within CCBS
 
@@ -31,9 +31,7 @@ the CCBS website Staff Only pages at [www.edweb.ed.ac.uk/clinical-brain-sciences
 
 **2. Fill in _all_ the details _before_ submitting to your finance officer or local contact**
 
-Make sure that the UoE finance code is fully completed, and all relevant
-contact name and addresses have been supplied. Your local contact will
-normally be **Sue Davidson**.
+Make sure that the UoE finance code is fully completed, and all relevant contact name and addresses have been supplied. Your local contact will normally be **Sue Davidson**.
 
 UoE finance codes are made up of three parts, and all three are needed
 for a transaction.
@@ -171,15 +169,19 @@ Just don't.
 
 # Travel
 
-## Booking travel through the University
+## Booking travel & accommodation
 
 ### Diversity Travel
 
-The UoE has a new (in 2022) travel contract with [Diversity Travel](https://www.diversitytravel.com/uk/what-we-do/). You can book travel direct through them and it will be charged onto a grant job code, which means you are never out of pocket. You can ask them to search for journeys for you, or you can tell them the specific flights / hotels etc that you want. You can also give them a budget limit, if you only have a specific amount of funding available. There is an [online booking tool at this link](https://idp.diversitytravel.com/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Did_token%2520token%26client_id%3Dgatewaysystem%26state%3DUCONDxsvkByc5EoUAZZuGRVjQKiYBK_X5O7S1Vg587kxH%26redirect_uri%3Dhttps%253A%252F%252Fgateway.diversitytravel.com%252Fhome%26scope%3Dopenid%2520profile%2520offline_access%2520gatewayapi%26nonce%3DUCONDxsvkByc5EoUAZZuGRVjQKiYBK_X5O7S1Vg587kxH).
+The UoE has a new (in 2022) travel contract with [Diversity Travel](https://www.diversitytravel.com/uk/what-we-do/). You can book travel direct through them and it will be charged onto a grant job code, which means you are never out of pocket. You can ask them to search for journeys for you, or you can tell them the specific flights / hotels etc that you want. You can also give them a budget limit, if you only have a specific amount of funding available. 
+
+There is an [online booking tool at this link](https://idp.diversitytravel.com/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Did_token%2520token%26client_id%3Dgatewaysystem%26state%3DUCONDxsvkByc5EoUAZZuGRVjQKiYBK_X5O7S1Vg587kxH%26redirect_uri%3Dhttps%253A%252F%252Fgateway.diversitytravel.com%252Fhome%26scope%3Dopenid%2520profile%2520offline_access%2520gatewayapi%26nonce%3DUCONDxsvkByc5EoUAZZuGRVjQKiYBK_X5O7S1Vg587kxH).
+
+Technically, the university wants you to book all travel and acccommodation through Diversity Travel. Realistically, there is some... flexibility on this.
 
 ### Booking your own travel
 
-You can also book your own travel and claim it back. This is not the University's recommended or preferred option, and it can also mean you may be out of pocket for a period of time while you wait for your expense claim to be paid. But it is still allowed and sometimes it may be the right option for you.
+You can also book your own travel and claim it back. This is not the University's recommended or preferred option, and it can also mean you may be out of pocket for a period of time while you wait for your expense claim to be paid. But it is still allowed (primarily for short, local journeys, e.g. to Glasgow), and sometimes it may be the right option for you.
 
 ### Booking AirBnBs
 
@@ -202,48 +204,67 @@ In order to avoid some of these problems, travellers can use the Airbnb platform
 * You don't rely only on the Airbnb bookings calendar, but also email the host directly, as some hosts are not assiduous about updating calendars.
 * You leave full contact details in your travel plan including location of the apartment and owner contact details.
 
-### Travel Insurance
+### Travel Insurance & Risk Assessments
+
+#### Travel Insurance
 
 Please remember to have a valid insurance policy, which you can arrange free of charge via [**the Insurance Office**](https://www.ed.ac.uk/finance/about/sections/insurance). This can be done by completing an online form:
 
 * [Travel insurance application form for students ](https://www.ed.ac.uk/finance/about/sections/insurance/travel-insurance/how-do-i-apply "Student insurance application form")
 * [Travel insurance appliation form for staff](https://www.ed.ac.uk/staff/business-travel/travel-insurance/insurance-application-form "Staff insurance application form")
 
-When completing your insurance form, you will need to upload a **risk assessment form** and/or **travel plan**. These forms can be found on [this webpage](https://www.ed.ac.uk/staff/business-travel/travel-safety/risk-assessments-travel-plan "Risk Assessment Info"), along with more information. When applying for insurance for international travel, you will need to complete **both forms.** For local travel, **just the travel plan** will suffice. You can get the forms signed by sending them to Sue D susan.davidson@ed.ac.uk
+#### Risk Assessments
 
-## Travel expenses and booking conference or work travel
+When completing your insurance form, you will need to upload a **risk assessment form** and/or **travel plan**. These forms can be found on [this webpage](https://www.ed.ac.uk/staff/business-travel/travel-safety/risk-assessments-travel-plan "Risk Assessment Info"), along with more information. When applying for insurance for international travel, you will need to complete **both forms.** For local travel, **just the travel plan** will suffice. 
 
-_by Catherine_
+You can get the forms signed by sending them to Sue D. at [susan.davidson@ed.ac.uk](susan.davidson@ed.ac.uk)
 
-1. The University's [Sustainable Travel Policy](https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021 "https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021")
-2. We're using a new travel management company - [Diversity Travel](https://www.diversitytravel.com/uk/ "https://www.diversitytravel.com/uk/") - to book travel and accommodation for University business.
+##### Information Security
 
-From 1 March 2022, the new travel booking system can be accessed via Diversity Travel:
+Please remember to consider [information security risks](https://infosec.ed.ac.uk/information-protection-policies/guidance-how-to-conform-with-policy/remote-working/working-while-travelling) alongside more typical travel risks. Remember also that some countries (China, Colombia, Cuba, Egypt, India, Iran, Morocco, Pakistan, Russian Federation, Syrian Arab Republic, Vietnam) may not allow encrypted devices (most university laptops are encrypted. 
 
-[Log in to Diversity Travel](https://idp.diversitytravel.com/account/login "https://idp.diversitytravel.com/account/login")
+If you are travelling to one of these countries and require a laptop, you can use the Clean Loan Laptop Service to get an unencrypted laptop. You can apply using the web form: [Clean Laptop Request Form](https://ed.unidesk.ac.uk/tas/public/ssp/content/serviceflow?unid=4023c39552e9491e8d630b015eb681f8&from=07e79551-985a-4cf2-bdf6-d1b01cb74538)
 
-On this date, all staff who have previously booked travel either for themselves or on behalf of others will receive an email from Diversity Travel giving them access to the new system.
-
-The policy also supports staff wellbeing by encouraging us to only undertake necessary travel, and promotes inclusion via an “exceptions” mechanism to ensure that no-one with caring responsibilities, disabilities, or other exceptional circumstances is negatively affected by the policy change. Policy headlines include:
-
-* reducing the overall number of journeys in favour of virtual collaboration tools
-* if travel is necessary, favouring low carbon transport options
-* a presumption against air travel within mainland Great Britain
-* the default class for air travel is economy, with premium tickets reserved for disability or for other health-related reasons
+### FAQs
 
 **Can I pay for travel myself and then expense it back?**
 
 Public transport fares and taxis may be refunded via expenses for short and infrequent journeys. You can also claim back incidental expenses incurred while travelling via expenses.
 
-**Flights and accommodation cannot be expensed; please pre-book these.**
+Flights and accommodation cannot be expensed; please pre-book these.
 
-The University will not reimburse the cost of ordinary commuting or private travel.
+The University will not reimburse the cost of ordinary commuting or private travel. Find out more by reading the University’s Expenses Policy.
 
-Find out more by reading the University’s Expenses Policy.
+**Where can I get help to book travel?** 
 
-**Further advice and FAQs** [Booking travel: FAQs | The University of Edinburgh](https://www.ed.ac.uk/staff/business-travel/booking-travel/faqs "https://www.ed.ac.uk/staff/business-travel/booking-travel/faqs")
+Step-by-step booking guides can be found on our [Booking Travel](https://www.ed.ac.uk/staff/business-travel/booking-travel) webpage. If you require further assistance with a travel booking, please contact Diversity Travel on 0161 235 5405 or [uoe@diversitytravel.com.](mailto:mailto:uoe@diversitytravel.com)
 
-## What can be claimed as a travel expense?
+**How do I escalate a case or make a complaint about Diversity Travel?** 
+
+There is a new complaints procedure to help the university record and act on feedback so that the service can be improved: [Diversity Travel: complaints procedure](https://www.ed.ac.uk/sites/default/files/atoms/files/diversity_travel_contract_-_complaints_procedure.docx).
+
+I know this procedure is an enormous faff, but please do use it if you have issues.
+
+The uni also publishes the monthly performance statistics of Diversity Travel for informational purposes only – please do not share this more widely. You can view the report at: [Monthly Performance Statistics](https://www.ed.ac.uk/sites/default/files/atoms/files/kpis_diversity_travel_feb_-_june_22.pdf)
+
+**Further advice and FAQs?**
+
+See: [Booking travel: FAQs | The University of Edinburgh](https://www.ed.ac.uk/staff/business-travel/booking-travel/faqs "https://www.ed.ac.uk/staff/business-travel/booking-travel/faqs")
+
+## Travel Policies
+
+### Sustainable travel policy
+
+See the University's [Sustainable Travel Policy](https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021 "https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021") here.
+
+The policy also supports staff wellbeing by encouraging us to only undertake necessary travel, and promotes inclusion via an “exceptions” mechanism to ensure that no-one with caring responsibilities, disabilities, or other exceptional circumstances is negatively affected by the policy change. Policy headlines include:
+
+* Reducing the overall number of journeys in favour of virtual collaboration tools.
+* If travel is necessary, favouring low carbon transport options.
+* A presumption against air travel within mainland Great Britain, other than for health, disability, or childcare reasons.
+* The default class for air travel is economy, with premium tickets reserved for disability or for other health-related reasons.
+
+### What can be claimed as a travel expense?
 
 ![](/uploads/expenses_infograph.png)
 
