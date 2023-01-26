@@ -6,7 +6,7 @@ title: Finance, Expenses, Purchasing, Claims, Salaries
 
 ## Finance helpline
 
-_By Sue FW_
+_by Sue FW_
 
 You can find the [Finance Helpline page here](https://www.ed.ac.uk/finance/finance-helpline?utm_campaign=2295170_SEP%20-%20All%20Staff%20email%20%E2%80%93%20New%20Finance%20Helpline%20-%2031-Jan-19&utm_medium=email&utm_source=dotmailer&dm_i=27JU,1D6YQ,425AZ8,4H81J,1).
 There is a link for UoE staff and students and a link for external
@@ -134,89 +134,27 @@ Favourites / making a note to access it again!
 _PLEASE ADD INFORMATION HERE IF YOU DISCOVER USEFUL THINGS ABOUT
 WEBFIRST THAT YOU WANT TO SHARE!_
 
-## How to make an expense claim through e-expenses
+## How to make an expense claim
 
-_By Sue FW_
+#### Staff: People & Money
 
-**Wherever possible, you should try to make purchases through University
-suppliers instead of paying for things yourself and claiming them
-back**. You can book travel & accommodation through Key Travel (see
-section below), order office suppliers and IT equipment through Ken
-O'Neill / Sue Davidson / your local finance administrator, and pay
-approved suppliers directly (e.g. transcription services) by asking them
-to invoice the University.
+\[information needed\]
 
-You can [access eExpenses here](https://www.expenses.finance.ed.ac.uk/).
+#### Students: Claims form
 
-And you can [use this form](https://www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone/request-access-to-ccbs-finance-codes) to get access to a new job code.
+For reasons unknown to us mere mortals, the powers that be have decided that (most) students do not need access to People & Money. Instead:
 
-To use eExpenses, you need to register first -- ask Sue Davidson or your local finance administrator for a registration form.
+1. Fill out the "Student Expenses Claim Form" from the [expenses page](https://www.ed.ac.uk/finance/for-staff/forms).
+2. Make sure you have a 
+3. Send it to Sue D., who will make sure it gets to the right person.
 
-When using eExpenses, the approximate step-by-step process is as
-follows:
+## What can be claimed as an expense?
 
- 1. Log in using your EASE details
- 2. Select Create A Claim on the left hand side
- 3. Give your claim item a sensible title, such as "BPS conference
-    expenses". You can claim a bunch of things at the same time and it
-    makes sense to group them by event (e.g. travel, accommodation and
-    meals for a conference*). Don't make a claim for every single
-    receipt.
- 4. If you think your claim is at all unusual or confusing, use the
-    "additional details" box to add information
- 5. Then for each item in the claim select the Category (e.g. Research
-    Grant) and Expense Type (e.g. Consumables)
- 6. Enter a description for the item, e.g. SRS manual
- 7. Select the Cost Centre that is the 'parent' for the Job Code you are
-    claiming from
- 8. Select the Job Code
- 9. Select an Approval Group -- this is the group of finance officers
-    who will be asked to approve your claim. The Approval Group should
-    match the Cost Centre. E.g. Cost Centre = 214PSY, approval group =
-    Clinical Sciences Psychiatry
-10. Add the amount, and the date the expenses was incurred -- i.e. when
-    you paid for it, not when it happened.
-11. For specific expenses like Travel there will also be other fields to
-    complete. It is worth adding as much detail as you can.
-12. Save the item. Then select the paperclip icon on the right-hand side
-    to upload relevant documents. There should be a scanned receipt /
-    e-receipt (e.g. downloaded email) for every item.
-13. You can then go back to step 5 above, and add additional items to
-    your claim.
-14. Once you have all your items added, you can submit the claim
-15. Then print the claim and attach \[Lizzy note: don't staple the
-    receipts to the form\] any paper receipts. You need to attach paper
-    receipts for anything where the original receipt was not digital --
-    e.g. meals.
-16. Get the claim signed by a more senior budget holder -- normally Sue
-    FW -- and then submit the paperwork to Ken.
-17. When your claim is paid you will receive an email with a "Remittance
-    Advice" notifying you of the amount which has been paid into your
-    account. If you submitted multiple claims at once, this will be for
-    the total of all approved claims.
-18. It is possible that your claim will be queried by the Approval Group
-    in which case you will receive an email notification. You can log in
-    to eExpenses again and edit your claim / provide additional
-    information. Even if you have a conversation about the claim, make
-    sure you record all the details here, otherwise the claim may be
-    knocked back by central finance.
-
-NB: if your expense is in a foreign currency, you should claim the
-actual cost in £. The easiest way to do this is to attached a redacted
-(removing any private information) copy of your bank statement / credit
-card statement with the actual payment listed. You can claim for the
-cost of the item and any bank fees associated with the transaction --
-just add these up and put them through as a single claim item.
-
-\* _noting of course that we should aim to book travel and accommodation through Diversity Travel (see section lower down this page)!_
-
-## What can be claimed as an expense? 
-
-[expenses_infograph_0.pdf](/uploads/expenses_infograph_0.pdf "expenses_infograph_0.pdf")
+![](/uploads/expenses_infograph.png)
 
 ## Travel expenses and booking conference or work travel
 
-_By Catherine_
+_by Catherine_
 
 1. The University's [Sustainable Travel Policy](https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021 "https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021")
 2. We're using a new travel management company - [Diversity Travel](https://www.diversitytravel.com/uk/ "https://www.diversitytravel.com/uk/") - to book travel and accommodation for University business.
@@ -248,139 +186,55 @@ Find out more by reading the University’s Expenses Policy.
 
 ## Definitions of UoE expenses terminology and systems
 
-_By Lizzy Kirkham & Sue FW_
+_by Lizzy Kirkham & Sue FW_
 
 ### Finance Codes
 
-**Account code:** the type of expenditure or income. Account codes are
-4-digit numbers. You can look up account codes
-[here](https://www.wiki.ed.ac.uk/pages/viewpage.action?spaceKey=Finance&title=eFinancials+Account+Code+Finder).
+**Account code:** the type of expenditure or income. Account codes are 4-digit numbers. You can look up account codes [here](https://www.wiki.ed.ac.uk/pages/viewpage.action?spaceKey=Finance&title=eFinancials+Account+Code+Finder).
 
-Different account codes are used to mark out money which has been spent
-on Travel, or Salaries or Consumables. If you spend money on Travel from
-a R-**job code** it will be a different 4-digit code to if you spend
-money on Travel from a D-**job code**.
+Different account codes are used to mark out money which has been spent on Travel, or Salaries or Consumables. If you spend money on Travel from a R-**job code** it will be a different 4-digit code to if you spend money on Travel from a D-**job code**.
 
-Note that you can only use an account code if it has a **job code**
-attached to it. In other words, you need to be assigning your Travel
-(Account Code) expenses to a specific pot of money (Job Code).
+Note that you can only use an account code if it has a **job code** attached to it. In other  words, you need to be assigning your Travel (Account Code) expenses to a specific pot of  money (Job Code).
 
-**Cost centre:** the part of the University that holds the specific
-**Job Code** (see below) you are using. The Psychiatry Cost Centre is
-214PSY. Cost Centres are all 6-digits long and have a combination of
-letters and numbers. Most grants awarded to PIs in Psychiatry will be in
-this Cost Centre. In the real world, the Cost Centre is something like
-your Sort Code on your personal bank account.
+**Cost centre:** the part of the University that holds the specific **Job Code** (see below) you are using. The Psychiatry Cost Centre is 214PSY. Cost Centres are all 6-digits long and have a combination of letters and numbers. Most grants awarded to PIs in Psychiatry will be in this Cost Centre. In the real world, the Cost Centre is something like your Sort Code on your personal bank account.
 
-**Job code:** the code for the budget (i.e. "pot of money") you are
-using. This is like your bank account number. Job codes start with a
-letter, and the letter is meaningful. D is for donation accounts --
-which apply if you have funding from a private donor. R is for Research
-accounts -- which apply if you have a research grant. G is for general
-accounts like the departmental fund for Psychiatry.
+**Job code:** the code for the budget (i.e. "pot of money") you are using. This is like your bank account number. Job codes start with a letter, and the letter is meaningful. D is for donation accounts -- which apply if you have funding from a private donor. R is for Research accounts -- which apply if you have a research grant. G is for general accounts like the departmental fund for Psychiatry.
 
 ### Grant costing terminology
 
 **Costings** are estimates of how much it will cost to do the project.
 
-**Direct costs** are things that won't be paid for you if don't win the
-grant. An example would be the salary of someone who would be recruited
-to do the work on the grant, or consumables and equipment that will be
-bought with the grant money if you win it. Sometimes these can be split
-into **directly incurred** and **directly allocated.** The latter are
-costs that are being assigned to the project. Salaries of staff already
-employed by the University are a good example of this -- the salary is
-being paid by the University regardless of whether you win the grant,
-but if you get the funding a proportion of this person's time (and an
-associated proportion of their salary) is being _allocated_ to the
-grant. E.g. the ESRC pay for 5% of my salary and I give them 5% of my
-working week.
+**Direct costs** are things that won't be paid for you if don't win the grant. An example would be the salary of someone who would be recruited to do the work on the grant, or consumables and equipment that will be bought with the grant money if you win it. Sometimes these can be split into **directly incurred** and **directly allocated.** The latter are costs that are being assigned to the project. Salaries of staff already employed by the University are a good example of this -- the salary is being paid by the University regardless of whether you win the grant, but if you get the funding a proportion of this person's time (and an associated proportion of their salary) is being _allocated_ to the grant. E.g. the ESRC pay for 5% of my salary and I give them 5% of my working week.
 
-**Indirect costs** are costs that the University will be paying for
-whether or not you get the grant. Sometimes, depending on the funder,
-the example above (existing staff salaries) count as indirect costs.
-Other kinds of indirect costs include things like the University's
-electricity and gas bill, the costs of the Library, HR department and
-central admin.
+**Indirect costs** are costs that the University will be paying for whether or not you get the grant. Sometimes, depending on the funder, the example above (existing staff salaries) count as indirect costs. Other kinds of indirect costs include things like the University's electricity and gas bill, the costs of the Library, HR department and central admin.
 
-**Full economic costing** is the estimated total cost of carrying out
-the research. This includes all the things you ask the funder to pay for
-(e.g. RA salary, questionnaires, participant expenses) plus all the
-indirect costs. Different funders will pay different proportions of
-indirect costs.
+**Full economic costing** is the estimated total cost of carrying out the research. This includes all the things you ask the funder to pay for (e.g. RA salary, questionnaires, participant expenses) plus all the indirect costs. Different funders will pay different proportions of indirect costs.
 
 ### Other Terminology
 
-**Approved Supplier:** An approved supplier is someone or something (an
-organisation) that the University have decided is a legitimate provider
-of good and services. You can ask a finance officer for lists of
-approved suppliers (e.g. all the companies that are approved to provide
-transcription services) or ask them to check whether a specific person /
-company is already an approved supplier. If the company you want to use
-is not an approved supplier, you can request that the company you want
-to use gets approved. There's information below on how to do this.
+**Approved Supplier:** An approved supplier is someone or something (an organisation) that the University have decided is a legitimate provider of good and services. You can ask a finance officer for lists of approved suppliers (e.g. all the companies that are approved to provide transcription services) or ask them to check whether a specific person / company is already an approved supplier. If the company you want to use is not an approved supplier, you can request that the company you want to use gets approved. There's information below on how to do this.
 
-For an individual to become an approved supplier they need to be
-self-employed and able to demonstrate that. There's more about this
-below in the section on How to pay external consultants / providers
+For an individual to become an approved supplier they need to be self-employed and able to demonstrate that. There's more about this below in the section on How to pay external consultants / providers
 
-**Consumables:** most of the things you purchase for a research grant
-will be classed as Consumables. These are any items you buy and expect
-to "use up" over the course of the project. Examples might be
-questionnaire response forms, or gift vouchers for participants. Even
-things you won't literally use up might come under this category -- e.g.
-toys, or a manual for a specific psychological assessment. Imagine you
-lost the item -- would you claim it on insurance, or just buy a new one?
-If the latter, it's consumable.
+**Consumables:** most of the things you purchase for a research grant will be classed as Consumables. These are any items you buy and expect to "use up" over the course of the project. Examples might be questionnaire response forms, or gift vouchers for participants. Even things you won't literally use up might come under this category -- e.g. toys, or a manual for a specific psychological assessment. Imagine you lost the item -- would you claim it on insurance, or just buy a new one? If the latter, it's consumable.
 
-Anything more expensive / permanent is classed as **Equipment.** This
-includes most IT, and things like eye-trackers.
+Anything more expensive / permanent is classed as **Equipment.** This includes most IT, and things like eye-trackers.
 
-**Purchase Order:** A purchase order is essential a request for some
-sort of paid service / supply. Finance officers can raise a purchase
-order for specific items. For example, you might request a purchase
-order for a specific number of hours of an external academic's time.
-Many external providers -- like other Universities, or the NHS -- need a
-Purchase Order before they can then send an invoice (i.e. a bill) for
-the service provided.
+**Purchase Order:** A purchase order is essential a request for some sort of paid service / supply. Finance officers can raise a purchase order for specific items. For example, you might request a purchase order for a specific number of hours of an external academic's time. Many external providers -- like other Universities, or the NHS -- need a Purchase Order before they can then send an invoice (i.e. a bill) for the service provided.
 
-Purchase Orders provide a number of advantages. They get the transaction
-added to the system, so now there is a reference associated with that
-item. They also give your finance officer a chance to raise any concerns
-they might have early in the process. You have a chance to check that
-the service being provided is from an approved supplier and that all
-their paperwork is in order.
+Purchase Orders provide a number of advantages. They get the transaction added to the system, so now there is a reference associated with that item. They also give your finance officer a chance to raise any concerns they might have early in the process. You have a chance to check that the service being provided is from an approved supplier and that all their paperwork is in order.
 
-**Subsistence:** this is the term used to describe the costs of being
-away from home. Subsistence expenses basically normally means meals,
-when you're away at a conference. You might also class local travel
-(e.g. bus or metro journeys) under this umbrella. Subsistence can also
-describe some of the costs of hosting visitors -- like catering for a
-meeting or taking a guest out for dinner.
+**Subsistence:** this is the term used to describe the costs of being away from home. Subsistence expenses basically normally means meals, when you're away at a conference. You might also class local travel (e.g. bus or metro journeys) under this umbrella. Subsistence can also describe some of the costs of hosting visitors -- like catering for a meeting or taking a guest out for dinner.
 
 ### Systems
 
-**eExpenses** is an online system for claiming back expenses that you
-have personally incurred in the course of your work. Examples might be
-meals while away at a conference, or buying some toys for a research
-study. There's information above on how to use eExpenses.
+**eExpenses** has been replaced by People & Money.
 
-**Webfirst** is an online system for checking balances, transactions,
-expenditure and income for specific Job Codes. You need to request
-access to specific Job Codes by emailing Val Renton. [You can access
-WebFirst here](https://www.webfirst.fin.ed.ac.uk/). WebFirst prompts you
-to choose from a range of different types of reports on the left hand
-side of the page -- e.g. all transactions in a specific period, or a
-round-up of total spending to date. The report names are quite hard to
-understand and so they are very hard to decide between! [There are
-descriptions
-here.](https://www.wiki.ed.ac.uk/display/Finance/WebFirst+-+Available+Reports)
-If you find a report format that is useful, it's worth saving it in your
-Favourites / making a note to access it again!
+**People & Money** does everything from expenses to HR to holiday time booking. PhD students do not currently have access to it, so I (a PhD student) cannot help you here.
 
-**Worktribe** is the University's research management and administration
-system. It is used to administer every stage of a research project. You
-can read a bit more about Worktribe with some useful links on page 7.
+**Webfirst** is an online system for checking balances, transactions, expenditure and income for specific Job Codes. You need to request access to specific Job Codes by emailing Val Renton. [You can access WebFirst here](https://www.webfirst.fin.ed.ac.uk/). WebFirst prompts you to choose from a range of different types of reports on the left hand side of the page -- e.g. all transactions in a specific period, or a round-up of total spending to date. The report names are quite hard to understand and so they are very hard to decide between! [There are descriptions here.](https://www.wiki.ed.ac.uk/display/Finance/WebFirst+-+Available+Reports) If you find a report format that is useful, it's worth saving it in your Favourites / making a note to access it again!
+
+**Worktribe** is the University's research management and administration system. It is used to administer every stage of a research project. You can read a bit more about Worktribe with some useful links on page 7.
 
 ## Using petty cash
 
@@ -489,12 +343,7 @@ You can also book your own travel and claim it back. This is not the University'
 
 ### Booking AirBnBs
 
-The University's expenses policy allows for AirBnB bookings, and there
-is more in the travel and accommodation FAQs for the [**New Expenses
-Policy section**](https://www.ed.ac.uk/finance/for-staff/financial-regulations-policies-and-procedures/new-expenses-policy/expenses-faqs-travel-and-accommodation-expenses).  **\[However\]{.underline}**,
-some grant providers have issues with projects using Airbnb so contact
-your grant manager and check that they (the funder) are happy to cover
-these costs.
+The University's expenses policy allows for AirBnB bookings, and there is more in the travel and accommodation FAQs for the [**Expenses Policy section**](https://www.ed.ac.uk/finance/for-staff/financial-regulations-policies-and-procedures/expenses-policy).  **However**, some grant providers have issues with projects using Airbnb so contact your grant manager and check that they (the funder) are happy to cover these costs.
 
 **Also please** note that:
 
