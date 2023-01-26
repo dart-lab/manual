@@ -82,9 +82,9 @@ _by Holly Sutherland_
 
 _By Sue FW_
 
-[Media Hopper](https://www.ed.ac.uk/information-services/learning-technology/media-hopper-create) is the University's video hosting site -- a bit like YouTube or Vimeo. You can create an account and post videos, and then embed them on other websites easily. It can also auto-generate captions for your videos, and has a built-in 'find and replace' function for editing the captions generated. 
+[Media Hopper](https://www.ed.ac.uk/information-services/learning-technology/media-hopper-create) is the University's video hosting site -- a bit like YouTube or Vimeo. You can create an account and post videos, and then embed them on other websites easily. It can also auto-generate captions for your videos, and has a built-in 'find and replace' function for editing the captions generated.
 
-**_Top tip when using MediaHopper:_** Save and close if you are stepping away for longer than a few minutes. _It will log you out after a while. It's possible to keep editing, and apparently saving your progress, even if you have been logged out!_ 
+**_Top tip when using MediaHopper:_** Save and close if you are stepping away for longer than a few minutes. _It will log you out after a while. It's possible to keep editing, and apparently saving your progress, even if you have been logged out!_
 
 # Branding & Identity
 
