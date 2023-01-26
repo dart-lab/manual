@@ -2,7 +2,7 @@
 title: Admin & Computing
 
 ---
-# Admin 
+# Admin
 
 ## How to book rooms, and which rooms are the best
 
@@ -11,6 +11,7 @@ _By Sue FW_
 To book a room in Kennedy Tower you need to email Jim ([j.macgregor@ed.ac.uk](mailto:j.macgregor@ed.ac.uk)), telling him which room you require and when.  He'll let you know if it's free and provide advice on alternatives.
 
 To book a room elsewhere in the University you can either:
+
 1. Email [timetabling@ed.ac.uk](mailto:timetabling@ed.ac.uk)
 2. Book through [this website](https://www.ted.is.ed.ac.uk/UOE1819_WRB/default.aspx)
 
@@ -57,7 +58,7 @@ NB: If you are accessing data from home remember to be aware of who else is in t
 There's a [step by step guide at this page](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn/vpn-service-introduction). Before you access VPN remotely for the first time you will need to:
 
 1. [Register for the service here](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn/vpn-service-registration)
-2. Make sure your UoE desktop is set up to be 'woken' remotely 
+2. Make sure your UoE desktop is set up to be 'woken' remotely
 3. Download and install [a VPN Client](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn/vpn-service-using)
 
 Therefore make sure you take the time to set-up and check VPN before the first time you need to use it for real.
@@ -139,103 +140,53 @@ You can only retrieve your cloud prints at a cloud printer by authenticating to 
 If you do not currently have a University card please see below for the
 Lab Manual section on getting your staff / student card.
 
-Most accounts will get a free quota for the cloud printing service
-automatically; the quota is required to track prints and copies. 
-However, if you login to a cloud printer and your account has not
-received a free quota, leaving you unable to print, then contact **[the
-IS Helpline](mailto:IS.Helpline@ed.ac.uk) **and ask them to add the free
-cloud printing quota for your account.
+Most accounts will get a free quota for the cloud printing service automatically; the quota is required to track prints and copies.  However, if you login to a cloud printer and your account has not received a free quota, leaving you unable to print, then contact [**the IS Helpline **](mailto:IS.Helpline@ed.ac.uk)and ask them to add the free cloud printing quota for your account.
 
-Anyone using a non-managed Windows computer will have to manually
-add the two Cloud print queues by following [**the Non-Supported Windows
-Desktop instructions**](http://edin.ac/1MUtCIV).
+Anyone using a non-managed Windows computer will have to manually add the two Cloud print queues by following [**the Non-Supported Windows Desktop instructions**](http://edin.ac/1MUtCIV).
 
-Anyone using a Mac computer will have to manually add the two Cloud
-print queues by following Step 2 in [**the Printing from Desktop or
-Laptop Macs
-instructions**](https://www.ed.ac.uk/information-services/computing/desktop-personal/printing/printers/mac-osx-10-10-or-newer).
+Anyone using a Mac computer will have to manually add the two Cloud print queues by following Step 2 in [**the Printing from Desktop or Laptop Macs instructions**](https://www.ed.ac.uk/information-services/computing/desktop-personal/printing/printers/mac-osx-10-10-or-newer).
 
-If you have any queries please contact [**the IS
-Helpline**](mailto:IS.Helpline@ed.ac.uk).
+If you have any queries please contact [**the IS Helpline**](mailto:IS.Helpline@ed.ac.uk).
 
 ## Making temporary wifi accounts for non eduroam visitors (including participants)
 
 _By Catherine Crompton_
 
-[Visit this
-page](https://www.ed.ac.uk/information-services/computing/desktop-personal/wireless-networking/wlan-guest-staffreg).
-Click "create Guest Wifi Account" and enter your EASE log in. You can
-create log in codes that last up to ten days.
+[Visit this page](https://www.ed.ac.uk/information-services/computing/desktop-personal/wireless-networking/wlan-guest-staffreg). Click "create Guest Wifi Account" and enter your EASE log in. You can create log in codes that last up to ten days.
 
 ## What is Worktribe and do I need to use it?
 
 _By Sue FW_
 
-Worktribe is the University's research management and administration
-system. It is used to administer every stage of a research project --
-particularly:
+Worktribe is the University's research management and administration system. It is used to administer every stage of a research project -- particularly:
 
-* Grant applications: pulling together the application, approvals from
-  people like your Head of Department, and costs for the grant budget
-* Grant set-up: when funding is awarded Worktribe is used to set up an
-  account for the grant, for example.
-* Grant reporting: worktribe makes it (relatively) easy to meet grant
-  reporting requirements by holding all the relevant info about
-  staffing, expenditure and so on
+* Grant applications: pulling together the application, approvals from people like your Head of Department, and costs for the grant budget
+* Grant set-up: when funding is awarded Worktribe is used to set up an account for the grant, for example.
+* Grant reporting: worktribe makes it (relatively) easy to meet grant reporting requirements by holding all the relevant info about staffing, expenditure and so on
 
-Because access to this system enables visibility of personal and
-confidential information, including HR data (salaries) and research
-activity (proposals, contracts), people need to [apply to be allowed to
-use worktribe,
-here](https://www.ed.ac.uk/finance/about/sections/fis/worktribe-access-request-form).
+Because access to this system enables visibility of personal and confidential information, including HR data (salaries) and research activity (proposals, contracts), people need to [apply to be allowed to use worktribe, here](https://www.ed.ac.uk/finance/about/sections/fis/worktribe-access-request-form).
 
-You only need to apply to use Worktribe, as an academic or student, if
-you are going to be the Principal Investigator or a co-applicant on some
-grant applications. Normally students won't need to join.
+You only need to apply to use Worktribe, as an academic or student, if you are going to be the Principal Investigator or a co-applicant on some grant applications. Normally students won't need to join.
 
-You can read more about Worktribe and access an online training module
-[at this
+You can read more about Worktribe and access an online training module [at this
 page](https://www.wiki.ed.ac.uk/pages/viewpage.action?spaceKey=WRM&title=Worktribe+Research+Management).
 
 ## IT support: where to get it
 
 _By Sue FW_
 
-The IT support at University of Edinburgh is excellent. Replies are
-rapid and support is effective. Don't suffer with computing problems --
-ask for help. You can:
+The IT support at University of Edinburgh is excellent. Replies are rapid and support is effective. Don't suffer with computing problems -- ask for help. You can:
 
 * email [is.helpline@ed.ac.uk](mailto:is.helpline@ed.ac.uk)
 * call 0131 651 5151
 * use the online enquiry form at [http://www.ishelpline.ed.ac.uk](http://www.ishelpline.ed.ac.uk)
 * attend the IT Support Desk for potentially quicker results.
 
-The IT Support Desk is available in the Main Library in George Square
-Mon-Fri 12pm-5pm, [more info at this
-link](https://www.ed.ac.uk/information-services/help-consultancy/it-help/it-support-desk).
+The IT Support Desk is available in the Main Library in George Square Mon-Fri 12pm-5pm, [more info at this link](https://www.ed.ac.uk/information-services/help-consultancy/it-help/it-support-desk).
 
-[There is also a
-wiki](https://www.wiki.ed.ac.uk/display/ISGM/IT+Setup+Guides+For+College+Of+Medicine+And+Veterinary+Medicine),
-including an overview of all the Information Support services, which you
-may find useful in answering common queries
+[There is also a wiki](https://www.wiki.ed.ac.uk/display/ISGM/IT+Setup+Guides+For+College+Of+Medicine+And+Veterinary+Medicine), including an overview of all the Information Support services, which you may find useful in answering common queries
 
-## Media Hopper: posting videos online and captioning them
-
-_By Sue FW_
-
-[Media
-Hopper](https://www.ed.ac.uk/information-services/learning-technology/media-hopper-create)
-is the University's video hosting site -- a bit like YouTube or Vimeo.
-You can create an account and post videos, and then embed them on other
-websites easily.
-
-If you want a video to be subtitled there is [a 'pilot' service,
-detailed
-here](https://www.ed.ac.uk/information-services/learning-technology/media-hopper-create/help-and-support/subtitling-pilot).
-Just email IS Helpline to request captioning for your video.
-
-All staff and students can create and maintain their own profile page on
-the UoE website (Edweb).
+All staff and students can create and maintain their own profile page on the UoE website (Edweb).
 
 In addition, academics can have a profile page on PURE, which feeds
 through to the public portal, Edinburgh Research Explorer.
