@@ -69,25 +69,6 @@ We have prepared a [Community Partner Recruitment Pack](https://drive.google.com
 3. Recruitment advert - a template you can use to create your own advert to recruit community advisors.
 4. Application form - a template you can use to design the online form for potential community partners to express interest in joining your study.
 
-## Open access: Getting your papers made available to everyone
-
-_by Sue FW_
-
-Our Centre has a dedicated office who will take newly-accepted papers
-and make sure a copy is posted up online for anyone to access. Simply
-email [ccbs-openaccess@ed.ac.uk](mailto:ccbs-openaccess@ed.ac.uk) with your acceptance email from the
-journal.
-
-* Make sure that the email contains the date of acceptance
-* Attach the final version of the manuscript that you submitted --
-  this should have author details (i.e. include the title page in the
-  document) but should not have any journal formatting. It needs to be
-  YOUR copy.
-* Make sure the manuscript includes acknowledgements for any funding
-  that supported the work
-* Add a note if you think the research deserves media attention -- if
-  so, summarise the finding and the implications
-
 ## A list of relevant conferences and their deadlines
 
 _by Mihaela Dragomir & Bérengère Digard_
@@ -132,7 +113,7 @@ tube on to the plane, they charge for £35 for an A0 fabric poster.
 
 _by Holly Sutherland_
 
-Community groups you’re actively involved with can now use selected University rooms, free of charge, during the evening. This is an approved process which means everyone is insured and safe. If you know of a group which could benefit from this, please put them in touch with **Anne Douglas on a.douglas@ed.ac.uk, 0131 651 5000.** 
+Community groups you’re actively involved with can now use selected University rooms, free of charge, during the evening. This is an approved process which means everyone is insured and safe. If you know of a group which could benefit from this, please put them in touch with **Anne Douglas on a.douglas@ed.ac.uk, 0131 651 5000.**
 
 **What’s on offer right now:**
 
