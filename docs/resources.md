@@ -103,7 +103,9 @@ In **Technology** we have a census of the tech cupboard on the 5th floor. The ca
 
 ## Online services: Infogram, Qualtrics etc.
 
-_By Sue Fletcher-Watson_
+_by Sue Fletcher-Watson_
+
+### DART Lab Resources
 
 We have accounts with the following services, for members of the DART group only. Log-in details are available in the DART Teams account (Admin & Resources > Notebook)
 
@@ -111,6 +113,20 @@ We have accounts with the following services, for members of the DART group only
 2. We have an account with [Survey Monkey](https://www.surveymonkey.com/) which is an online survey platform - our account is now unpaid so this is only good for quick, short surveys.
 3. We have an account with [Qualtrics](https://www.qualtrics.com/uk/) which is an online survey platform, best for questionnaires. If you are using a survey to collect research data, talk to Sue FW about creating your own independent Qualtrics log-in.
 4. We have a [YouTube](https://www.youtube.com/channel/UCPORsrJRCt1okyUF6csA3Dg) account.
+
+### Free Resources
+
+* [**Flourish.studio**](https://flourish.studio/): Easily turn your data into stunning charts, maps, and interactive stories. Upload a spreadsheet, and return with: Animated bar charts, survey data, scatter plots, story maps & more
+* [**Mentimeter.com**](https://www.mentimeter.com/): Build interactive polls, quizzes, and more allowing your audience to engage in real-time. Using their smartphone, attendees can answer questions and the results are visualized as they happen.
+* [**Webwhiteboard.com**](https://webwhiteboard.com/): An online collaborative whiteboard ideal for remote meetings, brainstorming, and ideation across teams. Make flowcharts, build product roadmaps, engage in a quick retrospective
+* [**Carrd.co**](https://carrd.co/): If you need to spin up a quick landing page, link tree, or website for just about anything, Carrd can do that. Simple, free, mobile responsive.
+* [**Diagrams.net**](https://www.diagrams.net/): A free and open-source graph drawing software developed in HTML5 and JavaScript. Its interface can be used to create diagrams such as flowcharts, wireframes, UML diagrams, and organizational charts. No account required.
+* [**Edit.photo**](https://edit.photo/): A free online photo editor you can use directly in your browser. No account required.
+* [**Untools.co**](https://untools.co/): Mental models, frameworks, and tools can help you make better decisions. With untools, you get a categorized list: Mental models, instructions on how they're used, and examples you can put into practice.
+* [**Openlibrary.org**](https://openlibrary.org/) **and** [**libgen.ru**](https://libgen.is/) **and** [**archive.org**](https://archive.org/): Millions of books, available for free. Archive.org also has films, documentaries, music, software etc. (Also check your local library! They usually give you access to (audio)book-borrowing apps on your phone.)
+* [**Freecodecamp.org**](https://www.freecodecamp.org/): Learn to code for free. HTML, CSS, Python & more. They also have a YouTube channel with 1,000's of hours of instructional videos.
+* [**Wayback Machine**](https://web.archive.org/web/): Found a website that doesn't seem to exist anymore? A dead link somewhere? Google showing you stuff in the link preview that doesn't appear when you click the link? The wayback machine saves archival copies of webpages at various different timepoints - just put the page link in and select which timepoint you want to view!
+* [**archive.ph**](https://archive.ph/): Nominally for archiving versions of webpages (e.g. a tweet you want to preserve even if the author deletes it), putting in the URL of, say, a paywall-blocked news article will usually produce the whole article sans paywall.
 
 ## Video Camera Protocol (aka don't be a jerk)
 
