@@ -6,7 +6,7 @@ title: Resources, Logos, Assessments, Technology, Manuals, Tests
 
 ## Logos
 
-_By Sue Fletcher-Watson_
+_by Sue Fletcher-Watson_
 
 You can download logos for DART, the Patrick Wild Centre, the Salvesen Mindroom Research Centre, the Theirworld Edinburgh Birth Cohort and the University of Edinburgh on Teams [here](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=UadNeR).
 
@@ -16,7 +16,7 @@ There's also a dropbox fold with logos for the Salvesen Mindroom Research Centre
 
 ## Headed paper
 
-_By Sue Fletcher-Watson_
+_by Sue Fletcher-Watson_
 
 [This page has template letters](https://www.ed.ac.uk/clinical-brain-sciences/templates), powerpoint slides and posters for anyone working within CCBS.
 
@@ -24,60 +24,53 @@ We have our own SMRC letterhead, which is available in [this Teams folder](https
 
 ## Ordering catering
 
-_By Sue Fletcher-Watson_
+_by Sue Fletcher-Watson_
 
 _For most university sites* you can order Online Delivered Catering.
 Normally you can order food as close as 24 hours before an event though
 obviously it's safest to give a bit more notice._
 
-_There is_ [_information about the service at this
-page_](https://www.accom.ed.ac.uk/for-staff/delivered-catering/)_ and an
-online [_order form at this
-page_](https://www.catering.accom.ed.ac.uk/KxWebCatering/CurrentBookings.aspx).
-When you check out from the system there is a box for "Account Notes".
-This is a good place to list the cost centre and job code which you want
-billed for the catering \[see Expenses chapter for details on these
-terms\]. In Psychiatry the "person to be billed" and the "authorised by"
-will normally both be Ken O'Neill._
+_There is_ [_information about the service at this page_](https://www.accom.ed.ac.uk/for-staff/delivered-catering/) and an online [_order form at this page_](https://www.catering.accom.ed.ac.uk/KxWebCatering/CurrentBookings.aspx). When you check out from the system there is a box for "Account Notes". This is a good place to list the cost centre and job code which you want billed for the catering \[see Expenses chapter for details on these terms\]. In Psychiatry the "person to be billed" and the "authorised by" will normally both be Ken O'Neill.
 
-_If those links don't work for you, the best way to access the online
-catering form is to _[_log in to MyEd_](https://www.myed.ed.ac.uk/) and
-select Catering from the menu on the left hand side, or from the
-Services tab at the top of the page.
+If those links don't work for you, the best way to access the online catering form is to _[_log in to MyEd_](https://www.myed.ed.ac.uk/) and select Catering from the menu on the left hand side, or from the Services tab at the top of the page.
 
-_If you have queries about online delivered catering you can email_
-[_accomoldcollege@ed.ac.uk_](mailto:accomoldcollege@ed.ac.uk) _or call 0131 667 1971_
+_If you have queries about online delivered catering you can email_ [_accomoldcollege@ed.ac.uk_](mailto:accomoldcollege@ed.ac.uk) _or call 0131 667 1971_
 
-_* However, **\[Online Delivered Catering will NOT deliver to Kennedy
-Tower\]{.underline}!** For us you need to call to make your order. They
-will ask for an approved signatory -- Ken or Sue can both do this. They
-will send a form to print, sign, scan and return. You will need to
-return the signed form **ten days** before your event date._
+_However, **Online Delivered Catering will NOT deliver to Kennedy Tower!** For us you need to call to make your order. They will ask for an approved signatory -- Ken or Sue can both do this. They will send a form to print, sign, scan and return. You will need to return the signed form **ten days** before your event date._
 
-If you don't have ten days or object to the fact that our building
-doesn't get a catering service like other University sites, you can get
-catering locally. Normally this will mean purchasing yourself and
-claiming back the cost. In the past we have ordered food from the [M&S
-online food-to-order
-service](https://www.marksandspencer.com/c/food-to-order/about-our-food-to-order-service),
-which can be collected for free from the shop on Morningside Road. In
-the 5^th^ floor kitchen and other locations around the Tower (try the
-3^rd^ floor kitchen too) there are insulated jugs so you can provide a
-way to make teas and coffees for large groups.
+If you don't have ten days or object to the fact that our building doesn't get a catering service like other University sites, you can get catering locally. Normally this will mean purchasing yourself and claiming back the cost. In the past we have ordered food from the [M&S  online food-to-order service](https://www.marksandspencer.com/c/food-to-order/about-our-food-to-order-service), which can be collected for free from the shop on Morningside Road. In the 5th floor kitchen and other locations around the Tower (try the 3rd floor kitchen too) there are insulated jugs so you can provide a way to make teas and coffees for large groups.
 
-If you want to contribute to an on-going effort to get Kennedy Tower
-added to the list of locations for Online Delivered Catering, please
-email [_accomoldcollege@ed.ac.uk_](mailto:accomoldcollege@ed.ac.uk) _to request this._
+If you want to contribute to an on-going effort to get Kennedy Tower added to the list of locations for Online Delivered Catering, please email [_accomoldcollege@ed.ac.uk_](mailto:accomoldcollege@ed.ac.uk) _to request this._
 
-## Free photos
+## Toys & technology available to use
 
-[This page contains a list of
-sites](https://blog.hootsuite.com/20-free-stock-photo-sites-social-media-images/?utm_source=twitter&utm_medium=owned_social&utm_campaign=social_hootsuite)
-which provide free-to-use photos for websites, tweets etc:
+_by Maggi Laurie_
+
+You can find a list of toys and technology available to DART members [on Teams here](https://uoe.sharepoint.com/:x:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/DART%20measures%20and%20resources.xlsx?d=wec6e392d137147bbbd7b79a59d17692c&csf=1&web=1&e=QmqtSz).
+
+In **Toys and Games**, there are three categories: digital toys (separate from iPads), toys associated with assessments (e.g. toys from the ADOS kit which can assess symbolic play), and participant tokens (including fidgets and participant gifts).
+
+In **Technology** we have a census of the tech cupboard on the 5th floor. The categories are: video equiptment, computer equiptment, gaming equiptment, other equiptment, "things in containers" (largely misc tech paraphernalia such as headphones, hard drives, mouses etc.), and "non-tech / misc." (such as tote bags and flattened boxes).
+
+## Video Camera Protocol (aka don't be a jerk)
+
+_by Sinéad O'Carroll_
+
+Here at the DART lab we have ample technology for all our various
+technological endeavours. Here is a quick guide to borrowing the
+cameras.
+
+| EBC (Edinburgh Birth Cohort) Cameras | DART cameras |
+| --- | --- |
+| There are two EBC cameras. These are labelled camera A and camera B | There are two DART cameras |
+| These cameras are currently located in the bookcase near Lorna’s desk | These cameras are currently located in the cabinet in Maggi and Natalie’s office. |
+| Please do not take the EBC cameras for anything outside of the EBC | Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need |
+| Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need | Please also sign out the camera + tripods on the box and sign back in when returned |
+| Before returning the camera make sure that:<br><br>1. The camera is fully charged<br><br>2. The SD card inside the camera is wiped of any and all recordings<br><br>3. All appropriate cords (chargers and USB are returned along with the camera)<br><br>4. The camera is being returned to exactly where you found it | Before returning the camera make sure that:<br><br>1. The camera is fully charged<br><br>2. The SD card inside the camera is wiped of any and all recordings<br><br>3. All appropriate cords (chargers and USB are returned along with the camera)<br><br>4. The camera is being returned to exactly where you found it |
 
 ## Data collection tools available to use
 
-_By Maggi Laurie_
+_by Maggi Laurie_
 
 You can find a list of data collection tools available to DART members [on Teams here](https://uoe.sharepoint.com/:x:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/DART%20measures%20and%20resources.xlsx?d=wec6e392d137147bbbd7b79a59d17692c&csf=1&web=1&e=QmqtSz).
 
@@ -90,16 +83,6 @@ For both kinds, you will see information about the item, when it was published, 
 In **Experiment Battery** there are details of experimental tasks that lack the standardisation of materials listed under Assessments. Examples might include a perspective-taking task or working memory task like the N-back assessment.
 
 Note that for most items, we may have the manual available, but additional forms and booklets may need to be purchased for your project. It is your responsibility to check the content is complete before commencing your project -- you many need to order extra report forms or check games / batteries etc. Please also schedule time at the end of your data collection period to clean, and neatly store the kit. It is also important to check the version number/publication date, and cross-reference online to see if a newer version of a measure or assessment exists, e.g. ADOS-G vs. ADOS-2.
-
-## Toys & technology available to use
-
-_By Maggi Laurie_
-
-You can find a list of toys and technology available to DART members [on Teams here](https://uoe.sharepoint.com/:x:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/DART%20measures%20and%20resources.xlsx?d=wec6e392d137147bbbd7b79a59d17692c&csf=1&web=1&e=QmqtSz).
-
-In **Toys and Games**, there are three categories: digital toys (separate from iPads), toys associated with assessments (e.g. toys from the ADOS kit which can assess symbolic play), and participant tokens (including fidgets and participant gifts).
-
-In **Technology** we have a census of the tech cupboard on the 5th floor. The categories are: video equiptment, computer equiptment, gaming equiptment, other equiptment, "things in containers" (largely misc tech paraphernalia such as headphones, hard drives, mouses etc.), and "non-tech / misc." (such as tote bags and flattened boxes).
 
 ## Online services: Infogram, Qualtrics etc.
 
@@ -116,6 +99,8 @@ We have accounts with the following services, for members of the DART group only
 
 ### Free Resources
 
+_by Holly Sutherland_
+
 * [**Flourish.studio**](https://flourish.studio/): Easily turn your data into stunning charts, maps, and interactive stories. Upload a spreadsheet, and return with: Animated bar charts, survey data, scatter plots, story maps & more
 * [**Mentimeter.com**](https://www.mentimeter.com/): Build interactive polls, quizzes, and more allowing your audience to engage in real-time. Using their smartphone, attendees can answer questions and the results are visualized as they happen.
 * [**Webwhiteboard.com**](https://webwhiteboard.com/): An online collaborative whiteboard ideal for remote meetings, brainstorming, and ideation across teams. Make flowcharts, build product roadmaps, engage in a quick retrospective
@@ -127,19 +112,4 @@ We have accounts with the following services, for members of the DART group only
 * [**Freecodecamp.org**](https://www.freecodecamp.org/): Learn to code for free. HTML, CSS, Python & more. They also have a YouTube channel with 1,000s of hours of instructional videos.
 * [**Wayback Machine**](https://web.archive.org/web/): Found a website that doesn't seem to exist anymore? A dead link somewhere? Google showing you stuff in the link preview that doesn't appear when you click the link? The wayback machine saves archival copies of webpages at various different timepoints - just put the page link in and select which timepoint you want to view!
 * [**archive.ph**](https://archive.ph/): Nominally for archiving versions of webpages (e.g. a tweet you want to preserve even if the author deletes it), putting in the URL of, say, a paywall-blocked news article will usually produce the whole article sans paywall.
-
-## Video Camera Protocol (aka don't be a jerk)
-
-_By Sinéad O'Carroll_
-
-Here at the DART lab we have ample technology for all our various
-technological endeavours. Here is a quick guide to borrowing the
-cameras.
-
-| EBC (Edinburgh Birth Cohort) Cameras | DART cameras |
-| --- | --- |
-| There are two EBC cameras. These are labelled camera A and camera B | There are two DART cameras |
-| These cameras are currently located in the bookcase near Lorna’s desk | These cameras are currently located in the cabinet in Maggi and Natalie’s office. |
-| Please do not take the EBC cameras for anything outside of the EBC | Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need |
-| Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need | Please also sign out the camera + tripods on the box and sign back in when returned |
-| Before returning the camera make sure that:<br><br>1. The camera is fully charged<br><br>2. The SD card inside the camera is wiped of any and all recordings<br><br>3. All appropriate cords (chargers and USB are returned along with the camera)<br><br>4. The camera is being returned to exactly where you found it | Before returning the camera make sure that:<br><br>1. The camera is fully charged<br><br>2. The SD card inside the camera is wiped of any and all recordings<br><br>3. All appropriate cords (chargers and USB are returned along with the camera)<br><br>4. The camera is being returned to exactly where you found it |
+* [**Stock Image site list**](https://blog.hootsuite.com/20-free-stock-photo-sites-social-media-images/?utm_source=twitter&utm_medium=owned_social&utm_campaign=social_hootsuite): List of sites that provide free-to-use photos for websites, tweets etc.
