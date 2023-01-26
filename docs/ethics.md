@@ -1,7 +1,7 @@
 ---
-title: "Ethics"
----
+title: Ethics Applications
 
+---
 Ethics
 ======
 
