@@ -145,18 +145,29 @@ Key advice on getting costs for grants include:
   provided I'm confident I have enough money to pay people / do the work,
   and it is in the right categories
 
+### Research applications involving NHS Lothian
+
+NHS Lothian are now requesting the following for research applications involving NHS Lothian resources (NHSL staff costs, and any trial applications with service support costs and excess treatment costs) :
+
+1. In every case, the NHSL Finance Review Form (_attached, and also available for attachment via the Intent to Submit page_) **must** be submitted along with a draft application **at latest** **ten working days before funder deadline**.
+2. Even if applicants have submitted these documents for outline stage applications, they must also be submitted for full-stage applications
+
+The sooner Edinburgh Research Office receives the Intent to Submit form, the earlier we can approach NHSL if required. (Please also note that any applications requiring review by ACCORD (human patient, data or tissue involvement) must still be submitted to ACCORD for review no later than five working days before funder deadlines).
+
+See the [MVM Intent to Submit Landing Page](https://uoe.sharepoint.com/sites/EdinburghResearchOffice/SitePages/CMVM-Grant-Submission-ITS-Form.aspx#important-information-about-deadlines) and associated FAQs for more information.
+
 ## Reporting to UKRI via ResearchFish
 
-UKRI [ResearchFish](https://researchfish.com/) is an online platform that UKRI (which includes all the UK research councils - MRC, ESRC etc.) uses to capture impact of work they have funded. 
+UKRI [ResearchFish](https://researchfish.com/) is an online platform that UKRI (which includes all the UK research councils - MRC, ESRC etc.) uses to capture impact of work they have funded.
 
 Grant holders need to complete ResearchFish pages every year, normally in Feb-March.
 
-There is a way to get publications to associate automatically with your awards in ResearchFish: 
+There is a way to get publications to associate automatically with your awards in ResearchFish:
 
 * open the research output on Pure
 * scroll down to the ‘Relations’ section at the bottom, and choose ‘Project’. You can search by title, R number, or funder reference number.
 * These added ‘relations’ are transferred to ResearchFish by the UoE Research Information Systems Manager. This bulk upload is a manual process which is done once a year before the UKRI Researchfish reporting window.
 
- NB: _This only works for publications. There is no way to automatically prepopulate any other section of your Researchfish return._ 
+NB: _This only works for publications. There is no way to automatically prepopulate any other section of your Researchfish return._
 
 Similarly, Researchfish and [ORCID](https://orcid.org/) can be linked for publications only. In Researchfish, choose ‘Connect to ORCID’ at the top right.
