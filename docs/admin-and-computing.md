@@ -8,11 +8,11 @@ title: Admin & Computing
 
 _By Sue FW_
 
-To book a room in Kennedy Tower, you need to email [KT.Bookings@ed.ac.uk](mailto:KT.Bookings@ed.ac.uk) telling the team which room you require and when. To see if your room has already been booked, you can view the KT Room Booking Calendar: 
+To book a room in Kennedy Tower, you need to email [KT.Bookings@ed.ac.uk](mailto:KT.Bookings@ed.ac.uk) telling the team which room you require and when. To see if the room has availability, you can view the KT Room Booking Calendar:
 
 * Go on your Outlook Calendars webpage
-* Click 'Add calendar' from the side bar 
-* Select 'Add from directory' from your options 
+* Click 'Add calendar' from the side bar
+* Select 'Add from directory' from your options
 * Search for 'KT Room Bookings' and select 'Add calendar' to see the current room booking schedule
 
 To book a room elsewhere in the University you can either:
