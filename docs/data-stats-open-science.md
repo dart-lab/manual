@@ -224,7 +224,7 @@ documents; Can be accessed from any computer.
 
 ## GDPR -- what is it and how does it affect me?
 
-There's detailed information on the UoE [Data Protection webpages](http://www.ed.ac.uk/records-management/gdpr), and on their [Sharepoint webpage](https://uoe.sharepoint.com/sites/DataProcessingRegisters/ "UoE Data Protection Sharepoint"). 
+There's detailed information on the UoE [Data Protection webpages](http://www.ed.ac.uk/records-management/gdpr), and on their [Sharepoint webpage](https://uoe.sharepoint.com/sites/DataProcessingRegisters/ "UoE Data Protection Sharepoint").
 
 **Basic Principles:**
 
@@ -391,7 +391,7 @@ commands_
 * Information about the [FAIR principles of data
   science](https://www.go-fair.org/fair-principles/): data should be
   Findable, Accessible, Interoperable and Reuseable
-* [Research Cultures Integrity, Reproducibility and Open Research event recording](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/Shared Documents/Forms/AllItems.aspx?id=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation%2FRCWG December Event%2Emp4&parent=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation). Topics covered in this series of talks include: the role of research metrics, assessment and research practices and how these impact research culture, research integrity, and reproducibility
+* \[Research Cultures Integrity, Reproducibility and Open Research event recording\](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/Shared Documents/Forms/AllItems.aspx?id=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation%2FRCWG December Event%2Emp4&parent=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation). Topics covered in this series of talks include: the role of research metrics, assessment and research practices and how these impact research culture, research integrity, and reproducibility
 
 ## Quick intro to the Open Science Framework (OSF)
 
@@ -415,15 +415,3 @@ The OSF is a free open-source software project that facilitates open collaborati
 * Already submitted your pre-reg but need to change it due to unexpected circumstances? Don't worry, [it's easy to update it](https://help.osf.io/article/112-starting-an-update "how to update"). However, it's important to think carefully about the [rationale for your update](https://help.osf.io/article/110-introduction-to-updating "update intro")
 
 If you need more info, the [OSF support FAQ page](https://help.osf.io/article/550-registration-and-preregistration-faq-s "FAQs") might be helpful!
-
-## Open-access Publishing 
-
-_By Reesha Zahir_ 
-
-If you want to make your research freely available for anyone to read (be gone paywalls!), there are a number of [open-access journals](https://doaj.org/ "DOAJ") that you can choose from to submit your research article. 
-
-The UoE library has also announced a three year transitional agreement with Elsevier starting from 1st January 2022. Authors will now have the option to publish open access without paying a fee in participating Elsevier hybrid journals including the Lancet and Cell Press titles.
-
-To be eligible, corresponding authors must be from the University of Edinburgh, have an acceptance date from 1 January 2022 and be publishing an original research article. More information on the agreement can be found here [https://www.elsevier.com/open-access/agreements/jisc](https://www.elsevier.com/open-access/agreements/jisc "https://www.elsevier.com/open-access/agreements/jisc")
-
-For authors publishing in fully open access titles, Article Processing Charges (APC's) will still apply, however the library can continue to pay these APC's for authors funded by UKRI, Wellcome, CRUK and BHF.
