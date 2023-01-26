@@ -16,23 +16,20 @@ Alternatively you can contact the Helpline by calling 0131 651 5151 or emailing
 
 _by Sue FW_
 
-* Use these pages to get an overview of financial systems within CCBS:
+The following gives an overview of financial systems within CCBS: [CCBS information for everyone.](https://www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone)
 
-[CCBS information for everyone. ](https://www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone)
+## Tips for doing a financial transaction
 
-* **Submit the request on the appropriate form**
+**1. Submit the request on the appropriate form**
 
 UoE forms can be downloaded from [www.ed.ac.uk/finance/for-staff/forms](http://www.ed.ac.uk/finance/for-staff/forms)
 
-**Tip**: Search for "finance forms" on the University website to
-download the correct form each time rather than save local copies, which
-might go out of date.
+**Tip**: Search for "finance forms" on the University website to download the correct form each time rather than save local copies, which might go out of date.
 
 The purchasing request form is CCBS-specific and can be downloaded from
 the CCBS website Staff Only pages at [www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone](http://www.edweb.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone)
 
-* **Fill in \[all\]{.underline} the details \[before\]{.underline}
-  submitting to your finance officer or local contact**
+**2. Fill in _all_ the details _before_ submitting to your finance officer or local contact**
 
 Make sure that the UoE finance code is fully completed, and all relevant
 contact name and addresses have been supplied. Your local contact will
@@ -47,88 +44,53 @@ e.g.
 | --- | --- | --- |
 | Cost Centre - this is like the sort code; it's specific to the individual or research group. | Account code - this identifies the category of the purchase/sale, for instance 3138 refers to Research Consumables, 3432 is for Postage | Job code* - this is like the account number |
 
-\*The initial letter of the job code refers to the type of account: R =
-research grant; D = donation; G = general
+\*The initial letter of the job code refers to the type of account: R = research grant; D = donation; G = general
 
-'R' job codes have a restricted set of account codes that can be
-used, according to what you applied for in your grant. \[Please
-don't pair an R job code with an account code that doesn't apply
-to that grant\]{.underline}.
+'R' job codes have a restricted set of account codes that can be used, according to what you applied for in your grant. (Please don't pair an R job code with an account code that doesn't apply to that grant).
 
-Please look up on webfirst and keep a note of which account codes can
-be paired with which R numbers. If you don't have access to you job
-code on webfirst, please contact the Centre Manager.
+Please look up on webfirst and keep a note of which account codes can be paired with which R numbers. If you don't have access to you job code on webfirst, please contact the Centre Manager.
 
-'D' job codes can also be restricted, if a restriction has been
-specified in the donation agreement.
+'D' job codes can also be restricted, if a restriction has been specified in the donation agreement.
 
 'G' job codes can be used with any account code.
 
-* **Obtain authorisation from the PI/budget holder
-  \[before\]{.underline} submitting**
+**3. Obtain authorisation from the PI/budget holder _before_ submitting**
 
-This will normally be Sue FW
+This will normally be Sue FW.
 
-* **Submit your request to** [ccbs-orders@ed.ac.uk](mailto:ccbs-orders@ed.ac.uk "mailto:ccbs-orders@ed.ac.uk") - **this is** **the shared email for the core finance team (Erika, Rokas, Caroline)**
+**4. Submit your request to** [**ccbs-orders@ed.ac.uk **](mailto:ccbs-orders@ed.ac.uk "mailto:ccbs-orders@ed.ac.uk")- **this is** **the shared email for the core finance team (Erika, Rokas, Caroline)**
 
-Please don't copy in other people who might be able to help. This can
-cause confusion over responsibilities and often slows things up.
+Please don't copy in other people who might be able to help. This can cause confusion over responsibilities and often slows things up.
 
 The email will be picked up by either Rokas Stonys or Caroline MacDonald, our Finance Administrators. They will normally respond within 2 working days, either to confirm that the request has been actioned or, for more complex requests, to acknowledge receipt.
 
-* **Please be patient -- wait at least 3 days before following up**
+**5. Please be patient - wait at least 3 days before following up**
 
 ## Specific transaction types within CCBS
 
-**Purchase orders** (PO): Please fill a purchasing request form
-(download from CCBS website) and send one email with all the details
-available for your product including full grant coding. If you don't
-know the details, please ask your PI, and obtain their full
-authorisation.
+**Purchase orders** (PO): Please fill a purchasing request form (download from CCBS website) and send one email with all the details available for your product including full grant coding. If you don't know the details, please ask your PI, and obtain their full authorisation.
 
-**Invoices:** Please send only one email with a scan of the invoice and
-grant codes once you get authorisation from PI. Please check if invoices
-have a contact email and bank details, and provide these details if they
-are not stated on the invoice.
+**Invoices:** Please send only one email with a scan of the invoice and grant codes once you get authorisation from PI. Please check if invoices have a contact email and bank details, and provide these details if they are not stated on the invoice.
 
-**Expenses for non-staff:** Complete the 'Payment for non-staff /
-non-students expenses' form and submit it once you have PI approval and
-signature and all all the grant coding has been added. Please complete
-the form with full address and bank details. Please also send an email
-from the non-staff member confirming their bank details as Accounts
-Payable will need to see this email.
+**Expenses for non-staff:** Complete the 'Payment for non-staff / non-students expenses' form and submit it once you have PI approval and signature and all all the grant coding has been added. Please complete the form with full address and bank details. Please also send an email from the non-staff member confirming their bank details as Accounts Payable will need to see this email.
 
-**Suppliers that are not in our system:** The supplier will need to
-completes the 'Supplier Self-Declaration form' and provide a headed
-company letter with full bank details including bank address.
+**Suppliers that are not in our system:** The supplier will need to completes the 'Supplier Self-Declaration form' and provide a headed company letter with full bank details including bank address.
 
-**International payments:** Please send the invoice with all above
-details including full grant coding.
+**International payments:** Please send the invoice with all above details including full grant coding.
 
-**Internal Transfers**: Please send the School and Sub-Unit and the name
-of the authoriser plus grant codes and explain clearly if this is to pay
-for something or to receive a payment
+**Internal Transfers**: Please send the School and Sub-Unit and the name of the authoriser plus grant codes and explain clearly if this is to pay for something or to receive a payment
 
-**Sales invoices**: Please request a PO from the customer and provide
-full grant details
+**Sales invoices**: Please request a PO from the customer and provide full grant details
 
 ## How to use WebFirst
 
 _By Sue FW_
 
-**Webfirst** is an online system for checking balances, transactions,
-expenditure and income for specific Job Codes. You need to request
-access to specific Job Codes by emailing Val Renton. [You can access
-WebFirst here](https://www.webfirst.fin.ed.ac.uk/).
+**Webfirst** is an online system for checking balances, transactions, expenditure and income for specific Job Codes. You need to request access to specific Job Codes by emailing Val Renton. [You can access WebFirst here](https://www.webfirst.fin.ed.ac.uk/).
 
-WebFirst prompts you to choose from a range of different types of
-reports on the left-hand side of the page -- e.g. all transactions in a
-specific period, or a round-up of total spending to date. The report
-names are quite hard to understand and so they are very hard to decide
-between! [There are descriptions
-here.](https://www.wiki.ed.ac.uk/display/Finance/WebFirst+-+Available+Reports)
-If you find a report format that is useful, it's worth saving it in your
-Favourites / making a note to access it again!
+WebFirst prompts you to choose from a range of different types of reports on the left-hand side of the page -- e.g. all transactions in a specific period, or a round-up of total spending to date. The report names are quite hard to understand and so they are very hard to decide between! [There are descriptions here.](https://www.wiki.ed.ac.uk/display/Finance/WebFirst+-+Available+Reports)
+
+If you find a report format that is useful, it's worth saving it in your Favourites / making a note to access it again!
 
 _PLEASE ADD INFORMATION HERE IF YOU DISCOVER USEFUL THINGS ABOUT
 WEBFIRST THAT YOU WANT TO SHARE!_
@@ -154,6 +116,8 @@ For reasons unknown to us mere mortals, the powers that be have decided that (mo
 _by Lizzy Kirkham & Sue FW_
 
 ### Finance Codes
+
+{OUT OF DATE PLEASE AMEND\]
 
 **Account code:** the type of expenditure or income. Account codes are 4-digit numbers. You can look up account codes [here](https://www.wiki.ed.ac.uk/pages/viewpage.action?spaceKey=Finance&title=eFinancials+Account+Code+Finder).
 
@@ -203,8 +167,6 @@ Purchase Orders provide a number of advantages. They get the transaction added t
 
 ## Using petty cash
 
-\[needs content\]
-
 Just don't.
 
 # Travel
@@ -245,11 +207,9 @@ In order to avoid some of these problems, travellers can use the Airbnb platform
 Please remember to have a valid insurance policy, which you can arrange free of charge via [**the Insurance Office**](https://www.ed.ac.uk/finance/about/sections/insurance). This can be done by completing an online form:
 
 * [Travel insurance application form for students ](https://www.ed.ac.uk/finance/about/sections/insurance/travel-insurance/how-do-i-apply "Student insurance application form")
-
-
 * [Travel insurance appliation form for staff](https://www.ed.ac.uk/staff/business-travel/travel-insurance/insurance-application-form "Staff insurance application form")
 
-When completing your insurance form, you will need to upload a **risk assessment form** and/or **travel plan**. These forms can be found on [this webpage](https://www.ed.ac.uk/staff/business-travel/travel-safety/risk-assessments-travel-plan "Risk Assessment Info"), along with more information. When applying for insurance for international travel, you will need to complete **both forms.** For local travel, **just the travel plan** will suffice. You can get the forms signed by sending them to Sue D susan.davidson@ed.ac.uk 
+When completing your insurance form, you will need to upload a **risk assessment form** and/or **travel plan**. These forms can be found on [this webpage](https://www.ed.ac.uk/staff/business-travel/travel-safety/risk-assessments-travel-plan "Risk Assessment Info"), along with more information. When applying for insurance for international travel, you will need to complete **both forms.** For local travel, **just the travel plan** will suffice. You can get the forms signed by sending them to Sue D susan.davidson@ed.ac.uk
 
 ## Travel expenses and booking conference or work travel
 
@@ -291,7 +251,7 @@ Find out more by reading the University’s Expenses Policy.
 
 ## How to pay participants
 
-**Option 1 -- Gift vouchers**
+### Option 1: Gift vouchers
 
 _by Bérengère Digard_
 
@@ -299,13 +259,19 @@ Gift vouchers can be ordered by Ken at one of the University-approved suppliers 
 
 You can also buy vouchers yourself from the Post Office or Amazon, and claim them back (Amazon is not a University-approved supplier, so you cannot ask Ken to order them for you) via eExpenses.
 
+### Option 2: Don't
+
+Most of the other options are pretty terrible. Just use vouchers.
+
 ## How to pay external consultants / providers
 
 _by Sue FW_
 
-NB: copies of all the documents listed below should be available in the DART Resources folder under Finance. Do check you have the latest copy of the form before you send it to an external provider for completion.
+**NB:** copies of all the documents listed below should be available in the DART Resources folder under Finance. Do check you have the latest copy of the form before you send it to an external provider for completion.
 
-**Option 1**: If the consultant is self-employed they can be added as an approved supplier, and then invoice the University for their services. The steps are:
+### Option 1: Approved Supplier
+
+If the consultant is self-employed they can be added as an approved supplier, and then invoice the University for their services. The steps are:
 
 1. The consultant must complete a Supplier Self-Declaration Form, and provide HMRC confirmation that they are registered for self-assessment, plus details of their bank account and registered VAT number (if they have one)
 2. You must complete an Employment Status questionnaire, and an Engagement of Services Agreement. These explain what you asking the external provider to do and lay out the University's legal obligations to them as a new "employee". This is essentially in lieu of a proper contract of employment. It is a useful process to go through.
@@ -313,7 +279,9 @@ NB: copies of all the documents listed below should be available in the DART Res
 4. After confirmation is received from HMRC and Payroll, the provider can be added to the Approved Suppliers list.
 5. They can then invoice the University and receive payment.
 
-**Option 2:** If the consultant is not self-employed they can be paid **once in a tax year** using an "Ad-Hoc Payment Form-100". They need to complete the form, and present their passport to Human Resources at the University -- the passport has to be presented in person, a copy will not be accepted.
+### Option 2: Ad Hoc Payment
+
+If the consultant is not self-employed they can be paid **once in a tax year** using an "Ad-Hoc Payment Form-100". They need to complete the form, and present their passport to Human Resources at the University -- the passport has to be presented in person, a copy will not be accepted.
 
 It is worth asking any external consultants to review the form in advance to check they are happy to share this kind of information. If they have questions, these statements from HR might be helpful:
 
@@ -321,7 +289,9 @@ It is worth asking any external consultants to review the form in advance to che
 >
 > **Passport check:** The University is required, by the Home Office UK Visas and Immigration rules (Immigration, Asylum and Nationality Act 2006) to verify the 'right to work' of any person who undertakes any work at the University of Edinburgh, including those who are British or from the European Economic Area (EEA).  This is irrespective of the length or nature of your employment, and means that the University must carry out document checks on people before employing them to make sure they are allowed to work in the UK. Failure of the University to comply with these requirements would result in the University being fined or, more importantly, losing the right to employ individuals who are not nationals of the EEA.
 
-**Option 3:** If the consultant is a member of a steering committee / reference group for a study, the easiest way to pay them as is a subsistence payment for each meeting they attend.
+### Option 3: Subsistence Payment
+
+If the consultant is a member of a steering committee / reference group for a study, the easiest way to pay them as is a subsistence payment for each meeting they attend.
 
 ## How to pay UoE employees or students for work or overtime
 
@@ -333,8 +303,6 @@ It is worth asking any external consultants to review the form in advance to che
 
 _By Sue FW_
 
-**In most cases:** Please email Sue D with order requests and copy in
-Sue FW.  Sue D will action these orders on the assumption that cc-ing
-SFW indicates approval.  Please (obviously) make sure you discuss orders
-with me in advance.  Anything over £200 threshold will need written
-approval from SFW, not just a cc.
+**In most cases:** Please email Sue D with order requests and copy in Sue FW.  Sue D will action these orders on the assumption that cc-ing SFW indicates approval. Please (obviously) make sure you discuss orders with me in advance.  
+
+Anything over £200 threshold will need written approval from SFW, not just a cc.
