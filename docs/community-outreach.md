@@ -6,7 +6,7 @@ title: Community & Outreach
 
 ## Working with a study advisory board
 
-_By Rachael Davis_
+_by Rachael Davis_
 
 A study advisory board provides an invaluable community perspective for
 research projects. This is achieved by ensuring that the board
@@ -48,7 +48,7 @@ with.
 
 ## Working with a community advisor
 
-_By Reesha Zahir_
+_by Reesha Zahir_
 
 One way to strengthen your research is by working with a _community advisor —_ someone who belongs to the group of people that your research focuses on. Working with community advisors can:
 
@@ -71,7 +71,7 @@ We have prepared a [Community Partner Recruitment Pack](https://drive.google.com
 
 ## Open access: Getting your papers made available to everyone
 
-_By Sue FW_
+_by Sue FW_
 
 Our Centre has a dedicated office who will take newly-accepted papers
 and make sure a copy is posted up online for anyone to access. Simply
@@ -90,7 +90,7 @@ journal.
 
 ## A list of relevant conferences and their deadlines
 
-_By Mihaela Dragomir & Bérengère Digard_
+_by Mihaela Dragomir & Bérengère Digard_
 
 ### HUMAN-COMPUTER INTERACTION - see [ConferencesCalendar](https://sigchi.org/conferences/calendar/)
 
@@ -121,21 +121,18 @@ _By Mihaela Dragomir & Bérengère Digard_
 
 ## Poster printing
 
-_Catherine Crompton_
+_by Catherine Crompton_
 
 Teviot Print Shop (based in the entrance hallway of Teviot Student
 Union) do very reasonable poster printing, with fairly quick turnaround.
 If you want a cheap fabric poster so you don't have to wrestle a poster
 tube on to the plane, they charge for £35 for an A0 fabric poster.
 
-## Room booking 
+## Room booking for community partners
 
+_by Holly Sutherland_
 
-
-
-community groups you’re actively involved with can now use selected University rooms, free of charge, during the evening. If you know of a group which could benefit from this, please put them in touch with Anne Douglas on a.douglas@ed.ac.uk, 0131 651 5000. Working with Estates and other colleagues, Anne has been piloting community use of rooms since September 2022. We initially opened the pilot to the 100+ local community groups the University has awarded community grants to. This has gone well, so we want to cast the net a bit wider.
-
-If you are someone who has ever quietly booked rooms for community groups ‘under the radar’ for non-University business, this is for you! This is an approved process which means everyone is insured and safe.
+Community groups you’re actively involved with can now use selected University rooms, free of charge, during the evening. This is an approved process which means everyone is insured and safe. If you know of a group which could benefit from this, please put them in touch with **Anne Douglas on a.douglas@ed.ac.uk, 0131 651 5000.** 
 
 **What’s on offer right now:**
 
@@ -154,4 +151,4 @@ If you are someone who has ever quietly booked rooms for community groups ‘und
 * Meetings with attendees aged under 18, with the exception of ‘babes in arms’
 * Use of rooms for groups with whom you are not currently actively involved. There are currently no details of the pilot on [www.ed.ac.uk/local](http://www.ed.ac.uk/local "http://www.ed.ac.uk/local") for this reason
 
-Groups can request a room by completing a [Booking Request Form](https://w2.irm.ed.ac.uk/communityrooms "https://w2.irm.ed.ac.uk/communityrooms") and must agree to the Pilot [Terms & Conditions](https://www.ed.ac.uk/sites/default/files/atoms/files/communityaccessrooms_tcs_0.pdf "https://www.ed.ac.uk/sites/default/files/atoms/files/communityaccessrooms_tcs_0.pdf"). If they would like an informal chat first – we realise forms are daunting for some – they can contact Anne Douglas on [a.douglas@ed.ac.uk](mailto:a.douglas@ed.ac.uk "mailto:a.douglas@ed.ac.uk"), 0131 651 5000.ings for community partners
+Groups can request a room by completing a [Booking Request Form](https://w2.irm.ed.ac.uk/communityrooms "https://w2.irm.ed.ac.uk/communityrooms") and must agree to the Pilot [Terms & Conditions](https://www.ed.ac.uk/sites/default/files/atoms/files/communityaccessrooms_tcs_0.pdf "https://www.ed.ac.uk/sites/default/files/atoms/files/communityaccessrooms_tcs_0.pdf"). If they would like an informal chat first – we realise forms are daunting for some – they can contact Anne Douglas on [a.douglas@ed.ac.uk](mailto:a.douglas@ed.ac.uk "mailto:a.douglas@ed.ac.uk"), 0131 651 5000.
