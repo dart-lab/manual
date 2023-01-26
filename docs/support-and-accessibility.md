@@ -4,31 +4,31 @@ title: Support & Accessibility
 ---
 # Support
 
-## University services including counselling, disability service etc.
+## University support services (counselling, disability service etc.)
 
-_By Lorena Jiménez Sánchez_
+_by Lorena Jiménez Sánchez_
 
 There are several services to support physical and mental wellbeing available at the University and around Edinburgh.
 
-**Health services**
+### Health services
 
 [The Student Health services](https://www.ed.ac.uk/students/health-wellbeing/health-services) include health care, free sexual health services and access to free period products.
 
 The University's [Occupational Health Service](https://www.ed.ac.uk/health-safety/occupational-health) can provide advice on health related issues that may affect staff at work (both self-referrals and referrals from managers are accepted).
 
-**Wellbeing services**
+### Wellbeing services
 
-_Disability service_
+#### Disability service
 
-[The Student Disability service](https://www.ed.ac.uk/student-disability-service/students) supports students with disabilities, learning differences, or health conditions that may interfere with their studies. They also help [staff](https://www.ed.ac.uk/student-disability-service/staff) involved in supporting them. The Student Disability Service does not provide support to staff with disabilities, learning differences, or health conditions that may interfere with their work, but they can refer staff to other services.
+[The Student Disability service](https://www.ed.ac.uk/student-disability-service/students) supports students with disabilities, learning differences, or health conditions that may interfere with their studies. They also help the [staff](https://www.ed.ac.uk/student-disability-service/staff) involved in supporting them. The Student Disability Service does not provide support to staff with disabilities, learning differences, or health conditions that may interfere with their work, but they can refer staff to other services.
 
 Information and guidances to support staff with disabilities can be found [here](https://www.ed.ac.uk/equality-diversity/disabled-staff-support).
 
-_Wellbeing Drop-In Service_
+#### Wellbeing Drop-In Service
 
 A [student service](https://www.ed.ac.uk/students/health-wellbeing/wellbeing-services/wellbeing-drop-in) to chat about how students are getting on and/or discuss more specialist support – 15-minute sessions are available at the Health & Wellbeing Centre on Bristo Square on Mondays and Thursdays.
 
-_Speak to someone_
+#### Speak to someone
 
 This includes support and guidance for anyone seeking help with mental health issues.
 
@@ -36,23 +36,23 @@ The [Advice Place](https://eusa.ed.ac.uk/adviceplace) is an independent and conf
 
 The University provides Counselling Services for [students](https://www.ed.ac.uk/student-counselling) and [staff](https://www.ed.ac.uk/counselling-services/staff) to support with work-related or personal issues. The [Chaplaincy](https://www.ed.ac.uk/chaplaincy) is another safe and open service that offers [Multifaith and Belief](https://www.ed.ac.uk/chaplaincy/multifaith-and-belief-spirituality "https://www.ed.ac.uk/chaplaincy/multifaith-and-belief-spirituality") provision, a [Listening service](https://www.ed.ac.uk/chaplaincy/the-listening-service "https://www.ed.ac.uk/chaplaincy/the-listening-service"), [events](https://www.ed.ac.uk/chaplaincy/events) and a [Mindfulness](https://www.ed.ac.uk/chaplaincy/mindfulness "https://www.ed.ac.uk/chaplaincy/mindfulness") programme.
 
-_Self-help_
+#### Self-help
 
 Resources to immediately access online mental health support can be found [here](https://www.ed.ac.uk/students/health-wellbeing/wellbeing-services/self-help).
 
-**Support in a crisis**
+### Support in a crisis
 
 These [services](https://www.ed.ac.uk/counselling-services/crisis-support), [organisations and resources](https://www.ed.ac.uk/students/health-wellbeing/crisis-support) can help in the event of a mental health crisis or crime, such as sexual assault and harassment. The University also provides [out-of-hours student support](https://www.ed.ac.uk/contacts/out-of-hours-support).
 
-**Report and support**
+### Report and support
 
 [Repport + Support](https://reportandsupport.ed.ac.uk/) offers a place to report incidents of sexual violence, harassment, domestic abuse, and stalking. Access via VPN from off campus networks is recommended, and both anonymous and named reports are accepted. Reporting here does not automatically trigger a complaint or conduct investigation, but these options will be discussed if appropriate.
 
-**Worried about someone?**
+### Worried about someone?
 
 The University provides [support and guidance](https://www.ed.ac.uk/staff/supporting-students/student-mental-health) for staff who are concerned about a student's mental health. There are also [resources](https://www.ed.ac.uk/students/health-wellbeing/worried-about-someone) for students concerned about another student, a friend, or a flatmate.
 
-**EDI groups and networks**
+### EDI groups and networks
 
 Equality, Diversity and Inclusion (EDI) Groups give people the opportunity to share experiences and challenges, seek help and support from their peers. Some of these groups are:
 
@@ -66,14 +66,14 @@ Equality, Diversity and Inclusion (EDI) Groups give people the opportunity to sh
 
 _by Holly Sutherland_
 
-**Free Options**
+### Free Options
 
 * [The Wellbeing Thesis](https://thewellbeingthesis.org.uk/): "An online resource for postgraduate research students to support your wellbeing, learning and research."
 * [Togetherall](https://togetherall.com/en-gb/): "Togetherall is a safe, online community where people support each other anonymously to improve mental health and wellbeing." (You should be able to create an account for free via your Uni email.)
 * [The Feeling Good App](https://www.ed.ac.uk/student-counselling/self-help/apps-podcasts-ted-talks-relaxation-recordings/feeling-good-app): "A mental skills training programme which teaches how to calm the mind and develop a positive mindset, enabling greater emotional resilience to deal more effectively with challenges of student life."
 * [iThrive](https://ithriveedinburgh.org.uk/#): "Your online space for mental health and wellbeing information in Edinburgh."
 
-**Paid Options:**
+### Paid Options
 
 * A [register of counselling agencies](https://edinburghcounsellingagencies.co.uk/) in Edinburgh.
 * A [directory of individual counsellors](https://www.counselling-directory.org.uk/city/edinburgh), which you can filter by the option to offer a student discount.
@@ -111,15 +111,12 @@ Here are some counselling services drawn from that first list, which all offer l
 
 _by Sue FW_
 
-I get fairly regular emails from people -- parents of autistic children asking me for advice on local services etc. Here's a list of things I often share -- obviously this should be tailored to the specific circumstances and query of the family:
+I get fairly regular emails from people - parents of autistic children asking me for advice on local services etc. Here's a list of things I often share - obviously this should be tailored to the specific circumstances and query of the family:
 
-Grow Communication is a lovely local speech & language group providing independent services: [http://www.growsalt.uk/](http://www.growsalt.uk/ "http://www.growsalt.uk/")
-
-Tailor Ed is another local organisation that provides autism-specific support: [http://tailoredfoundation.co.uk/](http://tailoredfoundation.co.uk/ "http://tailoredfoundation.co.uk/")
-
-Bounce OT is a great occupational therapy organisation: [https://bouncet.com/](https://bouncet.com/ "https://bouncet.com/")
-
-You can also get excellent advise from the Scottish Autism Helpline: [https://www.scottishautism.org/](https://www.scottishautism.org/ "https://www.scottishautism.org/")
+* Grow Communication is a lovely local speech & language group providing independent services: [http://www.growsalt.uk/](http://www.growsalt.uk/ "http://www.growsalt.uk/")
+* Tailor Ed is another local organisation that provides autism-specific support: [http://tailoredfoundation.co.uk/](http://tailoredfoundation.co.uk/ "http://tailoredfoundation.co.uk/")
+* Bounce OT is a great occupational therapy organisation: [https://bouncet.com/](https://bouncet.com/ "https://bouncet.com/")
+* You can also get excellent advise from the Scottish Autism Helpline: [https://www.scottishautism.org/](https://www.scottishautism.org/ "https://www.scottishautism.org/")
 
 # Accessibility
 
@@ -131,23 +128,23 @@ _by Sue FW_
 
 ## Respect at Edinburgh
 
-_By Sue FW_
+_by Sue FW_
 
 The University has a zero-tolerance stance towards any form of bullying and harassment. The [Respect at Edinburgh web hub](https://www.edweb.ed.ac.uk/equality-diversity/respect) brings together information and guidance on the Dignity & Respect policy, the processes for raising and addressing concerns, and the support and training available.
 
 # Lone & international working
 
-## What is it and how to do it safely
+## Lone Working
 
-_By Shereen Sharaan_
+_by Shereen Sharaan_
 
-**Definition:** 'lone working' involves carrying out work duties
-remotely and without direct supervision to control, guide or help in
-uncertain situations, during working hours or out of hours, locations
-can vary (based in various places for periods of time) or fixed (same
-place).
+### Definition
 
-**How to do it safely: Know the Building Procedures**
+'Lone working' involves carrying out work duties remotely and without direct supervision to control, guide or help in uncertain situations, during working hours or out of hours,  locations can vary (based in various places for periods of time) or fixed (same place).
+
+### How to do it safely
+
+#### Know the Building Procedures
 
 * Familiarity with exits and alarms
 * Access to a telephone and first aid kit
@@ -155,7 +152,7 @@ place).
   be contacted in an emergency
 * Follow sign-in and sign-out procedures
 
-**How to do it safely: Know your Personal Safety**
+####  Know your Personal Safety
 
 * Identify a person based where you are with whom you can share
   details of your location, work plan, estimated time of leaving and
@@ -198,57 +195,22 @@ place).
 
 ## Things to think about when collecting data internationally
 
-1. Research Approvals: Regulatory Authorities
+### Research Approvals: Regulatory Authorities
 
-Depending on the nature of your research project (medical, non-medical,
-etc.) and the organizations you intend to approach for research
-recruitment (schools, research centers, hospitals, etc.), you might
-require the approval of one or more regulatory authorities in that
-country (such as ministries, education councils and health authorities
-to name a few main ones). In some countries, it can be difficult to
-determine who to approach for approval, and in fact, whether you even
-need approval in the first place (beyond the approval of the
-participating organization).
+Depending on the nature of your research project (medical, non-medical, etc.) and the organizations you intend to approach for research recruitment (schools, research centers, hospitals, etc.), you might require the approval of one or more regulatory authorities in that country (such as ministries, education councils and health authorities to name a few main ones). In some countries, it can be difficult to determine who to approach for approval, and in fact, whether you even need approval in the first place (beyond the approval of the participating organization).
 
-If you've researched the main regulatory authorities in that country
-(surfed their websites, send them your inquiries by email, called them,
-etc.) and still couldn't find a lead, you would do very well to get in
-touch with one or two bodies you are considering to approach for
-recruitment and inquire if they need any approvals to take part in
-external research. Organizations that have experience collaborating with
-local and international researchers will be expecting this inquiry from
-an external researcher and should be able to put you on the right path
-moving forward. This could potentially reveal some useful insights about
-regulatory bodies to approach, procedures to undertake, and possibly
-contact personnel to follow up with in case of delays.
+If you've researched the main regulatory authorities in that country (surfed their websites, send them your inquiries by email, called them, etc.) and still couldn't find a lead, you would do very well to get in touch with one or two bodies you are considering to approach for recruitment and inquire if they need any approvals to take part in external research. Organizations that have experience collaborating with local and international researchers will be expecting this inquiry from an external researcher and should be able to put you on the right path moving forward. This could potentially reveal some useful insights about regulatory bodies to approach, procedures to undertake, and possibly contact personnel to follow up with in case of delays.
 
-1. Differences: Language, Culture, and Social Norms
+### Differences: Language, Culture, and Social Norms
 
-You must be armed with some knowledge of language, culture, and social
-norms before visiting any country for the first time, let alone if you
-are visiting for research purposes, as its success depends on the
-support of the community. You would do well to identify beforehand
-whether the country generally adopts a high-context culture (implicit
-communication that relies heavily on context with value placed on
-interpersonal relationships) or a low-context culture (explicit verbal
-communication, and less close-knit). Joining community groups on social
-media and reading up on blogs from locals and travelers could certainly
-offer useful insights on that note (perhaps even touch on aspects of
-daily life like gift-giving, tips, etc.). While this maybe my own
-personal viewpoint (from my own experience), I do feel that it is
-imperative for a researcher to make the effort to engage in local
-language and social norms. Ask lots of questions and express interest.
-The effort does not go unnoticed and you are more likely to make
-meaningful connections.
+You must be armed with some knowledge of language, culture, and social norms before visiting any country for the first time, let alone if you are visiting for research purposes, as its success depends on the support of the community. 
 
-1. Logistics: Do Your Homework
+You would do well to identify beforehand whether the country generally adopts a high-context culture (implicit communication that relies heavily on context with value placed on interpersonal relationships) or a low-context culture (explicit verbal communication, and less close-knit). Joining community groups on social media and reading up on blogs from locals and travelers could certainly offer useful insights on that note (perhaps even touch on aspects of daily life like gift-giving, tips, etc.). 
 
-When scheduling research internationally with members of a community, be
-mindful of researching major holidays and events (Ramadan, Eid, Chinese
-New Year, Independence Day, etc.) which vary from country to country.
-Often, celebrations or commitments can extend beyond the days indicated
-on a calendar.
+While this maybe my own personal viewpoint (from my own experience), I do feel that it is imperative for a researcher to make the effort to engage in local language and social norms. Ask lots of questions and express interest. The effort does not go unnoticed and you are more likely to make meaningful connections.
 
-Finally, sorting out transport (public transport, car rental, etc.) and
-other resources at the research site (Wi-Fi, printer, etc.) is essential
-to ensure a smooth research schedule.
+### Logistics: Do Your Homework
+
+When scheduling research internationally with members of a community, be mindful of researching major holidays and events (Ramadan, Eid, Chinese New Year, Independence Day, etc.) which vary from country to country. Often, celebrations or commitments can extend beyond the days indicated on a calendar.
+
+Finally, sorting out transport (public transport, car rental, etc.) and other resources at the research site (Wi-Fi, printer, etc.) is essential to ensure a smooth research schedule.
