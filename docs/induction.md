@@ -22,7 +22,7 @@ _Addition from Lizzy Kirkham:_ As a post doc I wasn't able to get my staff card 
 
 ## Induction checklist
 
-_By Sue FW_
+_by Sue FW_
 
 You can copy and paste the following list and use it to make sure new staff have everything they need.
 
@@ -76,6 +76,10 @@ it to your supervisor or study coordinator so it can be added to the
 study file.
 
 # General DART Lab info
+
+## University structure (and where DART fits)
+
+![research groupings flow chart](uploads/research-groupings.png)
 
 ## How to request annual leave
 
