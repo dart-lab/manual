@@ -240,12 +240,16 @@ In order to avoid some of these problems, travellers can use the Airbnb platform
 * You don't rely only on the Airbnb bookings calendar, but also email the host directly, as some hosts are not assiduous about updating calendars.
 * You leave full contact details in your travel plan including location of the apartment and owner contact details.
 
-### Travel Insurance 
+### Travel Insurance
 
-Please remember to have a valid insurance policy, which you can arrange free of charge via [**the Insurance Office**](https://www.ed.ac.uk/finance/about/sections/insurance). 
+Please remember to have a valid insurance policy, which you can arrange free of charge via [**the Insurance Office**](https://www.ed.ac.uk/finance/about/sections/insurance). This can be done by completing an online form:
 
-* [Travel insurance for students ]()
-* [Travel insurance for staff ]() 
+* [Travel insurance application form for students ](https://www.ed.ac.uk/finance/about/sections/insurance/travel-insurance/how-do-i-apply "Student insurance application form")
+
+
+* [Travel insurance appliation form for staff](https://www.ed.ac.uk/staff/business-travel/travel-insurance/insurance-application-form "Staff insurance application form")
+
+When completing your insurance form, you will need to upload a **risk assessment form** and/or **travel plan**. These forms can be found on [this webpage](https://www.ed.ac.uk/staff/business-travel/travel-safety/risk-assessments-travel-plan "Risk Assessment Info"), along with more information. When applying for insurance for international travel, you will need to complete **both forms.** For local travel, **just the travel plan** will suffice. You can get the forms signed by sending them to Sue D susan.davidson@ed.ac.uk 
 
 ## Travel expenses and booking conference or work travel
 
