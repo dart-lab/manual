@@ -9,29 +9,15 @@ title: Funding, Grants, Reporting
 Deadlines normally fall in late January / early February for PhDs
 starting the following September
 
-1. Principal's Career Development Scheme (PCDS)
-
-[https://www.ed.ac.uk/student-funding/postgraduate/uk-eu/university-scholarships/development](https://www.ed.ac.uk/student-funding/postgraduate/uk-eu/university-scholarships/development)
-
-1. Edinburgh Global Research Scholarships (EGRS)
-
-[https://www.ed.ac.uk/student-funding/postgraduate/international/global/research](https://www.ed.ac.uk/student-funding/postgraduate/international/global/research)
-
-1. Carnegie PhD Scholarships
-
-[https://www.ed.ac.uk/student-funding/postgraduate/uk-eu/other-funding/carnegie-trust](https://www.ed.ac.uk/student-funding/postgraduate/uk-eu/other-funding/carnegie-trust)
-
-1. Staff Scholarships
-
-[https://www.ed.ac.uk/medicine-vet-medicine/staff-and-current-students/staff-scholarships](https://www.ed.ac.uk/medicine-vet-medicine/staff-and-current-students/staff-scholarships)
-
-1. University of Edinburgh/China Scholarship Council Awards (UoE/CSC)
-
-[https://www.ed.ac.uk/student-funding/postgraduate/international/region/asia/china-council](https://www.ed.ac.uk/student-funding/postgraduate/international/region/asia/china-council)
+1. [Principal's Career Development Scheme (PCDS)](https://www.ed.ac.uk/student-funding/postgraduate/uk-eu/university-scholarships/development)
+2. [Edinburgh Global Research Scholarships (EGRS)](https://www.ed.ac.uk/student-funding/postgraduate/international/global/research)
+3. [Carnegie PhD Scholarships](https://www.ed.ac.uk/student-funding/postgraduate/uk-eu/other-funding/carnegie-trust)
+4. [Staff Scholarships](https://www.ed.ac.uk/medicine-vet-medicine/staff-and-current-students/staff-scholarships)
+5. [University of Edinburgh/China Scholarship Council Awards (UoE/CSC)](https://www.ed.ac.uk/student-funding/postgraduate/international/region/asia/china-council)
 
 ## A list of funders for PhD research
 
-_By Bérengère Digard_ and _Shereen Sharaan_
+_by Bérengère Digard_ and _Shereen Sharaan_
 
 If you are a self-funded PhD student. I feel your struggle and I support
 you. You can do it.
@@ -76,30 +62,15 @@ that great.
 
 ## A list of funders for general project funding, including post-doc research
 
-This section needs updating but for now [_here's a useful list of
-postdoctoral fellowship
-schemes_](http://rogierkievit.com/postdoctoral-fellowship-opportunities).
+This section needs updating but for now [_here's a useful list of postdoctoral fellowship schemes_](http://rogierkievit.com/postdoctoral-fellowship-opportunities).
 
-\**[Research Professional - extensive funding
-database](https://www.researchprofessional.com/0/rr/home): **You can
-access Research Professional for free as the UoE has an institute
-subscription (just turn on your UoE VPN to access). They have an
-extensive database of funding opportunities and you can set up
-personalised alert emails - just make yourself a free account
-
-\**[Edinburgh Research Office - online UKRI funding
-calendar](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/SitePages/Funders/Funder-Insights.aspx): **The
-Edinburgh Research Office have got a nice Sharepoint site 'ERO Funders
-Insights' that, alongside useful information, also features an online
-calendar of all UKRI funding call deadlines.
-
-\**[Edinburgh Neuroscience members funding
-pages](https://www.edinburghneuroscience.ed.ac.uk/members/funding-sources): **Edinburgh
-Neuroscience has a range of funding opportunities (Fellowships, PhD
-studentships funding, seed corn grants etc) listed on the members
-section of the Edinburgh Neuroscience website. Some of the deadlines are
-out of date but most of the links should work. Again, just turn on your
-UoE VPN to access these pages.
+* [**Research Professional - extensive funding database**](https://www.researchprofessional.com/0/rr/home): You can
+  access Research Professional for free as the UoE has an institute
+  subscription (just turn on your UoE VPN to access). They have an
+  extensive database of funding opportunities and you can set up
+  personalised alert emails - just make yourself a free account
+* [**Edinburgh Research Office - online UKRI funding calendar**](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/SitePages/Funders/Funder-Insights.aspx): The Edinburgh Research Office have got a nice Sharepoint site 'ERO Funders Insights' that, alongside useful information, also features an online calendar of all UKRI funding call deadlines.
+* [**Edinburgh Neuroscience members funding pages**](https://www.edinburghneuroscience.ed.ac.uk/members/funding-sources): Edinburgh Neuroscience has a range of funding opportunities (Fellowships, PhD studentships funding, seed corn grants etc) listed on the members section of the Edinburgh Neuroscience website. Some of the deadlines are out of date but most of the links should work. Again, just turn on your UoE VPN to access these pages.
 
 ## A list of funders for public engagement projects
 
@@ -107,7 +78,7 @@ UoE VPN to access these pages.
 
 ## Writing a grant - how to get it costed
 
-_By Sue FW_
+_by Sue FW_
 
 Costings for a grant are estimates of how much it will cost to do the
 project. Different types of grant costs are defined above on page 18.
