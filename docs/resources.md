@@ -24,7 +24,7 @@ cameras.
 
 ### EBC (Edinburgh Birth Cohort) Cameras
 
-There are two EBC cameras. These are labelled camera A and camera B. These cameras are currently located in the bookcase near Lorna’s desk. **Please do not take the EBC cameras for anything outside of the EBC.** 
+There are two EBC cameras. These are labelled camera A and camera B. These cameras are currently located in the bookcase near Lorna’s desk. **Please do not take the EBC cameras for anything outside of the EBC.**
 
 Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need.
 
@@ -37,9 +37,9 @@ Before returning the camera make sure that:
 
 ### DART Cameras
 
-There are two DART cameras. These cameras are currently located in the cabinet in Maggi and Natalie’s office. 
+There are two DART cameras. These cameras are currently located in the cabinet in Maggi and Natalie’s office.
 
-Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need. Please also sign out the camera and tripods on the box, and sign back in when returned. 
+Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need. Please also sign out the camera and tripods on the box, and sign back in when returned.
 
 Before returning the camera make sure that:
 
@@ -126,6 +126,8 @@ We have our own SMRC letterhead, which is available in [this Teams folder](https
 
 ## DART lab online
 
-\[info needed\]
+[DART lab webpage](https://dart.ed.ac.uk/ "Web page") 
+
+[DART lab YouTube Channel](https://www.youtube.com/channel/UCPORsrJRCt1okyUF6csA3Dg "DART YouTube Channel") 
 
 Youtube, Vimeo, Google Scholar...?
