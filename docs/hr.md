@@ -1,5 +1,5 @@
 ---
-title: Human Resources, Recruitment, Line Managing
+title: Human Resources Information
 
 ---
 # HR
