@@ -107,6 +107,20 @@ Here are some counselling services drawn from that first list, which all offer l
   * General counselling for people aged 16 and over to explore life’s challenges and address personal difficulties. Reduced fee counselling available for up to 26 sessions per person.
   * Cost = Negotiated fees in line with income, starting at £10 per sessioN.
 
+## Local services for families with autistic children
+
+_by Sue FW_
+
+I get fairly regular emails from people -- parents of autistic children asking me for advice on local services etc. Here's a list of things I often share -- obviously this should be tailored to the specific circumstances and query of the family:
+
+Grow Communication is a lovely local speech & language group providing independent services: [http://www.growsalt.uk/](http://www.growsalt.uk/ "http://www.growsalt.uk/")
+
+Tailor Ed is another local organisation that provides autism-specific support: [http://tailoredfoundation.co.uk/](http://tailoredfoundation.co.uk/ "http://tailoredfoundation.co.uk/")
+
+Bounce OT is a great occupational therapy organisation: [https://bouncet.com/](https://bouncet.com/ "https://bouncet.com/")
+
+You can also get excellent advise from the Scottish Autism Helpline: [https://www.scottishautism.org/](https://www.scottishautism.org/ "https://www.scottishautism.org/")
+
 # Accessibility
 
 ## Making materials accessible to people with cognitive and learning disabilities
