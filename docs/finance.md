@@ -1,5 +1,5 @@
 ---
-title: Finance, Expenses, Purchasing, Claims, Salaries
+title: Finance & Travel
 
 ---
 # Finance
@@ -8,12 +8,9 @@ title: Finance, Expenses, Purchasing, Claims, Salaries
 
 _by Sue FW_
 
-You can find the [Finance Helpline page here](https://www.ed.ac.uk/finance/finance-helpline?utm_campaign=2295170_SEP%20-%20All%20Staff%20email%20%E2%80%93%20New%20Finance%20Helpline%20-%2031-Jan-19&utm_medium=email&utm_source=dotmailer&dm_i=27JU,1D6YQ,425AZ8,4H81J,1).
-There is a link for UoE staff and students and a link for external
-providers which may be of use when people are chasing payments etc.
+You can find the [Finance Helpline page here](https://www.ed.ac.uk/finance/finance-helpline?utm_campaign=2295170_SEP%20-%20All%20Staff%20email%20%E2%80%93%20New%20Finance%20Helpline%20-%2031-Jan-19&utm_medium=email&utm_source=dotmailer&dm_i=27JU,1D6YQ,425AZ8,4H81J,1). There is a link for UoE staff and students and a link for external providers which may be of use when people are chasing payments etc.
 
-Alternatively you can contact the Helpline by calling 0131 651 5151
-or emailing [finance.helpline@ed.ac.uk](mailto:finance.helpline@ed.ac.uk)
+Alternatively you can contact the Helpline by calling 0131 651 5151 or emailing [finance.helpline@ed.ac.uk](mailto:finance.helpline@ed.ac.uk)
 
 ## General information about financial transactions within CCBS
 
@@ -134,6 +131,8 @@ Favourites / making a note to access it again!
 _PLEASE ADD INFORMATION HERE IF YOU DISCOVER USEFUL THINGS ABOUT
 WEBFIRST THAT YOU WANT TO SHARE!_
 
+# Expenses
+
 ## How to make an expense claim
 
 #### Staff: People & Money
@@ -145,44 +144,8 @@ WEBFIRST THAT YOU WANT TO SHARE!_
 For reasons unknown to us mere mortals, the powers that be have decided that (most) students do not need access to People & Money. Instead:
 
 1. Fill out the "Student Expenses Claim Form" from the [expenses page](https://www.ed.ac.uk/finance/for-staff/forms).
-2. Make sure you have a 
-3. Send it to Sue D., who will make sure it gets to the right person.
-
-## What can be claimed as an expense?
-
-![](/uploads/expenses_infograph.png)
-
-## Travel expenses and booking conference or work travel
-
-_by Catherine_
-
-1. The University's [Sustainable Travel Policy](https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021 "https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021")
-2. We're using a new travel management company - [Diversity Travel](https://www.diversitytravel.com/uk/ "https://www.diversitytravel.com/uk/") - to book travel and accommodation for University business.
-
-From 1 March 2022, the new travel booking system can be accessed via Diversity Travel:
-
-[Log in to Diversity Travel](https://idp.diversitytravel.com/account/login "https://idp.diversitytravel.com/account/login")
-
-On this date, all staff who have previously booked travel either for themselves or on behalf of others will receive an email from Diversity Travel giving them access to the new system.
-
-The policy also supports staff wellbeing by encouraging us to only undertake necessary travel, and promotes inclusion via an “exceptions” mechanism to ensure that no-one with caring responsibilities, disabilities, or other exceptional circumstances is negatively affected by the policy change. Policy headlines include:
-
-* reducing the overall number of journeys in favour of virtual collaboration tools
-* if travel is necessary, favouring low carbon transport options
-* a presumption against air travel within mainland Great Britain
-* the default class for air travel is economy, with premium tickets reserved for disability or for other health-related reasons
-
-**Can I pay for travel myself and then expense it back?**
-
-Public transport fares and taxis may be refunded via expenses for short and infrequent journeys. You can also claim back incidental expenses incurred while travelling via expenses.
-
-**Flights and accommodation cannot be expensed; please pre-book these.**
-
-The University will not reimburse the cost of ordinary commuting or private travel.
-
-Find out more by reading the University’s Expenses Policy.
-
-**Further advice and FAQs** [Booking travel: FAQs | The University of Edinburgh](https://www.ed.ac.uk/staff/business-travel/booking-travel/faqs "https://www.ed.ac.uk/staff/business-travel/booking-travel/faqs")
+2. Make sure you have all the receipts compiled into a single document, complete with currency exchanges if needs be. The easiest way to do this is put images of all the receipts into a word document, and label them all with a) what the expense is (e.g. "Dinner night 1", "Taxi fare"), b) the price on the receipt, and c) the price exchanged into GBP, if it's originally in another currency.
+3. Send both form and receipts doc to Sue D., who will make sure it gets to the right person.
 
 ## Definitions of UoE expenses terminology and systems
 
@@ -240,96 +203,9 @@ Purchase Orders provide a number of advantages. They get the transaction added t
 
 \[needs content\]
 
-Just don't
+Just don't.
 
-## How to pay participants
-
-**Option 1 -- Gift vouchers**
-
-_By Bérengère Digard_
-
-Gift vouchers can be ordered by Ken at one of the University-approved
-suppliers ([High Street Vouchers](https://www.highstreetvouchers.com/)
-or [Love 2 Shop](https://www.love2shop.co.uk/)). To do so, just email
-Ken (copying Sue in) the relevant details: supplier, quantity, amount, G
-code. If you need these vouchers quickly, you can order them yourself
-and simply claim them back via eExpenses.
-
-You can also buy vouchers yourself from the Post Office or Amazon, and
-claim them back (Amazon is not a University-approved supplier, so you
-cannot ask Ken to order them for you) via eExpenses.
-
-## How to pay external consultants / providers
-
-_By Sue FW_
-
-NB: copies of all the documents listed below should be available in the
-DART Resources folder under Finance. Do check you have the latest copy
-of the form before you send it to an external provider for completion.
-
-**Option 1**: If the consultant is self-employed they can be added as an
-approved supplier, and then invoice the University for their services.
-The steps are:
-
-1. The consultant must complete a Supplier Self-Declaration Form, and
-   provide HMRC confirmation that they are registered for
-   self-assessment, plus details of their bank account and registered
-   VAT number (if they have one)
-2. You must complete an Employment Status questionnaire, and an
-   Engagement of Services Agreement. These explain what you asking the
-   external provider to do and lay out the University's legal
-   obligations to them as a new "employee". This is essentially in lieu
-   of a proper contract of employment. It is a useful process to go
-   through.
-3. The documents need to be sent to payroll for approval (by your local
-   finance officer) -- they in turn send them to HMRC for confirmation
-   so it takes a while
-4. After confirmation is received from HMRC and Payroll, the provider
-   can be added to the Approved Suppliers list.
-5. They can then invoice the University and receive payment.
-
-**Option 2:** If the consultant is not self-employed they can be paid
-**once in a tax year** using an "Ad-Hoc Payment Form-100". They need to
-complete the form, and present their passport to Human Resources at the
-University -- the passport has to be presented in person, a copy will
-not be accepted.
-
-It is worth asking any external consultants to review the form in
-advance to check they are happy to share this kind of information. If
-they have questions, these statements from HR might be helpful:
-
-> **Form 100 --- equality information:** The University is obliged to
-> collect data to on the equality \[protected\] characteristics of
-> employees to comply with statutory legislative reporting requirements
-> under the Equality Act 2010 (Specific Duties) (Scotland)
-> Regulations 2012. Additionally, the University is required by the
-> Further and Higher Education Act 1992 to submit statistical returns to
-> the Higher Education Statistics Agency \[HESA\]. Currently we are
-> required to return annual staff data on sex, race/ethnicity,
-> disability and age, under category labels set down by HESA. You are
-> not obliged to provide this information to us but it helps the
-> University to consider whether the diversity of our employees fully
-> reflects society, and to identify and remove barriers to employment.
->
-> **Passport check:** The University is required, by the Home Office UK
-> Visas and Immigration rules (Immigration, Asylum and Nationality Act
-> 2006) to verify the 'right to work' of any person who undertakes any
-> work at the University of Edinburgh, including those who are British
-> or from the European Economic Area (EEA).  This is irrespective of the
-> length or nature of your employment, and means that the University
-> must carry out document checks on people before employing them to make
-> sure they are allowed to work in the UK. Failure of the University to
-> comply with these requirements would result in the University being
-> fined or, more importantly, losing the right to employ individuals who
-> are not nationals of the EEA.
-
-**Option 3:** If the consultant is a member of a steering committee /
-reference group for a study, the easiest way to pay them as is a
-subsistence payment for each meeting they attend.
-
-## How to pay UoE employees or students for work or overtime
-
-\[needs content\]
+# Travel
 
 ## Booking travel through the University
 
@@ -347,46 +223,100 @@ The University's expenses policy allows for AirBnB bookings, and there is more i
 
 **Also please** note that:
 
-* Airbnb is not regulated and may fail to meet basic safety
-  standards such as smoke detection, electrical testing, extinguishers and
-  fire escape.
-* Airbnb is highly unlikely to share traveller information with
-  the University in the event of an emergency.
-* Airbnb hosts sometimes cancel at the last minute for various
-  reasons and UoE insurance will not cover any direct or indirect costs
-  associated with that. Airbnb hosts may have no insurance and their
-  normal domestic insurance may not cover them for letting rooms.
-* Airbnb hosts may trade illegally if the host city, for
-  instance, does not permit short-term room rentals. The accommodation may
-  be an unused back bedroom in a stranger's house. The accommodation will
-  often be less secure than a hotel, with no CCTV, key control, robust
-  door locks, swipe access or room safe. Travellers should wherever
-  possible favour accommodation where it has smoke detection and good
-  locks / security.
-* Airbnb bookings may be illegal if the country / region / city
-  / building does not permit short-term room rentals, or if the host has
-  not complied with local regulations but nonetheless advertises the
-  property on the platform regardless.
+* Airbnb is not regulated and may fail to meet basic safety standards such as smoke detection, electrical testing, extinguishers and fire escape.
+* Airbnb is highly unlikely to share traveller information with the University in the event of an emergency.
+* Airbnb hosts sometimes cancel at the last minute for various reasons and UoE insurance will not cover any direct or indirect costs associated with that. Airbnb hosts may have no insurance and their normal domestic insurance may not cover them for letting rooms.
+* Airbnb hosts may trade illegally if the host city, for instance, does not permit short-term room rentals. The accommodation may be an unused back bedroom in a stranger's house. The accommodation will often be less secure than a hotel, with no CCTV, key control, robust door locks, swipe access or room safe. Travellers should wherever possible favour accommodation where it has smoke detection and good locks / security.
+* Airbnb bookings may be illegal if the country / region / city / building does not permit short-term room rentals, or if the host has not complied with local regulations but nonetheless advertises the property on the platform regardless.
 
-In order to avoid some of these problems, travellers can use the Airbnb
-platform ONLY where:
+In order to avoid some of these problems, travellers can use the Airbnb platform ONLY where:
 
-* You can identify that the country / city / region / building
-  permits short-term lets and the property complies with local
-  regulations, so the booking is legal.
+* You can identify that the country / city / region / building permits short-term lets and the property complies with local regulations, so the booking is legal.
 * There is a reasonably full history of positive reviews
-* The accommodation is a self-contained apartment (so you aren't
-  staying in a stranger's back bedroom or similar).
+* The accommodation is a self-contained apartment (so you aren't staying in a stranger's back bedroom or similar).
 * You can identify the neighbourhood as safe.
-* You don't rely only on the Airbnb bookings calendar, but also
-  email the host directly, as some hosts are not assiduous about updating
-  calendars.
-* You leave full contact details in your travel plan including
-  location of the apartment and owner contact details.
+* You don't rely only on the Airbnb bookings calendar, but also email the host directly, as some hosts are not assiduous about updating calendars.
+* You leave full contact details in your travel plan including location of the apartment and owner contact details.
 
-Please remember to have a valid insurance policy, which you can arrange
-free of charge via [**the Insurance
-Office**](https://www.ed.ac.uk/finance/about/sections/insurance).
+Please remember to have a valid insurance policy, which you can arrange free of charge via [**the Insurance Office**](https://www.ed.ac.uk/finance/about/sections/insurance).
+
+## Travel expenses and booking conference or work travel
+
+_by Catherine_
+
+1. The University's [Sustainable Travel Policy](https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021 "https://www.ed.ac.uk/sustainability/what-we-do/travel/climate-conscious-travel/sustainable-travel-policy-2021")
+2. We're using a new travel management company - [Diversity Travel](https://www.diversitytravel.com/uk/ "https://www.diversitytravel.com/uk/") - to book travel and accommodation for University business.
+
+From 1 March 2022, the new travel booking system can be accessed via Diversity Travel:
+
+[Log in to Diversity Travel](https://idp.diversitytravel.com/account/login "https://idp.diversitytravel.com/account/login")
+
+On this date, all staff who have previously booked travel either for themselves or on behalf of others will receive an email from Diversity Travel giving them access to the new system.
+
+The policy also supports staff wellbeing by encouraging us to only undertake necessary travel, and promotes inclusion via an “exceptions” mechanism to ensure that no-one with caring responsibilities, disabilities, or other exceptional circumstances is negatively affected by the policy change. Policy headlines include:
+
+* reducing the overall number of journeys in favour of virtual collaboration tools
+* if travel is necessary, favouring low carbon transport options
+* a presumption against air travel within mainland Great Britain
+* the default class for air travel is economy, with premium tickets reserved for disability or for other health-related reasons
+
+**Can I pay for travel myself and then expense it back?**
+
+Public transport fares and taxis may be refunded via expenses for short and infrequent journeys. You can also claim back incidental expenses incurred while travelling via expenses.
+
+**Flights and accommodation cannot be expensed; please pre-book these.**
+
+The University will not reimburse the cost of ordinary commuting or private travel.
+
+Find out more by reading the University’s Expenses Policy.
+
+**Further advice and FAQs** [Booking travel: FAQs | The University of Edinburgh](https://www.ed.ac.uk/staff/business-travel/booking-travel/faqs "https://www.ed.ac.uk/staff/business-travel/booking-travel/faqs")
+
+## What can be claimed as a travel expense?
+
+![](/uploads/expenses_infograph.png)
+
+# Paying People
+
+## How to pay participants
+
+**Option 1 -- Gift vouchers**
+
+_by Bérengère Digard_
+
+Gift vouchers can be ordered by Ken at one of the University-approved suppliers ([High Street Vouchers](https://www.highstreetvouchers.com/) or [Love 2 Shop](https://www.love2shop.co.uk/)). To do so, just email Ken (copying Sue in) the relevant details: supplier, quantity, amount, G code. If you need these vouchers quickly, you can order them yourself and simply claim them back via eExpenses.
+
+You can also buy vouchers yourself from the Post Office or Amazon, and claim them back (Amazon is not a University-approved supplier, so you cannot ask Ken to order them for you) via eExpenses.
+
+## How to pay external consultants / providers
+
+_by Sue FW_
+
+NB: copies of all the documents listed below should be available in the DART Resources folder under Finance. Do check you have the latest copy of the form before you send it to an external provider for completion.
+
+**Option 1**: If the consultant is self-employed they can be added as an approved supplier, and then invoice the University for their services. The steps are:
+
+1. The consultant must complete a Supplier Self-Declaration Form, and provide HMRC confirmation that they are registered for self-assessment, plus details of their bank account and registered VAT number (if they have one)
+2. You must complete an Employment Status questionnaire, and an Engagement of Services Agreement. These explain what you asking the external provider to do and lay out the University's legal obligations to them as a new "employee". This is essentially in lieu of a proper contract of employment. It is a useful process to go through.
+3. The documents need to be sent to payroll for approval (by your local finance officer) -- they in turn send them to HMRC for confirmation so it takes a while
+4. After confirmation is received from HMRC and Payroll, the provider can be added to the Approved Suppliers list.
+5. They can then invoice the University and receive payment.
+
+**Option 2:** If the consultant is not self-employed they can be paid **once in a tax year** using an "Ad-Hoc Payment Form-100". They need to complete the form, and present their passport to Human Resources at the University -- the passport has to be presented in person, a copy will not be accepted.
+
+It is worth asking any external consultants to review the form in advance to check they are happy to share this kind of information. If they have questions, these statements from HR might be helpful:
+
+> **Form 100 --- equality information:** The University is obliged to collect data to on the equality \[protected\] characteristics of employees to comply with statutory legislative reporting requirements under the Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012. Additionally, the University is required by the Further and Higher Education Act 1992 to submit statistical returns to the Higher Education Statistics Agency \[HESA\]. Currently we are required to return annual staff data on sex, race/ethnicity, disability and age, under category labels set down by HESA. You are not obliged to provide this information to us but it helps the University to consider whether the diversity of our employees fully reflects society, and to identify and remove barriers to employment.
+>
+> **Passport check:** The University is required, by the Home Office UK Visas and Immigration rules (Immigration, Asylum and Nationality Act 2006) to verify the 'right to work' of any person who undertakes any work at the University of Edinburgh, including those who are British or from the European Economic Area (EEA).  This is irrespective of the length or nature of your employment, and means that the University must carry out document checks on people before employing them to make sure they are allowed to work in the UK. Failure of the University to comply with these requirements would result in the University being fined or, more importantly, losing the right to employ individuals who are not nationals of the EEA.
+
+**Option 3:** If the consultant is a member of a steering committee / reference group for a study, the easiest way to pay them as is a subsistence payment for each meeting they attend.
+
+## How to pay UoE employees or students for work or overtime
+
+\[needs content\]
+
+# Buying Things
 
 ## Ordering consumables and equipment through the University
 
