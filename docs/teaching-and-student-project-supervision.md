@@ -1,5 +1,5 @@
 ---
-title: Teaching & Student Project Supervision
+title: Teaching & Supervision
 
 ---
 # Supervision resources
