@@ -6,21 +6,21 @@ title: Data, Stats and Open Science
 
 ## Data storage systems and definitions
 
-_by Sue Fletcher-Watson and Reesha Zahir_ 
+_by Sue Fletcher-Watson and Reesha Zahir_
 
-University staff and students have access to a number of different online services and platforms for your data storing, managing, and analysing needs. The university's [Digital Research Services](https://www.digitalresearchservices.ed.ac.uk/ "DRS ") webpage is a good first port of call if you are looking to find out which services you can access. The webpage can direct you to all the available resources based on whether you are looking to: 
+University staff and students have access to a number of different online services and platforms for your data storing, managing, and analysing needs. The university's [Digital Research Services](https://www.digitalresearchservices.ed.ac.uk/ "DRS ") webpage is a good first port of call if you are looking to find out which services you can access. The webpage can direct you to all the available resources based on whether you are looking to:
 
-1. Plan and design your research 
-2. Collect and capture your data 
-3. Organise and store your data 
-4. Interpret and analyse your data 
-5. Manage and preserve your data 
-6. Publish and share your data 
-7. Discover or reuse data 
+1. Plan and design your research
+2. Collect and capture your data
+3. Organise and store your data
+4. Interpret and analyse your data
+5. Manage and preserve your data
+6. Publish and share your data
+7. Discover or reuse data
 
-You can also check out [these videos](https://media.ed.ac.uk/media/ResearchComputing_by_MikeWallis/1_supsji1w "webinar") from a webinar hosted by the Digital Research Services, where they summarised some of the services they offer in a series of short talks. 
+You can also check out [these videos](https://media.ed.ac.uk/media/ResearchComputing_by_MikeWallis/1_supsji1w "webinar") from a webinar hosted by the Digital Research Services, where they summarised some of the services they offer in a series of short talks.
 
-In the sections below, we have included further information on the data storing systems that DART lab members frequently use. 
+In the sections below, we have included further information on the data storing systems that DART lab members frequently use.
 
 ### Shared Drives on the University Server
 
@@ -224,7 +224,7 @@ documents; Can be accessed from any computer.
 
 ## GDPR -- what is it and how does it affect me?
 
-There's detailed information on the UoE [Data Protection webpages](http://www.ed.ac.uk/records-management/gdpr).
+There's detailed information on the UoE [Data Protection webpages](http://www.ed.ac.uk/records-management/gdpr), and on their [Sharepoint webpage](https://uoe.sharepoint.com/sites/DataProcessingRegisters/ "UoE Data Protection Sharepoint"). 
 
 **Basic Principles:**
 
@@ -391,7 +391,7 @@ commands_
 * Information about the [FAIR principles of data
   science](https://www.go-fair.org/fair-principles/): data should be
   Findable, Accessible, Interoperable and Reuseable
-* [Research Cultures Integrity, Reproducibility and Open Research event recording](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/Shared Documents/Forms/AllItems.aspx?id=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation%2FRCWG December Event%2Emp4&parent=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation). Topics covered in this series of talks include: the role of research metrics, assessment and research practices and how these impact research culture, research integrity, and reproducibility
+* \[Research Cultures Integrity, Reproducibility and Open Research event recording\](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/Shared Documents/Forms/AllItems.aspx?id=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation%2FRCWG December Event%2Emp4&parent=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation). Topics covered in this series of talks include: the role of research metrics, assessment and research practices and how these impact research culture, research integrity, and reproducibility
 
 ## Quick intro to the Open Science Framework (OSF)
 
