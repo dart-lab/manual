@@ -82,7 +82,7 @@ The email will be picked up by either Rokas Stonys or Caroline MacDonald, our Fi
 
 ## How to use WebFirst
 
-_By Sue FW_
+_by Sue FW_
 
 **Webfirst** is an online system for checking balances, transactions, expenditure and income for specific Job Codes. You need to request access to specific Job Codes by emailing Val Renton. [You can access WebFirst here](https://www.webfirst.fin.ed.ac.uk/).
 
@@ -322,7 +322,7 @@ If the consultant is a member of a steering committee / reference group for a st
 
 ## Ordering consumables and equipment through the University
 
-_By Sue FW_
+_by Sue FW_
 
 **In most cases:** Please email Sue D with order requests and copy in Sue FW.  Sue D will action these orders on the assumption that cc-ing SFW indicates approval. Please (obviously) make sure you discuss orders with me in advance.  
 
