@@ -6,7 +6,9 @@ title: Writing & Publishing
 
 \[needs content\]
 
-# Open Access Publishing
+# Open Access 
+
+## How to Open Access Publish
 
 _By Catherine_
 
@@ -28,7 +30,7 @@ If you are unsure, you can contact openaccess@ed.ac.uk for advice.
 
 If publishing in an Open Access Journal isn't an option, you may want to deposit a copy in an Open Access Repository (also known as Open Access Green). You can read more about this [here.](https://www.ed.ac.uk/information-services/research-support/publish-research/open-access/open-access)
 
-### Funders requiring immediate Open Access
+## Funders requiring immediate Open Access
 
 Some funders now require Open Access immediately upon publication under [**the Creative Commons Attribution (CC-BY)**](https://creativecommons.org/licenses/by/4.0/) licence. In the past most medical funders permitted an embargo of up to 6 months post publication, so immediate Open Access is a significant change. Amongst these funders are:
 
@@ -76,7 +78,9 @@ Anna Krzak in the College Research Office: [anna.krzak@ed.ac.uk](mailto:anna.krz
 
 To enable the widest possible dissemination of research outputs, the requirement for immediate Open Access under the CC-BY licence is echoed in [the University’s new Research Publications & Copyright Policy](https://www.ed.ac.uk/information-services/about/policies-and-regulations/research-publications), which applies to both funded and unfunded research – please refer to [the email from Professor Stuart Forbes, Dean of Research](https://uoe.sharepoint.com/sites/CMVMOpenAccess/SitePages/What's-NEW-.aspx#university-s-new-research-publications-copyright-policy).
 
-# Sharing your paper with the University for PURE
+# Reporting
+
+## Sharing your paper with the University for PURE
 
 To be eligible for the REF, new papers must be uploaded to PURE within 3 months of acceptance and 1 month of publication. The University will take care of this for you (and prefer to, rather than you doing it yourself!).
 
