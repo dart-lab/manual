@@ -2,12 +2,6 @@
 title: Contacts
 
 ---
-# University structure (and where DART fits)
-
-_By Sinéad O'Carroll_
-
-![research groupings flow chart](uploads/research-groupings.png)
-
 # University Contacts
 
 _by Sue FW_
