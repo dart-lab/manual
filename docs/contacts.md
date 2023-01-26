@@ -26,7 +26,7 @@ Email:  [dawne.milligan@ed.ac.uk](mailto:dawne.milligan@ed.ac.uk)
 
 ## Kennedy Tower people
 
-\[needs content\]
+![](/uploads/kt-contacts.jpg)
 
 ## CCBS administrative roles
 
