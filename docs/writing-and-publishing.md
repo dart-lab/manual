@@ -1,5 +1,5 @@
 ---
-title: Writing and Publishing
+title: Writing & Publishing
 
 ---
 # Open Access Publishing
