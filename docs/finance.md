@@ -1,8 +1,8 @@
 ---
-title: Finance & Travel
+title: Money & Travel
 
 ---
-# Finance
+# Finance in general
 
 ## Finance helpline
 
@@ -327,7 +327,3 @@ Sue FW.  Sue D will action these orders on the assumption that cc-ing
 SFW indicates approval.  Please (obviously) make sure you discuss orders
 with me in advance.  Anything over £200 threshold will need written
 approval from SFW, not just a cc.
-
-## How to create a grant budget
-
-\[needs content\]
