@@ -19,20 +19,17 @@ link](https://uoe.sharepoint.com/sites/ServiceExcellenceProgramme/SitePages/Core
 
 _By Sue FW_
 
-Nearly all the forms and documents listed below should be [available at
-this HR
-website](https://www.ed.ac.uk/human-resources/a-to-z-of-forms?utm_campaign=2315374_SEP%26HR%20-%20All%20staff%20email%20-%20Digital%20ways%20of%20working%20project%20-%2026%20Feb%2019&utm_medium=email&utm_source=dotmailer&dm_i=27JU,1DMJY,425AZ8,4J5IZ,1).
+Nearly all the forms and documents listed below should be [available at this HR  website](https://www.ed.ac.uk/human-resources/a-to-z-of-forms?utm_campaign=2315374_SEP%26HR%20-%20All%20staff%20email%20-%20Digital%20ways%20of%20working%20project%20-%2026%20Feb%2019&utm_medium=email&utm_source=dotmailer&dm_i=27JU,1DMJY,425AZ8,4J5IZ,1).
 This includes:
 
-* Ad-hoc payment form 100 for paying (some kinds of) external
-  consultants for their time, see page 20
+* Ad-hoc payment form 100 for paying (some kinds of) external consultants for their time, see page 20
 * Forms for External Examiners
 * Flexible working requests
 * A Job description template
 * Annual leave calculator spreadsheet
 * P&DR forms
 
-## Hybrid working
+## Hybrid Working
 
 The University supports hybrid working and in the wake of Covid-19 they have created a hybrid working framework which is available here: [https://www.ed.ac.uk/hybrid-working](https://www.ed.ac.uk/hybrid-working "https://www.ed.ac.uk/hybrid-working")
 
@@ -52,17 +49,9 @@ This is a [checklist for managers](https://www.ed.ac.uk/human-resources/working-
 
 _By Sue FW_
 
-This scheme enables line managers to issue small (£50 or £100) rewards
-to staff who have gone above and beyond what is required in their role.
-The reward comes as a gift voucher, so it isn't taxed, but it also isn't
-cash. It is primarily meant for staff on lower grades who have completed
-an "exceptional act or effort". You
+This scheme enables line managers to issue small (£50 or £100) rewards to staff who have gone above and beyond what is required in their role. The reward comes as a gift voucher, so it isn't taxed, but it also isn't cash. It is primarily meant for staff on lower grades who have completed an "exceptional act or effort".
 
-There's details of the scheme including how to nominate someone [at this
-page](https://www.ed.ac.uk/human-resources/pay-reward/contribution/voucher-reward-scheme).
-The process is very fast and you can normally issue a reward within a
-week or two. The nominee will receive a letter and they need to collect
-their voucher from the cash office.
+There's details of the scheme including how to nominate someone [at this page](https://www.ed.ac.uk/human-resources/pay-reward/contribution/voucher-reward-scheme).  The process is very fast and you can normally issue a reward within a week or two. The nominee will receive a letter and they need to collect their voucher from the cash office.
 
 ## Things to think about when recruiting an intern
 
@@ -146,7 +135,7 @@ contacts for this will be Sue Davidson or Dorothy Air (CCBS HR Officer).
  8. During steps 5 and 6, think about who you want to be on the interview panel, and agree an approximate date for the interviews -- the timeline below might help. Keep an eye on this as it can shift and you need to have your interview date agreed well in advance.
  9. [Check the talent register](https://www.edweb.ed.ac.uk/human-resources/recruitment/talent-register/recruiters) to see if there's someone already at UoE who could do the job you are advertising. If you spot someone, you can request their CV and if they meet the essential criteria for the job you \[must\]{.underline} interview them before advertising your post.
 10. Assuming there's no-one on the Talent Register, you can then request for your job to be posted on the UoE Vacancies site. Your advert should be based on the job description but also include an **estimated interview date.** There's a template job advert in the relevant [folder on Teams](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/recruiting%20staff%20%26%20volunteers?csf=1&web=1&e=H02GKb) (Running a Project > Recruiting staff and volunteers). \[allow 2 weeks\]
-11. While the job is being advertised it is worth talking with your interview panel and agreeing questions.  This will allow you to send copies of these questions to candidates who are invited to interview in advance, which is considered a good accessible interview practice especially relevant for neurodivergent candidates. 
+11. While the job is being advertised it is worth talking with your interview panel and agreeing questions.  This will allow you to send copies of these questions to candidates who are invited to interview in advance, which is considered a good accessible interview practice especially relevant for neurodivergent candidates.
 12. When the job closes you will need to select candidates for interview, usually by making a long-list and then agreeing a shortlist with other panel members. Here is the [HR guidance on shortlisting](https://www.edweb.ed.ac.uk/human-resources/recruitment/recruiters-guide/shortlisting/shortlisting-process).  Make it as quantitative and transparent as possible.
 13. Then ask the HR representative to invite them to interview, including information about anything you want them to prepare in advance. Here is the [HR guidance on interviewing](https://www.edweb.ed.ac.uk/human-resources/recruitment/recruiters-guide/shortlisting/interviewing). Make sure the room is accessible.
 14. After the interviews, HR will ask to collect in your notes and ratings, and they will inform the unsuccessful candidates. It's nice to offer feedback if anyone gets in touch.
@@ -155,7 +144,7 @@ contacts for this will be Sue Davidson or Dorothy Air (CCBS HR Officer).
 
 \* _as a rule of thumb, undergrad degree = UE05, masters degree = UE06, PhD = UE07, postdoc with a few years' experience / lecturer = UE08, senior lecturer / reader = UE09, professor = UE10. Remember that experience in a relevant role is often better than a degree though!_
 
-### In summary, here is a **timeline for recruitment**, 
+### In summary, here is a **timeline for recruitment**,
 
 This is assuming you don't find anyone on the talent register -- if you do it'll be quicker if you hire them, slower if you interview but don't hire them:
 

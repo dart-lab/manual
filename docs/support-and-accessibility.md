@@ -31,7 +31,7 @@ There are several services to support physical and mental wellbeing available at
 
 **Health services**
 
-[The Student Health services](https://www.ed.ac.uk/students/health-wellbeing/health-services) include health care, free sexual health services and access to free period products. 
+[The Student Health services](https://www.ed.ac.uk/students/health-wellbeing/health-services) include health care, free sexual health services and access to free period products.
 
 The University's [Occupational Health Service](https://www.ed.ac.uk/health-safety/occupational-health) can provide advice on health related issues that may affect staff at work (both self-referrals and referrals from managers are accepted).
 
@@ -75,15 +75,11 @@ The University provides [support and guidance](https://www.ed.ac.uk/staff/suppor
 
 Equality, Diversity and Inclusion (EDI) Groups give people the opportunity to share experiences and challenges, seek help and support from their peers. Some of these groups are:
 
-· The [Staff BAME Network](https://www.ed.ac.uk/equality-diversity/edi-groups/staff-bame-network/purpose) for all Black, Asian, minority ethnic academic and professional staff, including PhD researchers.
-
-· The [Staff Pride Network](https://www.ed.ac.uk/equality-diversity/edi-groups/staffpride-network) for LGBT+ colleagues and allies.
-
-· The [Disabled Staff Network](https://www.ed.ac.uk/equality-diversity/edi-groups/disabled-staff-network) for staff with disabilities, restrictive health conditions and caring responsibilities.
-
-· The [Edinburgh Race Equality Network (EREN)](https://www.ed.ac.uk/equality-diversity/edi-groups/race-equality-network) for Black, Asian and Minority Ethnic staff and allies committed to create an environment where race is celebrated and everyone is treated fairly.
-
-· The [Autistic Peers & Allies group](https://uoe.sharepoint.com/sites/AutisticPeersAllies) for autistic staff, autistic students and allies.
+* The [Staff BAME Network](https://www.ed.ac.uk/equality-diversity/edi-groups/staff-bame-network/purpose) for all Black, Asian, minority ethnic academic and professional staff, including PhD researchers.
+* The [Staff Pride Network](https://www.ed.ac.uk/equality-diversity/edi-groups/staffpride-network) for LGBT+ colleagues and allies.
+* The [Disabled Staff Network](https://www.ed.ac.uk/equality-diversity/edi-groups/disabled-staff-network) for staff with disabilities, restrictive health conditions and caring responsibilities.
+* The [Edinburgh Race Equality Network (EREN)](https://www.ed.ac.uk/equality-diversity/edi-groups/race-equality-network) for Black, Asian and Minority Ethnic staff and allies committed to create an environment where race is celebrated and everyone is treated fairly.
+* The [Autistic Peers & Allies group](https://uoe.sharepoint.com/sites/AutisticPeersAllies) for autistic staff, autistic students and allies.
 
 ## Lone working - what is it and how to do it safely
 

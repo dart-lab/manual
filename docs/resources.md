@@ -8,9 +8,9 @@ title: Resources, Logos, Assessments, Technology, Manuals, Tests
 
 _By Sue Fletcher-Watson_
 
-You can download logos for DART, the Patrick Wild Centre, the Salvesen Mindroom Research Centre, the Theirworld Edinburgh Birth Cohort and the University of Edinburgh on Teams [here](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=UadNeR). 
+You can download logos for DART, the Patrick Wild Centre, the Salvesen Mindroom Research Centre, the Theirworld Edinburgh Birth Cohort and the University of Edinburgh on Teams [here](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=UadNeR).
 
-There's also a dropbox fold with logos for the Salvesen Mindroom Research Centre and the University of Edinburgh [at this link](https://www.dropbox.com/sh/163ox1y5rv7bci8/AAAG3vwSsbL5An2VbROGwVBRa?dl=0), which can be useful if you want to share logos with external parties. 
+There's also a dropbox fold with logos for the Salvesen Mindroom Research Centre and the University of Edinburgh [at this link](https://www.dropbox.com/sh/163ox1y5rv7bci8/AAAG3vwSsbL5An2VbROGwVBRa?dl=0), which can be useful if you want to share logos with external parties.
 
 ![](uploads/smrc_logo_best.jpg)
 
@@ -20,7 +20,7 @@ _By Sue Fletcher-Watson_
 
 [This page has template letters](https://www.ed.ac.uk/clinical-brain-sciences/templates), powerpoint slides and posters for anyone working within CCBS.
 
-We have our own SMRC letterhead, which is available in [this Teams folder](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=pBU7Id) with the logos. 
+We have our own SMRC letterhead, which is available in [this Teams folder](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=pBU7Id) with the logos.
 
 ## Ordering catering
 
@@ -79,13 +79,13 @@ which provide free-to-use photos for websites, tweets etc:
 
 _By Maggi Laurie_
 
-You can find a list of data collection tools available to DART members [on Teams here](https://uoe.sharepoint.com/:x:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/DART%20measures%20and%20resources.xlsx?d=wec6e392d137147bbbd7b79a59d17692c&csf=1&web=1&e=QmqtSz). 
+You can find a list of data collection tools available to DART members [on Teams here](https://uoe.sharepoint.com/:x:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/DART%20measures%20and%20resources.xlsx?d=wec6e392d137147bbbd7b79a59d17692c&csf=1&web=1&e=QmqtSz).
 
-There are four tabs: Measures, Assessments, Toys and Games and iPads. 
+There are four tabs: Measures, Assessments, Toys and Games and iPads.
 
-In **Measures**, you will find mostly paper questionnaires and assessments which are self/parent-report. Tools that _directly_ measure/observe a phenomenon, such as an IQ test, live in the **Assessments** tab. 
+In **Measures**, you will find mostly paper questionnaires and assessments which are self/parent-report. Tools that _directly_ measure/observe a phenomenon, such as an IQ test, live in the **Assessments** tab.
 
-For both kinds, you will see information about the item, when it was published, where we have a manual available (Y = yes, N = no), where that manual/toolkit is available from/stored at DART. You will also see what project the item was purchased for, when it was purchased, and the rough age group that the instrument is intended for (grouped as infant, child, adult). The column 'On loan/in use' will specify if the instrument is currently being used for a project -- which means that someone might be able to assist with sourcing and purchasing, and there may be spare booklets somewhere for you to have a look and see whether you do want to use that item. Also check the notes column to see if items may be available to loan from other places (e.g. PPLS) if they are in regular use for a project. 
+For both kinds, you will see information about the item, when it was published, where we have a manual available (Y = yes, N = no), where that manual/toolkit is available from/stored at DART. You will also see what project the item was purchased for, when it was purchased, and the rough age group that the instrument is intended for (grouped as infant, child, adult). The column 'On loan/in use' will specify if the instrument is currently being used for a project -- which means that someone might be able to assist with sourcing and purchasing, and there may be spare booklets somewhere for you to have a look and see whether you do want to use that item. Also check the notes column to see if items may be available to loan from other places (e.g. PPLS) if they are in regular use for a project.
 
 In **Experiment Battery** there are details of experimental tasks that lack the standardisation of materials listed under Assessments. Examples might include a perspective-taking task or working memory task like the N-back assessment.
 
@@ -95,11 +95,11 @@ Note that for most items, we may have the manual available, but additional forms
 
 _By Maggi Laurie_
 
-You can find a list of toys and technology available to DART members [on Teams here](https://uoe.sharepoint.com/:x:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/DART%20measures%20and%20resources.xlsx?d=wec6e392d137147bbbd7b79a59d17692c&csf=1&web=1&e=QmqtSz).  
+You can find a list of toys and technology available to DART members [on Teams here](https://uoe.sharepoint.com/:x:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/3.%20Running%20a%20project/DART%20measures%20and%20resources.xlsx?d=wec6e392d137147bbbd7b79a59d17692c&csf=1&web=1&e=QmqtSz).
 
 In **Toys and Games**, there are three categories: digital toys (separate from iPads), toys associated with assessments (e.g. toys from the ADOS kit which can assess symbolic play), and participant tokens (including fidgets and participant gifts).
 
-In **Technology** we don't have info yet but we plan to list things like dictaphones, video cameras, laptops etc. 
+In **Technology** we don't have info yet but we plan to list things like dictaphones, video cameras, laptops etc.
 
 ## Online services: Infogram, Qualtrics etc.
 
@@ -120,10 +120,22 @@ Here at the DART lab we have ample technology for all our various
 technological endeavours. Here is a quick guide to borrowing the
 cameras.
 
-| EBC (Edinburgh Birth Cohort) Cameras | DART cameras |
-| --- | --- |
-| There are two EBC cameras. These are labelled camera A and camera B | There are two DART cameras |
-| These cameras are currently located in the bookcase near Lorna’s desk | These cameras are currently located in the cabinet in Maggi and Natalie’s office. |
-| Please do not take the EBC cameras for anything outside of the EBC | Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need |
-| Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need | Please also sign out the camera + tripods on the box and sign back in when returned |
-| Before returning the camera make sure that:<br><br>1. The camera is fully charged<br><br>2. The SD card inside the camera is wiped of any and all recordings<br><br>3. All appropriate cords (chargers and USB are returned along with the camera)<br><br>4. The camera is being returned to exactly where you found it | Before returning the camera make sure that:<br><br>1. The camera is fully charged<br><br>2. The SD card inside the camera is wiped of any and all recordings<br><br>3. All appropriate cords (chargers and USB are returned along with the camera)<br><br>4. The camera is being returned to exactly where you found it |
+* There are **two Edinburgh Birth Cohort (EBC) cameras** - these are labelled Camera A and Camera B. These are currently located in the book case near Lorna's desk. _Please do not take the EBC cameras for anything outside of the EBC._ 
+* There are **two DART cameras** - these cameras are currently located in the cabinet in Maggi and Natalie's office. 
+* Before you take the camera, make sure that you are also taking the appropriate charger, USB cord, and any SD cards you need. 
+* Please also sign out the camera + tripods on the box and sign back in when returned. 
+* Before returning the camera, please make sure that: 
+  1. The camera is **fully charged**
+  2. The **SD card** inside the camera is **wiped of any and all recordings**
+  3. All **appropriate cords** (chargers and USB) **are returned** along with the camera
+  4. The camera is being returned to **exactly where you found it.**
+
+## Generating subtitles/captions for video recordings 
+
+Here are some top tips from lab member _Alyssa Alcorn_ about generating subtitles for video recordings.
+
+1. The live transcription on Zoom is a disaster. DO NOT rely on these transcripts. You won't be "tidying them up" and correcting a few names--ours were such a mess it might have been faster for me to do it from scratch than to try to edit them. Some sections looked superficially legible until you listened to them and realised the real meaning was often opposite, but other sections and particular speakers were a complete scramble, or had chunks missing altogether.
+2. The machine-generated captions on UoE MediaHopper are much, much better in comparison to Zoom, and "clean up" almost all the umms and errs and repeated words (the powers of offline processing instead of real-time processing!). That clean-up is good for an event recording I think, even if you wouldn't want to lose that stuff in a recording that was meant to be analysable data.
+3. The caption-editing interface is more usable (and also faster?) in MediaHopper than in YouTube, and has a built-in find+replace function.
+4. You can generate your edited captions in MediaHopper, and export the caption file for use in another platform if you need to. You can also edit them in a plain text file, like in notepad++ if you have that for writing code etc.
+5. And finally... if you are working in MediaHopper, save and close if you are stepping away for longer than a few minutes. _It will log you out after a while. It's possible to keep editing, and apparently saving your progress, even if you have been logged out! I lost hours of work this way!_ 

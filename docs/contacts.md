@@ -13,10 +13,9 @@ primary contact for: purchasing; participant expenses; HR & recruitment;
 annual leave & contracts; ethics and IRAS forms; event management &
 training courses; room bookings, minutes & meetings.
 
-Salvesen Mindroom Research Centre, Child Life & Health, University of
-Edinburgh, 20 Sylvan Place, Edinburgh  EH9 1UW
+Salvesen Mindroom Research Centre, Child Life & Health, University of Edinburgh, Royal Hospital for Children & Young People, Edinburgh Bioquarter  EH16 4TJ
 
-Tel : 0131 536 0802
+Tel : 0131 312 1644
 
 Email: [Susan.Davidson@ed.ac.uk](mailto:Susan.Davidson@ed.ac.uk)
 
@@ -30,24 +29,17 @@ Tel: +44 (0)131 650 9034
 
 Email:  [dawne.milligan@ed.ac.uk](mailto:dawne.milligan@ed.ac.uk)
 
-**CCBS administrative roles** include those listed below but \[in the
-first instance you should **always** go to Sue Davidson\]
+**CCBS administrative roles** include those listed below \[but in the first instance you should **always** go to Sue Davidson\]
 
-**Dr Laura Doull** is assisting on a time-limited basis with operational
-matters including e-expenses, e-authorisations, ad hoc costings and
-general enquiries.
+**Alice Robertson** is CCBS Centre Manager with responsibility for operational matters including e-expenses, e-authorisations, ad hoc costings, budgets, post-award grant changes and general enquiries. Email: [alice.robertson@ed.ac.uk]() 
 
-**Erika Griffin** is CCBS Finance Officer and will deal with enquiries
-related to budgets and operational expenditure as well as purchase
-orders, SciQuest, invoices, EITs and payments.
+**Caroline MacDonald** is an Administrator based in Psychiatry who can help with enquiries relating to budgets and operational expenditure - purchase orders, SciQuest orders, suppliers, invoices, eITs and payments. Email: [caroline.macdonald@ed.ac.uk]()
 
-**Dorothy Air** is the CCBS HR Assistant.
+**Dorothy Air** is the CCBS HR Assistant. Email: [dorothy.air@ed.ac.uk]()
 
-**Charlotte Iliakis** is the CCBS Postgraduate Administrator.
+**Sharon Moncrieff** is the CCBS Postgraduate Administrator (covering for Charlotte Iliakis's maternity leave until July). Email: [sharon.moncrieff@ed.ac.uk]()
 
-**Rebecca Devon** is the CCBS Science Manager, overseeing academic
-matters, grant application and award, metrics, reporting, website &
-comms.
+**Fiona Stephens** is a CCBS Administrator with a remit covering PURE accounts. Email: [fiona.stephens@ed.ac.uk]().  **Ann Ross** \[via [ccb s-openaccess@ed.ac.uk](mailto:ccbs-openaccess@ed.ac.uk)\] will upload publications to PURE to comply with open access regulations.
 
 ## Useful mailing lists / journal clubs you might want to join
 
@@ -65,7 +57,35 @@ _By Sinéad O'Carroll_
 
 ## Key people who work in Kennedy Tower
 
-\[needs content\]
+_By Sue Davidson_
+
+**Prof Daniel Smith** - Head of Division of Psychiatry \[[d.smith@ed.ac.uk]()\]
+
+**Bethany Anderson** - PA to Head of Division \[[Bethany.Anderson@ed.ac.uk]()\]
+
+**Prof Sue Fletcher-Watson** - Professor of Developmental Psychology, Director of Salvesen Mindroom Research Centre \[[Sue.Fletcher-Watson@ed.ac.uk]()\]
+
+**Dr Andrew Stanfield** - Senior Clinical Research Fellow, Director of Patrick Wild Centre \[[Andrew.Stanfield@ed.ac.uk]()\]
+
+**Dr Andrew McKechanie -** Senior Clinical Research Fellow, Hon Consultant Psychiatrist \[[andrew.mckechanie@ed.ac.uk]()\]
+
+**Prof Stephen Lawrie** - Chair of Psychiatry and Neuro-imaging \[[s.lawrie@ed.ac.uk]()\]
+
+**Prof Andrew McIntosh** - Chair of Biological Psychiatry \[[andrew.mcintosh@ed.ac.uk]()\]
+
+**Dr Catherine Crompton** - Chancellor's Fellow \[[Catherine.Crompton@ed.ac.uk]()\]
+
+**Dr Alyssa Alcorn** - Postdoctoral Research Fellow \[[A.Alcorn@ed.ac.uk]()\]
+
+**Helen Corby** - Research Fellow \[[dcorby@exseed.ed.ac.uk]()\]
+
+**Sue Davidson** - Research Co-ordinator \[[susan.davidson@ed.ac.uk]()\]
+
+**Caroline MacDonald** - Administrator \[[caroline.macdonald@ed.ac.uk]()\]
+
+**Alix Wilkinson** - Servitor \[[A.Wilkinson@ed.ac.uk]()\]
+
+**Patrice Delfils** - Servitor \[[Patrice.Delfils@ed.ac.uk]()\]
 
 ## A list of nice places to go nearby
 
@@ -86,7 +106,7 @@ cafés and eateries! Here are some gems:
   treats. So a nice place to settle in and write for the day.
 * For dreamy breakfasts when you're not planning on doing any work: _Honeycomb and Co_
 * After work drinks: _The Hermitage, Montpelier, Black Ivy_
-* Dinner: _Montpelier, Mia's Italian, Nonas_
+* Dinner: _Montpelier, Mia's Italian_
 * Walks: _The Braid & Blackford Hill, Bruntsfield Links_
 
 ## Useful contractors
@@ -96,7 +116,7 @@ cafés and eateries! Here are some gems:
 [http://scottmcallisterdesign.co.uk](http://scottmcallisterdesign.co.uk) -- recommended though not used yet,
 an autistic graphic designer in Scotland.
 
-David Roberts (designroute.hello@gmail.com) has done some graphic design work for Catherine before (happy to share examples). He's a registered supplier at the University so easy to pay, and happy to do small bits of graphic design work - many of the other University registered suppliers only take on bigger jobs. 
+David Roberts (designroute.hello@gmail.com) has done some graphic design work for Catherine before (happy to share examples). He's a registered supplier at the University so easy to pay, and happy to do small bits of graphic design work - many of the other University registered suppliers only take on bigger jobs.
 
 ### Transcription
 

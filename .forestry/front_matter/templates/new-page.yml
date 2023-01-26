@@ -8,4 +8,5 @@ fields:
     required: false
   label: Title
 pages:
+- docs/building-related-information.md
 - docs/writing-and-publishing.md

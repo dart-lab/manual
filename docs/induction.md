@@ -15,12 +15,8 @@ with what was going on. As a result, I felt prepared when I arrived on
 my first day and ready to hit the ground running. My advice to anyone
 starting a post at DART is:
 
-* Organise a meeting with Ken O'Neill to take you on a building tour.
-  Not only will this give you an idea of where everything is, but he
-  also kindly provides you with a stationary start-up pack which is
-  always useful. (Ken's e-mail: [v1konei3@exseed.ed.ac.uk](mailto:v1konei3@exseed.ed.ac.uk))
-* Introduce yourself to staff at the front desk. They set the access
-  codes for the doors which are always useful to know.
+* Organise a meeting with Bethany Anderson to take you on a building tour. Not only will this give you an idea of where everything is, but she also kindly provides you with a stationary start-up pack which is always useful. (Bethany's e-mail: bethany.anderson@ed.ac.uk)
+* Introduce yourself to staff at the front desk (Alix and Patrice). They set the access codes for the doors which are always useful to know.
 * This may not apply to everyone*, but it may be worth taking a trip
   to the Main Library on George Square to get your staff/ student
   card. You can get there easily by bus, with the number 5 and 23
@@ -73,6 +69,8 @@ staff have everything they need.
 
 _PLEASE ADD ADDITIONAL ITEMS TO THE LIST ABOVE_
 
+Whilst it's not required, the University encourages staff/stuents to create a profile page for the University website. This essentially gives you a free personal website, so it's worth doing! A 'how to' for profile creation, as well as guidance and support, is available [on the CCBS website](https://www.ed.ac.uk/clinical-brain-sciences/staff-only/ccbs-information-everyone/creating-profile-pages).
+
 ## Essential training for new staff
 
 New staff must complete 4 mandatory online training modules:
@@ -105,24 +103,18 @@ study file.
 
 ## How to request annual leave
 
-\[needs updating with info about People & Money\]
+Updated April 2022, Catherine
 
-1. If you can, think about how your annual leave fits with the timeline
-   for your project. Try to avoid annual leave at moments which we
-   already know will be busy. That said, don't worry if you can't
-   manage to co-ordinate your personal and work life!
-2. Email your line manager (normally Sue) to request annual leave,
-   noting the dates
-3. Sue will reply to authorise the request
-4. Forward Sue's reply to Ken O'Neill at v1konei3@exseed.ed.ac.uk
+\- From 4 April 2022, all leave and absence will be recorded in People and Money.
 
-NB: if you are a PhD student you don't have an official annual leave
-allowance. However you should still take holidays and it is useful and
-kind to let your supervisors know in advance!
+\- All types of leave and absence (for example, annual leave) will be recorded in P&M. You should ensure you are familiar with the types of leave available and that the leave you are requesting is appropriate. A summary can be found [here](https://www.ed.ac.uk/human-resources/policies-guidance/leave-absence/leave-options "https://www.ed.ac.uk/human-resources/policies-guidance/leave-absence/leave-options"). Once your leave is submitted, it will go to your line manager to approve.
 
-Sue normally marks her annual leave on a calendar on her office door. If
-you're planning further ahead than that, you can predict that she will
-often be on leave during school holidays.
+\- Guides and videos are available [here](https://uoe.sharepoint.com/sites/HRandFinanceTransformation/SitePages/payroll-timesheets-job-changes-guidance.aspx "https://uoe.sharepoint.com/sites/HRandFinanceTransformation/SitePages/payroll-timesheets-job-changes-guidance.aspx").
+
+General tips
+
+* If you can, think about how your annual leave fits with the timeline for your project. Try to avoid annual leave at moments which we already know will be busy. That said, don't worry if you can't manage to co-ordinate your personal and work life!
+* if you are a PhD student you don't have an official annual leave allowance. However you should still take holidays and it is useful and kind to let your supervisors know in advance!
 
 ## General Information about Annual Leave
 
@@ -138,14 +130,11 @@ page](https://www.ed.ac.uk/human-resources/policies-guidance/leave-absence/leave
 
 ## Reporting sick leave
 
-The Psychiatry procedure is for staff to contact their line manager,
-preferably by phone, to inform them of any sick leave.  If by email,
-then copy in Ken O'Neill so that he can record it on the HR system. 
-Managers must ensure the University knows of any absence on the first
-day of sickness as any delay can have an effect on staff's pay; if Ken
-is on leave then please email Dorothy Air directly instead.
+Updated April 2022: Catherine
 
-Staff need to provide the following information:
+From 4 April 2022, all leave and absence will be recorded in People and money
+
+For sickness absence, you should follow your local process for reporting sickness absence. This usually involves phoning your line manager on the first day of your absence, and providing the following information
 
 * The specific reason for absence.
 * The length of time they expect to be absent and/or their expected
@@ -154,35 +143,17 @@ Staff need to provide the following information:
 * Whether there is anything their manager needs to do to reassign
   their work or meetings for the time absent.
 
-Line Manager and staff must also agree how to maintain contact if the
-absence is expected to last longer than one day, so that we are kept
-fully aware of the situation.
+Line Manager and staff must also agree how to maintain contact if the absence is expected to last longer than one day, so that we are kept fully aware of the situation.
 
-After any period of absence of up to and including seven calendar days,
-staff must complete the self-certificate section (Part 1) of a [**Return
-to Work
-form**](http://www.docs.csg.ed.ac.uk/HumanResources/forms/Return_to_Work.doc),
-attached, ideally on the first day back, sending Ken the completed
-form.  Managers should have a return to work discussion and complete
-Part 2 of the form when the absence is longer than seven calendar days. 
-The member of staff should then hand the completed form and any medical
-certificates to Ken.
+After any period of absence of up to and including seven calendar days, staff must complete the self-certificate section (Part 1) of a [**Return to Work form**](http://www.docs.csg.ed.ac.uk/HumanResources/forms/Return_to_Work.doc), attached, ideally on the first day back, sending Dorothy Air the completed form.  Managers should have a return to work discussion and complete Part 2 of the form when the absence is longer than seven calendar days.  The member of staff should then hand the completed form and any medical certificates to Dorothy Air.
 
-Further information is available via the University's [**Absence
-Management
-Policy**](http://www.docs.csg.ed.ac.uk/HumanResources/Policies/Absence_Management-Policy.pdf)
+Forms regarding annual leave, absence, and general work attendence can be found on [this page of the HR website](https://www.ed.ac.uk/human-resources/policies-guidance/leave-absence/absence). For information on how to request time off for medical appointments, how to report absence due to illness/injury, or how the university deals with concerns over work absences, the university's Absence Management Policy is available here: [https://www.ed.ac.uk/sites/default/files/atoms/files/absence_management_policy.pdf](https://www.ed.ac.uk/sites/default/files/atoms/files/absence_management_policy.pdf "https://www.ed.ac.uk/sites/default/files/atoms/files/absence_management_policy.pdf")
 
 ## How to get a Research Passport (and what it is for)
 
 _By Saoirse Heron_
 
-For those of you who are carrying out research in collaboration with the
-NHS, then it is necessary that you obtain a Research Passport. The
-Research Passport ensures that your pre-employment checks are in line
-with the NHS Employment Check Standards. Once your Research Passport is
-approved it remains valid for 3 years and enables you to obtain an
-Honorary Research contract or Letter of Access for the relevant NHS
-board.
+For those of you who are carrying out research in collaboration with the NHS, then it is necessary that you obtain a Research Passport. The Research Passport ensures that your pre-employment checks are in line with the NHS Employment Check Standards. Once your Research Passport is approved it remains valid for 3 years and enables you to obtain an Honorary Research contract or Letter of Access for the relevant NHS board.
 
 In order to apply for a Research Passport, the following is required:
 

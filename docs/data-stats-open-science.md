@@ -4,6 +4,14 @@ title: Data, Stats and Open Science
 ---
 # Data, Stats and Open Science
 
+## Digital Research Services
+
+_By Reesha Zahir_
+
+The [Digital Research Services](https://www.digitalresearchservices.ed.ac.uk/ "Digital Research Services") page provides information about all of the data and computing services available to researchers at the University of Edinburgh. This includes resources for planning your research, data collection, data storage, analysis, data management, data sharing, publication, and much more.
+
+The UoE Digital Research Services team have also created a [Digital Research Toolkit](https://www.digitalresearchservices.ed.ac.uk/resources/digital-research-toolkit "Digital Research Toolkit"), which is a selection of tools and services designed to help accelerate digital research. Webinars about the tools and services available in this toolkit can be found [here.](https://media.ed.ac.uk/playlist/dedicated/169912561/1_iu5mrgh2/1_supsji1w "Digital Research Toolkit Webinars")
+
 ## Data storage systems and definitions
 
 _by Sue Fletcher-Watson_
@@ -39,7 +47,7 @@ Information Services.
 
 DataSync is useful for: project folders that you want to share with people outside the University who either don't have Dropbox or don't want Dropbox; sharing folders which exceed the free Dropbox folder limit; sharing and synchronising files across multiple devices including your mobile. [There is more information here](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync).
 
-You can access DataSync through your browser or create a file on your desktop that automatically syncs new content. The [desktop version uses a client called OwnCloud](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync/desktop-clients)   
+You can access DataSync through your browser or create a file on your desktop that automatically syncs new content. The [desktop version uses a client called OwnCloud](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync/desktop-clients)  
 that you download to your computer, and is also available [for mobile devices](https://www.ed.ac.uk/information-services/computing/desktop-personal/datasync/mobile-clients).
 When using Own Cloud: if you add or edit a file in one place it is
 copied / the change is propogated to the other place(s); if a file is
@@ -71,6 +79,8 @@ in CCBS who might be able ot help if you have queries.
 ## Data Management & how to password protect and encrypt a file.
 
 _By Sue Fletcher-Watson_
+
+University resources on data protection and processing can be found at [https://www.ed.ac.uk/data-protection](https://www.ed.ac.uk/data-protection "https://www.ed.ac.uk/data-protection") and [https://uoe.sharepoint.com/sites/DataProcessingRegisters/](https://uoe.sharepoint.com/sites/DataProcessingRegisters/ "https://uoe.sharepoint.com/sites/DataProcessingRegisters/").
 
 ### Data Management: file types
 
@@ -300,11 +310,11 @@ pathways which might contribute usefully to our pre-registration.
 3. [R Ladies has an Edinburgh chapter](https://www.meetup.com/rladies-edinburgh/), where you can
    go along to get advice and guidance, and swap tips, on using R:
 
-_R-Ladies Edinburgh welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. Supporting minority identity access to STEM skills & careers, the Free Software Movement, and contributing to the global R community!  
-  
+_R-Ladies Edinburgh welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. Supporting minority identity access to STEM skills & careers, the Free Software Movement, and contributing to the global R community!
+
 _(Just a note to say that despite the name, this group are very very inclusive: "_We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R."_)
 
-4. The [Research Data Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/training)
+1. The [Research Data Service](https://www.ed.ac.uk/information-services/research-support/research-data-service/training)
    run courses including _Handling Data Using SPSS:_
 
 _Computer Lab-based, hands on workshop - No prior experience or
@@ -313,15 +323,15 @@ the facilities provided by SPSS can help with the management of your
 research data, demonstrating the benefits of using SPSS syntax-driven
 commands_
 
-5. Crispin Jordan provides [stats support at a drop-in
+1. Crispin Jordan provides [stats support at a drop-in
    clinic](https://crispinjordan.weebly.com/data-analysis-help.html) --
    follow the link to see available dates and to book a slot.
-6. Places to approach for paid stats support for projects that have
+2. Places to approach for paid stats support for projects that have
    available budget include the [Edinburgh Clinical Trials
    Unit](https://www.ed.ac.uk/usher/edinburgh-clinical-trials) and the
    [Edinburgh Clinical Research
    Facility](https://www.edinburghcrf.ed.ac.uk/).
-7. [AQMEN](http://www.aqmen.ac.uk/) (the Applied Quantitative Methods Network) runs training courses on statistical methods and data analysis.
+3. [AQMEN](http://www.aqmen.ac.uk/) (the Applied Quantitative Methods Network) runs training courses on statistical methods and data analysis.
 
 **General Online Resources**
 
@@ -357,7 +367,7 @@ commands_
    related resources [at this
    website](https://learningstatisticswithr.com/)
 2. Code Academy runs a [free online course](https://www.codecademy.com/learn/learn-r) for learning to use R.
-3. University of Edinburgh Coding Club - [Our Coding Club](https://ourcodingclub.github.io/ "our coding club") - runs a range of in-person/zoom training workshops for R and Python, plus they have a range on online tutorials and courses - these range in difficulty but most are accessible right from beginner level. 
+3. University of Edinburgh Coding Club - [Our Coding Club](https://ourcodingclub.github.io/ "our coding club") - runs a range of in-person/zoom training workshops for R and Python, plus they have a range on online tutorials and courses - these range in difficulty but most are accessible right from beginner level.
 
 **Using R -- more sophisticated resources**
 
@@ -374,6 +384,18 @@ commands_
 
 ## Open Science Resources
 
-* Information about the [FAIR principles of data
-  science](https://www.go-fair.org/fair-principles/): data should be
-  Findable, Accessible, Interoperable and Reuseable
+* Information about the [FAIR principles of data science](https://www.go-fair.org/fair-principles/): data should be Findable, Accessible, Interoperable and Reuseable
+* A recording of the University's Research Cultures Integrity, Reproducibility, and Open Research event is \[available to watch online\](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/Shared Documents/Forms/AllItems.aspx?id=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared%20Documents%2FResearch%20Policy%2FResearch%20Evaluation%2FRCWG%20December%20Event%2Emp4&parent=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared%20Documents%2FResearch%20Policy%2FResearch%20Evaluation) (UoE staff/students only).
+
+## Open Science Framework (OSF)
+
+The [OSF](https://osf.io/ "OSF") is a free open-source software project that facilitates open collaboration in research. You can use it to pre-register your analysis plans, share preprints, collaboratively analyse and store data, and much more.
+
+The [OSF Support](https://help.osf.io/ "OSF Support") website has a comprehensive guidance on how to get started with using this platform for [your individual research](https://help.osf.io/article/338-starting-pathway-on-the-osf), or for [collaborative group research.](https://help.osf.io/article/413-getting-started-for-research-groups) You may find the following pages useful if you are planning on registering your analyses on the OSF:
+
+* [Intro to registrations on OSF]()
+* [Creating a registration](https://help.osf.io/article/345-create-registrations)
+* [Registration templates]()
+* [Intro to updating your registration](https://help.osf.io/article/110-introduction-to-updating)
+* [Starting an update of your registration](https://help.osf.io/article/112-starting-an-update)
+* [Sharing registrations](https://help.osf.io/article/381-sharing-registrations)
