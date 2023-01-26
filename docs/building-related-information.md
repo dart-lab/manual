@@ -1,5 +1,5 @@
 ---
-title: Building Information
+title: Buildings Information
 
 ---
 # Kennedy Tower
