@@ -47,7 +47,6 @@ This is [a more general post of advice](http://dart.ed.ac.uk/dos-and-donts-super
 
 ### Public Engagement and Science Communication
 
-* Advice on [how to read news articles about health issues](https://www.nhs.uk/news/Pages/Howtoreadarticlesabouthealthandhealthcare.aspx)
 * Examples of [a gap between academic reporting and media reporting](https://bigthink.com/neurobonkers/four-times-when-journalists-read-a-scientific-paper-and-reported-the-complete-opposite?utm_content=buffer3fa19&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) in science
 
 ### Writing
