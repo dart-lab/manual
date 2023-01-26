@@ -378,18 +378,21 @@ commands_
   science](https://www.go-fair.org/fair-principles/): data should be
   Findable, Accessible, Interoperable and Reuseable
 
-## Quick intro to the Open Science Framework (OSF) 
+## Quick intro to the Open Science Framework (OSF)
 
-### What is it? 
+### What is it?
 
-The OSF is a free open-source software project that facilitates open collaboration in science research. 
+The OSF is a free open-source software project that facilitates open collaboration in science research.
 
-### What can you do with it? 
+### What can you do with it?
 
 * You can **pre-register** your research paper on the Open Science Framework. They have a variety of pre-registration templates suitable for all kinds of research. You can also pre-register your posters and presentations for conferences
 * You can **collaboratively work** on research projects. All the ongoing research projects in a lab can be managed through the OSF. The projects can be interlinked (or not), and the platform can store (in editable form) the data collected for each project, lab manuals, protocols, etc.
 
-### How do I pre-register my paper on OSF? 
+### How do I pre-register my paper on OSF?
 
-1. [Create an OSF account](https://help.osf.io/article/271-create-an-osf-account "Create an OSF account"). You can use your ORCID, institutional login, or any email address to create an account 
-2. 
+* The first step is to [create an OSF account](https://help.osf.io/article/271-create-an-osf-account "Create an OSF account"). You can use your ORCID, institutional login, or any email address to create an account
+* Once you have your account, you can find detailed instructions on how to create a pre-registration from scratch [here](https://help.osf.io/article/162-start-a-registration#start-a-registration-from-scratch "pre-reg from scratch")
+* The website also hosts a variety of [pre-registration templates](https://osf.io/zab38/wiki/home/ "pre-reg template") suitable for different types of projects
+* You can [collaborate with colleagues](https://help.osf.io/article/379-collaborating-on-registrations "collaboration") when drafting your pre-reg, with different permission levels assigned to different authors
+* Already submitted your pre-reg but need to change it due to unexpected circumstances? Don't worry, [it's easy to update it](https://help.osf.io/article/112-starting-an-update "how to update"). However, it's important to think carefully about the [rationale for your update](https://help.osf.io/article/110-introduction-to-updating "update intro") 
