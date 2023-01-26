@@ -6,7 +6,21 @@ title: Data, Stats and Open Science
 
 ## Data storage systems and definitions
 
-_by Sue Fletcher-Watson_
+_by Sue Fletcher-Watson and Reesha Zahir_ 
+
+University staff and students have access to a number of different online services and platforms for your data storing, managing, and analysing needs. The university's [Digital Research Services](https://www.digitalresearchservices.ed.ac.uk/ "DRS ") webpage is a good first port of call if you are looking to find out what services you have access to. The webpage can direct you to all the available resources based on whether you are looking to: 
+
+1. Plan and design your research 
+2. Collect and capture your data 
+3. Organise and store your data 
+4. Interpret and analyse your data 
+5. Manage and preserve your data 
+6. Publish and share your data 
+7. Discover or reuse data 
+
+You can also check out [these videos](https://media.ed.ac.uk/media/ResearchComputing_by_MikeWallis/1_supsji1w "webinar") from a webinar hosted by the Digital Research Services, where they summarised some of the services they offer in a series of short talks. 
+
+We have included further information on the data storing systems that DART lab members frequently use in the sections below. 
 
 ### Shared Drives on the University Server
 
