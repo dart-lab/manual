@@ -2,25 +2,7 @@
 title: Lab & General Resources
 
 ---
-# Resources
-
-## Logos
-
-_by Sue Fletcher-Watson_
-
-You can download logos for DART, the Patrick Wild Centre, the Salvesen Mindroom Research Centre, the Theirworld Edinburgh Birth Cohort and the University of Edinburgh on Teams [here](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=UadNeR).
-
-There's also a dropbox fold with logos for the Salvesen Mindroom Research Centre and the University of Edinburgh [at this link](https://www.dropbox.com/sh/163ox1y5rv7bci8/AAAG3vwSsbL5An2VbROGwVBRa?dl=0), which can be useful if you want to share logos with external parties.
-
-![](uploads/smrc_logo_best.jpg)
-
-## Headed paper
-
-_by Sue Fletcher-Watson_
-
-[This page has template letters](https://www.ed.ac.uk/clinical-brain-sciences/templates), powerpoint slides and posters for anyone working within CCBS.
-
-We have our own SMRC letterhead, which is available in [this Teams folder](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=pBU7Id) with the logos.
+# Physical Resources
 
 ## Toys & technology available to use
 
@@ -64,6 +46,8 @@ In **Experiment Battery** there are details of experimental tasks that lack the 
 
 Note that for most items, we may have the manual available, but additional forms and booklets may need to be purchased for your project. It is your responsibility to check the content is complete before commencing your project -- you many need to order extra report forms or check games / batteries etc. Please also schedule time at the end of your data collection period to clean, and neatly store the kit. It is also important to check the version number/publication date, and cross-reference online to see if a newer version of a measure or assessment exists, e.g. ADOS-G vs. ADOS-2.
 
+# Digital Resources
+
 ## Online services: Infogram, Qualtrics etc.
 
 _by Sue Fletcher-Watson_
@@ -93,3 +77,37 @@ _by Holly Sutherland_
 * [**Wayback Machine**](https://web.archive.org/web/): Found a website that doesn't seem to exist anymore? A dead link somewhere? Google showing you stuff in the link preview that doesn't appear when you click the link? The wayback machine saves archival copies of webpages at various different timepoints - just put the page link in and select which timepoint you want to view!
 * [**archive.ph**](https://archive.ph/): Nominally for archiving versions of webpages (e.g. a tweet you want to preserve even if the author deletes it), putting in the URL of, say, a paywall-blocked news article will usually produce the whole article sans paywall.
 * [**Stock Image site list**](https://blog.hootsuite.com/20-free-stock-photo-sites-social-media-images/?utm_source=twitter&utm_medium=owned_social&utm_campaign=social_hootsuite): List of sites that provide free-to-use photos for websites, tweets etc.
+
+## Video hosting/captioning
+
+_By Sue FW_
+
+[Media Hopper](https://www.ed.ac.uk/information-services/learning-technology/media-hopper-create) is the University's video hosting site -- a bit like YouTube or Vimeo. You can create an account and post videos, and then embed them on other websites easily.
+
+If you want a video to be subtitled there is [a 'pilot' service, detailed here](https://www.ed.ac.uk/information-services/learning-technology/media-hopper-create/help-and-support/subtitling-pilot). Just email IS Helpline to request captioning for your video.
+
+# Branding & Identity
+
+## Logos
+
+_by Sue Fletcher-Watson_
+
+You can download logos for DART, the Patrick Wild Centre, the Salvesen Mindroom Research Centre, the Theirworld Edinburgh Birth Cohort and the University of Edinburgh on Teams [here](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=UadNeR).
+
+There's also a dropbox fold with logos for the Salvesen Mindroom Research Centre and the University of Edinburgh [at this link](https://www.dropbox.com/sh/163ox1y5rv7bci8/AAAG3vwSsbL5An2VbROGwVBRa?dl=0), which can be useful if you want to share logos with external parties.
+
+![](uploads/smrc_logo_best.jpg)
+
+## Headed paper
+
+_by Sue Fletcher-Watson_
+
+[This page has template letters](https://www.ed.ac.uk/clinical-brain-sciences/templates), powerpoint slides and posters for anyone working within CCBS.
+
+We have our own SMRC letterhead, which is available in [this Teams folder](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=pBU7Id) with the logos.
+
+## DART lab online
+
+\[info needed\]
+
+Youtube, Vimeo, Google Scholar...?
