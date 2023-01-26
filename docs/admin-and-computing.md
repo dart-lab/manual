@@ -1,5 +1,5 @@
 ---
-title: Admin and Computing
+title: Admin & Computing
 
 ---
 # Admin and Computing
@@ -85,7 +85,7 @@ Please remember to unpublish your profile when you leave (in the
 
 ## Creating / updating your profile
 
-* **Academics**
+**Academics**
 
 1. **Edweb**
 
@@ -116,7 +116,7 @@ profile on the [Edinburgh Neuroscience website researcher's
 page](https://www.edinburghneuroscience.ed.ac.uk/our-researchers), the
 information is pulled through from your PURE profile.
 
-* **Non-academic staff**
+**Non-academic staff**
 
 You can create an Edweb profile. You can just add basic contact details,
 or you can add more information about your background and role.
@@ -131,7 +131,7 @@ for overview tables' field so that you will appear on the automatically
 generated table at
 [https://www.ed.ac.uk/clinical-brain-sciences/people/ccbs-staff-listing](https://www.ed.ac.uk/clinical-brain-sciences/people/ccbs-staff-listing)
 
-* **Students**
+**Students**
 
 You can create an Edweb profile. You can just add basic contact details,
 include your thesis title, and/or add more information about your
@@ -193,49 +193,12 @@ instructions**](https://www.ed.ac.uk/information-services/computing/desktop-pers
 If you have any queries please contact [**the IS
 Helpline**](mailto:IS.Helpline@ed.ac.uk).
 
-## How to book rooms, and which rooms are the best
-
-_By Sue FW_
-
-To book a room in Kennedy Tower you need to email Jim ([j.macgregor@ed.ac.uk](mailto:j.macgregor@ed.ac.uk)),
-telling him which room you require and when.  He'll let you know if it's free
-and provide advice on alternatives.
-
-To book a room elsewhere in the University you can either:
-
-1. Email [timetabling@ed.ac.uk](mailto:timetabling@ed.ac.uk)
-2. Book through [this
-   website](https://www.ted.is.ed.ac.uk/UOE1819_WRB/default.aspx)
-
-Bear in mind that some rooms are available only to staff, and some only for
-students. In most cases you will _request_ a room, and should wait for
-confirmation before being sure you have secured it.
-
-You can also book rooms at various MVM sites including in QMRI and Chancellor's
-Building through this site: [https://www.bookings.mvm.ed.ac.uk/index.asp](https://www.bookings.mvm.ed.ac.uk/index.asp) You
-will need to register as a user first. In the case of QMRI, you can check
-availability on the MVM bookings site but then need to request that the
-reception staff book the room for you. When you check for rooms on the MVM site,
-it will direct you to the right email address for that request.
-
-The Dugald Stewart Building has some of the nicest meeting rooms in the central
-area. You can often book direct by emailing
-[https://ppls.schoolsecretary@ed.ac.uk](https://ppls.schoolsecretary@ed.ac.uk) (but this is an unofficial route so be
-circumspect -- i.e. not "Sue says I can book through you...")
-
-Remember to **share accessibility information** about the room with visitors,
-regardless of whether they ask. All University buildings are listed on the
-AccessAble website and this includes local transport links and parking details.
-[This is the page for Kennedy
-Tower](https://www.accessable.co.uk/venues/kennedy-tower). One key detail for KT
-is that the 8^th^ floor is accessed by stairs only so if you book this meeting
-room you need to be confident everyone attending will be able to access it.
-
 ## Making temporary wifi accounts for non eduroam visitors (including participants)
 
 _By Catherine Crompton_
 
-[Visit this page](https://www.ed.ac.uk/information-services/computing/desktop-personal/wireless-networking/wlan-guest-staffreg).
+[Visit this
+page](https://www.ed.ac.uk/information-services/computing/desktop-personal/wireless-networking/wlan-guest-staffreg).
 Click "create Guest Wifi Account" and enter your EASE log in. You can
 create log in codes that last up to ten days.
 
@@ -255,13 +218,19 @@ particularly:
   reporting requirements by holding all the relevant info about
   staffing, expenditure and so on
 
-Because access to this system enables visibility of personal and confidential information, including HR data (salaries) and research activity (proposals, contracts), people need to [apply to be allowed to use worktribe here](https://www.ed.ac.uk/finance/about/sections/fis/worktribe-access-request-form).
+Because access to this system enables visibility of personal and
+confidential information, including HR data (salaries) and research
+activity (proposals, contracts), people need to [apply to be allowed to
+use worktribe,
+here](https://www.ed.ac.uk/finance/about/sections/fis/worktribe-access-request-form).
 
 You only need to apply to use Worktribe, as an academic or student, if
 you are going to be the Principal Investigator or a co-applicant on some
 grant applications. Normally students won't need to join.
 
-You can read more about Worktribe and access an online training module [at this page](https://www.wiki.ed.ac.uk/pages/viewpage.action?spaceKey=WRM&title=Worktribe+Research+Management).
+You can read more about Worktribe and access an online training module
+[at this
+page](https://www.wiki.ed.ac.uk/pages/viewpage.action?spaceKey=WRM&title=Worktribe+Research+Management).
 
 ## IT support: where to get it
 
@@ -276,9 +245,14 @@ ask for help. You can:
 * use the online enquiry form at [http://www.ishelpline.ed.ac.uk](http://www.ishelpline.ed.ac.uk)
 * attend the IT Support Desk for potentially quicker results.
 
-The IT Support Desk is available in the Main Library in George Square Mon-Fri 12pm-5pm, [more info at this link](https://www.ed.ac.uk/information-services/help-consultancy/it-help/it-support-desk).
+The IT Support Desk is available in the Main Library in George Square
+Mon-Fri 12pm-5pm, [more info at this
+link](https://www.ed.ac.uk/information-services/help-consultancy/it-help/it-support-desk).
 
-[There is also a wiki](https://www.wiki.ed.ac.uk/display/ISGM/IT+Setup+Guides+For+College+Of+Medicine+And+Veterinary+Medicine), including an overview of all the Information Support services, which you may find useful in answering common queries
+[There is also a
+wiki](https://www.wiki.ed.ac.uk/display/ISGM/IT+Setup+Guides+For+College+Of+Medicine+And+Veterinary+Medicine),
+including an overview of all the Information Support services, which you
+may find useful in answering common queries
 
 ## How to get a staff or student card
 
@@ -298,12 +272,15 @@ page**](https://www.ed.ac.uk/information-services/help-consultancy/card/card-fun
 
 _By Sue FW_
 
-[Media Hopper](https://www.ed.ac.uk/information-services/learning-technology/media-hopper-create)
+[Media
+Hopper](https://www.ed.ac.uk/information-services/learning-technology/media-hopper-create)
 is the University's video hosting site -- a bit like YouTube or Vimeo.
 You can create an account and post videos, and then embed them on other
 websites easily.
 
-If you want a video to be subtitled there is [a 'pilot' service, detailed here](https://www.ed.ac.uk/information-services/learning-technology/media-hopper-create/help-and-support/subtitling-pilot).
+If you want a video to be subtitled there is [a 'pilot' service,
+detailed
+here](https://www.ed.ac.uk/information-services/learning-technology/media-hopper-create/help-and-support/subtitling-pilot).
 Just email IS Helpline to request captioning for your video.
 
 All staff and students can create and maintain their own profile page on
