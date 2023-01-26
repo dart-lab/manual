@@ -69,10 +69,12 @@ specified in the donation agreement.
 
 This will normally be Sue FW
 
-* **Submit your request to your \[single contact person\]{.underline}**
+* **Submit your request to** [ccbs-orders@ed.ac.uk](mailto:ccbs-orders@ed.ac.uk "mailto:ccbs-orders@ed.ac.uk") - **this is** **the shared email for the core finance team (Erika, Rokas, Caroline)**
 
 Please don't copy in other people who might be able to help. This can
 cause confusion over responsibilities and often slows things up.
+
+The email will be picked up by either Rokas Stonys or Caroline MacDonald, our Finance Administrators. They will normally respond within 2 working days, either to confirm that the request has been actioned or, for more complex requests, to acknowledge receipt.
 
 * **Please be patient -- wait at least 3 days before following up**
 
