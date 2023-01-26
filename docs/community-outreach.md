@@ -1,5 +1,5 @@
 ---
-title: Community & Outreach
+title: Research Dissemination & Community Outreach
 
 ---
 # Research Dissemination
