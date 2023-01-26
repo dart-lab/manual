@@ -10,7 +10,7 @@ title: Ethics Applications
 
 **Sponsorship** is the University's review to **check that your research is properly insured** and review the University's liability. This should happen FIRST. For example, what if you invite a participant to a University building, and they trip on a loose carpet corner and hurt themselves? The University would be liable for this, and so they want to know that all significant risks have been minimised. This includes risks like failure to take consent.
 
-Tips:
+#### Tips
 
 * Generic research governance review for insurance and liability purposes.
 * Submit your protocol, participant information sheet, and consent form
@@ -21,7 +21,7 @@ Tips:
 
 **Ethics** is the process of evaluating that your research doesn't infringe human rights, and that you follow core ethical research practices such as informed consent and data confidentiality. This normally happens SECOND.
 
-Tips:
+#### Tips
 
 * Human rights review.
 * Your sponsor may recommend a specific ethics committee.
@@ -32,7 +32,7 @@ Tips:
 
 **R&D review** is designed **to evaluate the impact of your project on NHS resources**. If required, R&D review will happen THIRD. However, your project might need to be checked by R&D at the time you apply for funding, to see whether you need to include budget for NHS resources. It might also need an R&D review after funding has been awarded, to see if it impacts the NHS in any way. If your project has zero impact on the NHS then you won't take this any further. If you are using NHS resources (e.g. recruiting from patient lists, involving nurse time, posting recruitment adverts in GP surgeries), then R&D approval is needed to permit access to these resources.
 
-Tips
+#### Tips
 
 * NHS impact review.
 * If you are submitting to NHS ethics, you will also submit your application
@@ -43,7 +43,7 @@ Tips
 
 The **Caldicott Guardian** scheme is designed to make sure patient data collected for clinical purposes is protected. You will need to apply to the scheme, after your regular ethics is completed, if you want to access any patient data. This includes patient names and addresses, as well as diagnostic information, routine test results etc.
 
-Tips
+#### Tips
 
 * Review of patient data security.
 * The Caldicott Guardian scheme is about protecting patient data.
@@ -63,18 +63,8 @@ If your study fits under the Psychology umbrella (even if it involves imaging or
 
 1. The online website [https://resource.ppls.ed.ac.uk/ethics/](https://resource.ppls.ed.ac.uk/ethics/) is straight-forward in spite of its vintage look. You can easily save your form and come back to it later. You have to upload all the relevant documents (Participant Information Sheet, Recruitment flyer, Consent Form -- You can also add a Data Management Plan but it's not mandatory) at the end, on the last page (possibly even after having clicked on "submit".
 2. Once the online form is submitted, your collaborators will receive an email inviting them to review it and (electronically) sign it.
-3. Once all the collaborators have signed the form, it goes to the
-   ethics committee. The decision comes back within 2 weeks via email, with
-   the Approval letter or with the Review Comments (once I submitted a form
-   in the morning and got the letter on the same day in the afternoon).
-4. If you need to change some details based on the Review Comments, of
-   if you need to make amendments later, you can easily access the form
-   again in your PPLS Ethics account to edit the form and re-submit it.
-   While doing so you can click on "Compare Previous" to keep track and
-   compare the different versions of the form. You can also upload a
-   document (on the same page as the other relevant documents) explaining
-   to the committee the changes you've made, and/or answering the questions
-   raised in the Review Comments.
+3. Once all the collaborators have signed the form, it goes to the ethics committee. The decision comes back within 2 weeks via email, with the Approval letter or with the Review Comments (once I submitted a form in the morning and got the letter on the same day in the afternoon).
+4. If you need to change some details based on the Review Comments, of if you need to make amendments later, you can easily access the form again in your PPLS Ethics account to edit the form and re-submit it. While doing so you can click on "Compare Previous" to keep track and compare the different versions of the form. You can also upload a document (on the same page as the other relevant documents) explaining to the committee the changes you've made, and/or answering the questions raised in the Review Comments.
 
 ### NHS Ethics, ACCORD, all that jazz
 
