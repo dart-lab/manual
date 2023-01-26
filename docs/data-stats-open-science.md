@@ -8,7 +8,7 @@ title: Data, Stats and Open Science
 
 _by Sue Fletcher-Watson and Reesha Zahir_ 
 
-University staff and students have access to a number of different online services and platforms for your data storing, managing, and analysing needs. The university's [Digital Research Services](https://www.digitalresearchservices.ed.ac.uk/ "DRS ") webpage is a good first port of call if you are looking to find out what services you have access to. The webpage can direct you to all the available resources based on whether you are looking to: 
+University staff and students have access to a number of different online services and platforms for your data storing, managing, and analysing needs. The university's [Digital Research Services](https://www.digitalresearchservices.ed.ac.uk/ "DRS ") webpage is a good first port of call if you are looking to find out which services you can access. The webpage can direct you to all the available resources based on whether you are looking to: 
 
 1. Plan and design your research 
 2. Collect and capture your data 
