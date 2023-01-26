@@ -42,6 +42,12 @@ _by Mihaela Dragomir & Bérengère Digard_
 * [Participatory autism research collective](https://participatoryautismresearch.wordpress.com/category/events/)
 * [KCL ARCH seminars](https://twitter.us19.list-manage.com/subscribe?u=c5c8d2134955dc7dbe09ae0b1&id=c273087409)
 
+# Mailing lists & journal clubs 
+
+\[needs content\]
+
+* [Psychology, Philosophy and Informatics Reading Group](http://lists.inf.ed.ac.uk/mailman/listinfo/ppig-list)
+
 ## Getting your papers made available to everyone
 
 _by Sue FW_
