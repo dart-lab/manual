@@ -4,7 +4,7 @@ title: Ethics Applications
 ---
 # Ethics
 
-## R&D, Sponsorship, and Ethics: definitions and process
+## Definitons
 
 ### Sponsorship
 
@@ -47,17 +47,19 @@ The **Caldicott Guardian** scheme is designed to make sure patient data collecte
 
 * Review of patient data security.
 * The Caldicott Guardian scheme is about protecting patient data.
-* If you are using patient data- including names and addresses from clinic lists, or re-analysis of routine data, you will need to have your application approved by the Calidcott Guardian. 
+* If you are using patient data- including names and addresses from clinic lists, or re-analysis of routine data, you will need to have your application approved by the Calidcott Guardian.
 
 ### General
 
 Key contacts for questions about this process are Jo-Anne Robertson and Chris Coner, both based in the ACCORD office which is the join University of Edinburgh and NHS Lothian sponsor.
 
-# A short guide to various ethics forms
+# Ethics Committees
 
-_By Bérengère Digard_
+## EMREC Ethics
 
-### _PPLS Ethics_
+\[need info\]
+
+## PPLS Ethics
 
 If your study fits under the Psychology umbrella (even if it involves imaging or biosamples) and if you have a supervisor / collaborator in PPLS, you might be able to submit your ethics in PPLS. In case of doubts, ask your supervisor / collaborator / the actual ethics committee. The Ethics application process in PPLS is quite quick and straight-forward.
 
@@ -66,9 +68,11 @@ If your study fits under the Psychology umbrella (even if it involves imaging or
 3. Once all the collaborators have signed the form, it goes to the ethics committee. The decision comes back within 2 weeks via email, with the Approval letter or with the Review Comments (once I submitted a form in the morning and got the letter on the same day in the afternoon).
 4. If you need to change some details based on the Review Comments, of if you need to make amendments later, you can easily access the form again in your PPLS Ethics account to edit the form and re-submit it. While doing so you can click on "Compare Previous" to keep track and compare the different versions of the form. You can also upload a document (on the same page as the other relevant documents) explaining to the committee the changes you've made, and/or answering the questions raised in the Review Comments.
 
-### NHS Ethics, ACCORD, all that jazz
+## NHS Ethics, ACCORD, etc.
 
 This path is required for imaging studies. It is long, it is complex, I'm still entirely unable to give you a nice flowchart of all the steps to follow. This Ethics path is fraught with pitfalls and is only surpassed by Frodo's journey to Mordor.
+
+tl;dr Godspeed.
 
 # Ethics proposal advice & resources
 
@@ -76,11 +80,13 @@ Autistica have made a great Research Toolkit that contains sample information sh
 
 People in the lab will also have sample ethics applications, information sheets, consent forms etc. You can (and should) ask in Teams if anyone has an example similar to your study that you can use as a guide.
 
-## Your data management plan: collecting, transporting, storing and accessing your data during the study
+## Your data management plan
+
+### Collecting, transporting, storing and accessing your data during the study
 
 \[needs content\]
 
-## Your data management plan: publishing, sharing and archiving your data after the study
+### Publishing, sharing and archiving your data after the study
 
 \[needs content\]
 
