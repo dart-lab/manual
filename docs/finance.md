@@ -240,7 +240,12 @@ In order to avoid some of these problems, travellers can use the Airbnb platform
 * You don't rely only on the Airbnb bookings calendar, but also email the host directly, as some hosts are not assiduous about updating calendars.
 * You leave full contact details in your travel plan including location of the apartment and owner contact details.
 
-Please remember to have a valid insurance policy, which you can arrange free of charge via [**the Insurance Office**](https://www.ed.ac.uk/finance/about/sections/insurance).
+### Travel Insurance 
+
+Please remember to have a valid insurance policy, which you can arrange free of charge via [**the Insurance Office**](https://www.ed.ac.uk/finance/about/sections/insurance). 
+
+* [Travel insurance for students ]()
+* [Travel insurance for staff ]() 
 
 ## Travel expenses and booking conference or work travel
 
