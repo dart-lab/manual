@@ -1,5 +1,5 @@
 ---
-title: Funding, Grants, Reporting
+title: Funding, Grants, & Reporting
 
 ---
 # Funding
