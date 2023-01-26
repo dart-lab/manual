@@ -32,12 +32,11 @@ This is [a more general post of advice](http://dart.ed.ac.uk/dos-and-donts-super
 
 ### Stats and methods
 
-* Spurious Correlations: [http://www.tylervigen.com/](http://www.tylervigen.com/) 
+* Spurious Correlations: [http://www.tylervigen.com/](http://www.tylervigen.com/)
 * Dorothy Bishop [blog on data management](http://deevybee.blogspot.co.uk/2014/04/data-analysis-ten-tips-i-wish-id-known.html)
 * Teaching about the peer review process - [teaching using "journal sting"](http://neurodojo.blogspot.com/2013/10/using-journal-sting-papers-for-teaching.html)
 * Teaching about academic publications - [student sessions using 'story of a paper'](https://twitter.com/akiraoc/status/402802424865234944/photo/1)
 * [Online interactive tool](https://fivethirtyeight.com/features/science-isnt-broken/#part1) to explore the concept of p-hacking
-* A [blog post about reproducibility](https://blogs.plos.org/onscienceblogs/2016/03/11/psychological-science-the-good-the-bad-and-the-statistically-significant/) and statistical significance
 
 ### Community & stakeholder perspectives
 
