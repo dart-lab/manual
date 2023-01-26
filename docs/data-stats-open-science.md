@@ -20,7 +20,7 @@ University staff and students have access to a number of different online servic
 
 You can also check out [these videos](https://media.ed.ac.uk/media/ResearchComputing_by_MikeWallis/1_supsji1w "webinar") from a webinar hosted by the Digital Research Services, where they summarised some of the services they offer in a series of short talks. 
 
-We have included further information on the data storing systems that DART lab members frequently use in the sections below. 
+In the sections below, we have included further information on the data storing systems that DART lab members frequently use. 
 
 ### Shared Drives on the University Server
 
