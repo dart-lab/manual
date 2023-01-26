@@ -95,7 +95,7 @@ WEBFIRST THAT YOU WANT TO SHARE!_
 
 # Expenses
 
-## How to make an expense claim
+## Making an expense claim
 
 #### Staff: People & Money
 
@@ -270,7 +270,7 @@ The policy also supports staff wellbeing by encouraging us to only undertake nec
 
 # Paying People
 
-## How to pay participants
+## Paying participants
 
 ### Option 1: Gift vouchers
 
@@ -284,7 +284,7 @@ You can also buy vouchers yourself from the Post Office or Amazon, and claim the
 
 Most of the other options are pretty terrible. Just use vouchers.
 
-## How to pay external consultants / providers
+## Paying external consultants / providers
 
 _by Sue FW_
 
@@ -314,7 +314,7 @@ It is worth asking any external consultants to review the form in advance to che
 
 If the consultant is a member of a steering committee / reference group for a study, the easiest way to pay them as is a subsistence payment for each meeting they attend.
 
-## How to pay UoE employees or students for work or overtime
+## Paying UoE employees or students for work or overtime
 
 \[needs content\]
 
