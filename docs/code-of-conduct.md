@@ -1,5 +1,5 @@
 ---
-title: The DART Code of Conduct
+title: "⭐ The DART Code of Conduct ⭐"
 
 ---
 # DART Principles
