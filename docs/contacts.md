@@ -2,7 +2,7 @@
 title: Contacts
 
 ---
-# University Contacts
+# University contacts
 
 _by Sue FW_
 
