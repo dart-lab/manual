@@ -22,13 +22,31 @@ Here at the DART lab we have ample technology for all our various
 technological endeavours. Here is a quick guide to borrowing the
 cameras.
 
-| EBC (Edinburgh Birth Cohort) Cameras | DART cameras |
-| --- | --- |
-| There are two EBC cameras. These are labelled camera A and camera B | There are two DART cameras |
-| These cameras are currently located in the bookcase near Lorna’s desk | These cameras are currently located in the cabinet in Maggi and Natalie’s office. |
-| Please do not take the EBC cameras for anything outside of the EBC | Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need |
-| Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need | Please also sign out the camera + tripods on the box and sign back in when returned |
-| Before returning the camera make sure that:<br><br>1. The camera is fully charged<br><br>2. The SD card inside the camera is wiped of any and all recordings<br><br>3. All appropriate cords (chargers and USB are returned along with the camera)<br><br>4. The camera is being returned to exactly where you found it | Before returning the camera make sure that:<br><br>1. The camera is fully charged<br><br>2. The SD card inside the camera is wiped of any and all recordings<br><br>3. All appropriate cords (chargers and USB are returned along with the camera)<br><br>4. The camera is being returned to exactly where you found it |
+### EBC (Edinburgh Birth Cohort) Cameras
+
+There are two EBC cameras. These are labelled camera A and camera B. These cameras are currently located in the bookcase near Lorna’s desk. **Please do not take the EBC cameras for anything outside of the EBC.** 
+
+Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need.
+
+Before returning the camera make sure that:
+
+1. The camera is fully charged.
+2. The SD card inside the camera is wiped of any and all recordings.
+3. All appropriate cords (chargers and USB) are returned along with the camera.
+4. The camera is being returned to exactly where you found it.
+
+### DART Cameras
+
+There are two DART cameras. These cameras are currently located in the cabinet in Maggi and Natalie’s office. 
+
+Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need. Please also sign out the camera and tripods on the box, and sign back in when returned. 
+
+Before returning the camera make sure that:
+
+1. The camera is fully charged.
+2. The SD card inside the camera is wiped of any and all recordings.
+3. All appropriate cords (chargers and USB are returned along with the camera).
+4. The camera is being returned to exactly where you found it.
 
 ## Data collection tools available to use
 
