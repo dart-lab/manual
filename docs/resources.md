@@ -130,7 +130,7 @@ We have our own SMRC letterhead, which is available in [this Teams folder](https
 
 [SMRC Twitter page](SMRC Twitter page) @SMRCResearch
 
-[DART lab YouTube Channel](https://www.youtube.com/channel/UCPORsrJRCt1okyUF6csA3Dg "DART YouTube Channel")
+[SMRC YouTube Channel](https://www.youtube.com/channel/UCPORsrJRCt1okyUF6csA3Dg) 
 
 [DART lab Google Scholar profile](https://scholar.google.com/citations?hl=en&user=eVwvsHkAAAAJ "Google scholar")
 
