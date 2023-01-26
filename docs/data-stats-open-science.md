@@ -380,6 +380,8 @@ commands_
 
 ## Quick intro to the Open Science Framework (OSF)
 
+_By Reesha Zahir_
+
 ### What is it?
 
 The OSF is a free open-source software project that facilitates open collaboration in science research.
@@ -396,3 +398,5 @@ The OSF is a free open-source software project that facilitates open collaborati
 * The website also hosts a variety of [pre-registration templates](https://osf.io/zab38/wiki/home/ "pre-reg template") suitable for different types of projects
 * You can [collaborate with colleagues](https://help.osf.io/article/379-collaborating-on-registrations "collaboration") when drafting your pre-reg, with different permission levels assigned to different authors
 * Already submitted your pre-reg but need to change it due to unexpected circumstances? Don't worry, [it's easy to update it](https://help.osf.io/article/112-starting-an-update "how to update"). However, it's important to think carefully about the [rationale for your update](https://help.osf.io/article/110-introduction-to-updating "update intro") 
+
+If you need more info, the [OSF support FAQ page](https://help.osf.io/article/550-registration-and-preregistration-faq-s "FAQs") might be helpful! 
