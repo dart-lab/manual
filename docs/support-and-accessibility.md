@@ -59,6 +59,7 @@ Equality, Diversity and Inclusion (EDI) Groups give people the opportunity to sh
 * The [Staff BAME Network](https://www.ed.ac.uk/equality-diversity/edi-groups/staff-bame-network/purpose) for all Black, Asian, minority ethnic academic and professional staff, including PhD researchers.
 * The [Staff Pride Network](https://www.ed.ac.uk/equality-diversity/edi-groups/staffpride-network) for LGBT+ colleagues and allies.
 * The [Disabled Staff Network](https://www.ed.ac.uk/equality-diversity/edi-groups/disabled-staff-network) for staff with disabilities, restrictive health conditions and caring responsibilities.
+* The [Edinburgh Race Equality Network (EREN)](https://www.ed.ac.uk/equality-diversity/edi-groups/race-equality-network-eren) for Black, Asian and Minority Ethnic staff and allies committed to create an environment where race is celebrated and everyone is treated fairly.
 * The [Autistic Peers & Allies group](https://uoe.sharepoint.com/sites/AutisticPeersAllies) for autistic staff, autistic students and allies.
 
 ## Other counselling etc. services & resources
