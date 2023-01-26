@@ -46,13 +46,11 @@ In the first instance you should **always** go to Sue Davidson though.
 
 ## Graphic Design
 
-[http://scottmcallisterdesign.co.uk](http://scottmcallisterdesign.co.uk) -- recommended though not used yet,
-an autistic graphic designer in Scotland.
-
-David Roberts (designroute.hello@gmail.com) has done some graphic design work for Catherine before (happy to share examples). He's a registered supplier at the University so easy to pay, and happy to do small bits of graphic design work - many of the other University registered suppliers only take on bigger jobs.
+* [http://scottmcallisterdesign.co.uk](http://scottmcallisterdesign.co.uk) - recommended though not used yet, an autistic graphic designer in Scotland.
+* David Roberts, [designroute.hello@gmail.com](designroute.hello@gmail.com) - has done some graphic design work for Catherine before (happy to share examples). He's a registered supplier at the University so easy to pay, and happy to do small bits of graphic design work - many of the other University registered suppliers only take on bigger jobs.
 
 ## Transcription
 
-_By Catherine Crompton_
+_by Catherine Crompton_
 
-Lesley @ e-transcribing ([info@e-transcribing.co.uk](mailto:info@e-transcribing.co.uk)). Local transcriber used before to transcribe confidential interviews both by Patrick Wild Centre and the School of Education. Lesley lives in Edinburgh and does not work during school holidays (including over the summer holidays), and in 2018 charged £1/minute of tape to transcribe.
+* Lesley @ e-transcribing, [info@e-transcribing.co.uk](mailto:info@e-transcribing.co.uk) - Local transcriber used before to transcribe confidential interviews both by Patrick Wild Centre and the School of Education. Lesley lives in Edinburgh and does not work during school holidays (including over the summer holidays), and in 2018 charged £1/minute of tape to transcribe.
