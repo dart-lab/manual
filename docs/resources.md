@@ -99,7 +99,7 @@ You can find a list of toys and technology available to DART members [on Teams h
 
 In **Toys and Games**, there are three categories: digital toys (separate from iPads), toys associated with assessments (e.g. toys from the ADOS kit which can assess symbolic play), and participant tokens (including fidgets and participant gifts).
 
-In **Technology** we don't have info yet but we plan to list things like dictaphones, video cameras, laptops etc.
+In **Technology** we have a census of the tech cupboard on the 5th floor. The categories are: video equiptment, computer equiptment, gaming equiptment, other equiptment, "things in containers" (largely misc tech paraphernalia such as headphones, hard drives, mouses etc.), and "non-tech / misc." (such as tote bags and flattened boxes).
 
 ## Online services: Infogram, Qualtrics etc.
 
@@ -120,22 +120,10 @@ Here at the DART lab we have ample technology for all our various
 technological endeavours. Here is a quick guide to borrowing the
 cameras.
 
-* There are **two Edinburgh Birth Cohort (EBC) cameras** - these are labelled Camera A and Camera B. These are currently located in the book case near Lorna's desk. _Please do not take the EBC cameras for anything outside of the EBC._ 
-* There are **two DART cameras** - these cameras are currently located in the cabinet in Maggi and Natalie's office. 
-* Before you take the camera, make sure that you are also taking the appropriate charger, USB cord, and any SD cards you need. 
-* Please also sign out the camera + tripods on the box and sign back in when returned. 
-* Before returning the camera, please make sure that: 
-  1. The camera is **fully charged**
-  2. The **SD card** inside the camera is **wiped of any and all recordings**
-  3. All **appropriate cords** (chargers and USB) **are returned** along with the camera
-  4. The camera is being returned to **exactly where you found it.**
-
-## Generating subtitles/captions for video recordings 
-
-Here are some top tips from lab member _Alyssa Alcorn_ about generating subtitles for video recordings.
-
-1. The live transcription on Zoom is a disaster. DO NOT rely on these transcripts. You won't be "tidying them up" and correcting a few names--ours were such a mess it might have been faster for me to do it from scratch than to try to edit them. Some sections looked superficially legible until you listened to them and realised the real meaning was often opposite, but other sections and particular speakers were a complete scramble, or had chunks missing altogether.
-2. The machine-generated captions on UoE MediaHopper are much, much better in comparison to Zoom, and "clean up" almost all the umms and errs and repeated words (the powers of offline processing instead of real-time processing!). That clean-up is good for an event recording I think, even if you wouldn't want to lose that stuff in a recording that was meant to be analysable data.
-3. The caption-editing interface is more usable (and also faster?) in MediaHopper than in YouTube, and has a built-in find+replace function.
-4. You can generate your edited captions in MediaHopper, and export the caption file for use in another platform if you need to. You can also edit them in a plain text file, like in notepad++ if you have that for writing code etc.
-5. And finally... if you are working in MediaHopper, save and close if you are stepping away for longer than a few minutes. _It will log you out after a while. It's possible to keep editing, and apparently saving your progress, even if you have been logged out! I lost hours of work this way!_ 
+| EBC (Edinburgh Birth Cohort) Cameras | DART cameras |
+| --- | --- |
+| There are two EBC cameras. These are labelled camera A and camera B | There are two DART cameras |
+| These cameras are currently located in the bookcase near Lorna’s desk | These cameras are currently located in the cabinet in Maggi and Natalie’s office. |
+| Please do not take the EBC cameras for anything outside of the EBC | Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need |
+| Before you take the camera make sure that you are also taking the appropriate charger, USB cord and any SD cards you need | Please also sign out the camera + tripods on the box and sign back in when returned |
+| Before returning the camera make sure that:<br><br>1. The camera is fully charged<br><br>2. The SD card inside the camera is wiped of any and all recordings<br><br>3. All appropriate cords (chargers and USB are returned along with the camera)<br><br>4. The camera is being returned to exactly where you found it | Before returning the camera make sure that:<br><br>1. The camera is fully charged<br><br>2. The SD card inside the camera is wiped of any and all recordings<br><br>3. All appropriate cords (chargers and USB are returned along with the camera)<br><br>4. The camera is being returned to exactly where you found it |
