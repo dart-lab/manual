@@ -2,6 +2,10 @@
 title: Writing & Publishing
 
 ---
+# Journals List
+
+\[needs content\]
+
 # Open Access Publishing
 
 _By Catherine_
