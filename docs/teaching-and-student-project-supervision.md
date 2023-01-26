@@ -1,7 +1,7 @@
 ---
-title: "Teaching and Student Project Supervision"
----
+title: Teaching & Student Project Supervision
 
+---
 Teaching and Student Project Supervision
 ========================================
 
