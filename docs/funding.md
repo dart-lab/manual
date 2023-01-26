@@ -76,6 +76,10 @@ This section needs updating but for now [_here's a useful list of postdoctoral f
 
 \[needs content\]
 
+## How to create a grant budget
+
+\[needs content\]
+
 ## Writing a grant - how to get it costed
 
 _by Sue FW_
