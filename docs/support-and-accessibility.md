@@ -2,19 +2,7 @@
 title: Support & Accessibility
 
 ---
-# Support & Accessibility
-
-## Making materials accessible to people with cognitive and learning disabilities
-
-_by Sue FW_
-
-[This resource](https://www.w3.org/TR/coga-usable/) was created by the Cognitive and Learning Disabilities Task Force as a guideline for making online resources accessible.
-
-## Respect at Edinburgh
-
-_By Sue FW_
-
-The University has a zero-tolerance stance towards any form of bullying and harassment. The [Respect at Edinburgh web hub](https://www.edweb.ed.ac.uk/equality-diversity/respect) brings together information and guidance on the Dignity & Respect policy, the processes for raising and addressing concerns, and the support and training available.
+# Support
 
 ## University services including counselling, disability service etc.
 
@@ -92,7 +80,7 @@ _by Holly Sutherland_
 
 Here are some counselling services drawn from that first list, which all offer low cost options (though some are based on where you live):
 
-* _Arkordia Counselling and Psychotherapy Service:_ 
+* _Arkordia Counselling and Psychotherapy Service:_
   * General counselling to assist individuals to explore and resolve whatever difficulties are being experienced.
   * Cost = Negotiated Donations from £10 upwards per session to offer a service available to those on low incomes.
 * _CoCo Counselling_
@@ -119,7 +107,23 @@ Here are some counselling services drawn from that first list, which all offer l
   * General counselling for people aged 16 and over to explore life’s challenges and address personal difficulties. Reduced fee counselling available for up to 26 sessions per person.
   * Cost = Negotiated fees in line with income, starting at £10 per sessioN.
 
-## Lone working - what is it and how to do it safely
+# Accessibility
+
+## Making materials accessible to people with cognitive and learning disabilities
+
+_by Sue FW_
+
+[This resource](https://www.w3.org/TR/coga-usable/) was created by the Cognitive and Learning Disabilities Task Force as a guideline for making online resources accessible.
+
+## Respect at Edinburgh
+
+_By Sue FW_
+
+The University has a zero-tolerance stance towards any form of bullying and harassment. The [Respect at Edinburgh web hub](https://www.edweb.ed.ac.uk/equality-diversity/respect) brings together information and guidance on the Dignity & Respect policy, the processes for raising and addressing concerns, and the support and training available.
+
+# Lone & international working
+
+## What is it and how to do it safely
 
 _By Shereen Sharaan_
 
@@ -234,25 +238,3 @@ on a calendar.
 Finally, sorting out transport (public transport, car rental, etc.) and
 other resources at the research site (Wi-Fi, printer, etc.) is essential
 to ensure a smooth research schedule.
-
-## Local services for families with autistic children
-
-_by Sue FW_
-
-I get fairly regular emails from people -- parents of autistic children
-
-* asking me for advice on local services etc. Here's a list of things I
-  often share -- obviously this should be tailored to the specific
-  circumstances and query of the family:
-
-Grow Communication is a lovely local speech & language group providing
-independent services: [http://www.growsalt.uk/](http://www.growsalt.uk/)
-
-Tailor Ed is another local organisation that provides autism-specific
-support: [http://tailoredfoundation.co.uk/](http://tailoredfoundation.co.uk/)
-
-Bounce OT is a great occupational therapy
-organisation: [https://bouncet.com/](https://bouncet.com/)
-
-You can also get excellent advise from the Scottish Autism
-Helpline: [https://www.scottishautism.org/](https://www.scottishautism.org/)
