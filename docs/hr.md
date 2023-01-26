@@ -8,28 +8,24 @@ title: Human Resources, Recruitment, Line Managing
 
 _By Sue FW_
 
-People and Money is the University's new (as of September 2020) system
-for managing everything to do with people -- annual leave, contracts,
-flexible working, annual review -- and money! This new system may
-supersede much of the info provided below. For now, you can watch some
-introductory videos for the system [at this
-link](https://uoe.sharepoint.com/sites/ServiceExcellenceProgramme/SitePages/Core-Systems.aspx).
+People and Money is the University's new (as of September 2020) system for managing everything to do with people -- annual leave, contracts, flexible working, annual review -- and money! This new system may supersede much of the info provided below. For now, you can watch some introductory videos for the system [at this link](https://uoe.sharepoint.com/sites/ServiceExcellenceProgramme/SitePages/Core-Systems.aspx).
 
 ## HR forms
 
 _By Sue FW_
 
-Nearly all the forms and documents listed below should be [available at this HR  website](https://www.ed.ac.uk/human-resources/a-to-z-of-forms?utm_campaign=2315374_SEP%26HR%20-%20All%20staff%20email%20-%20Digital%20ways%20of%20working%20project%20-%2026%20Feb%2019&utm_medium=email&utm_source=dotmailer&dm_i=27JU,1DMJY,425AZ8,4J5IZ,1).
+Nearly all the forms and documents listed below should be [available at this HR website](https://www.ed.ac.uk/human-resources/a-to-z-of-forms?utm_campaign=2315374_SEP%26HR%20-%20All%20staff%20email%20-%20Digital%20ways%20of%20working%20project%20-%2026%20Feb%2019&utm_medium=email&utm_source=dotmailer&dm_i=27JU,1DMJY,425AZ8,4J5IZ,1).
 This includes:
 
-* Ad-hoc payment form 100 for paying (some kinds of) external consultants for their time, see page 20
+* Ad-hoc payment form 100 for paying (some kinds of) external
+  consultants for their time, see page 20
 * Forms for External Examiners
 * Flexible working requests
 * A Job description template
 * Annual leave calculator spreadsheet
 * P&DR forms
 
-## Hybrid Working
+## Hybrid working
 
 The University supports hybrid working and in the wake of Covid-19 they have created a hybrid working framework which is available here: [https://www.ed.ac.uk/hybrid-working](https://www.ed.ac.uk/hybrid-working "https://www.ed.ac.uk/hybrid-working")
 
@@ -49,9 +45,19 @@ This is a [checklist for managers](https://www.ed.ac.uk/human-resources/working-
 
 _By Sue FW_
 
-This scheme enables line managers to issue small (£50 or £100) rewards to staff who have gone above and beyond what is required in their role. The reward comes as a gift voucher, so it isn't taxed, but it also isn't cash. It is primarily meant for staff on lower grades who have completed an "exceptional act or effort".
+This scheme enables line managers to issue small (£50 or £100) rewards
+to staff who have gone above and beyond what is required in their role.
+The reward comes as a gift voucher, so it isn't taxed, but it also isn't
+cash. It is primarily meant for staff on lower grades who have completed
+an "exceptional act or effort". You
 
-There's details of the scheme including how to nominate someone [at this page](https://www.ed.ac.uk/human-resources/pay-reward/contribution/voucher-reward-scheme).  The process is very fast and you can normally issue a reward within a week or two. The nominee will receive a letter and they need to collect their voucher from the cash office.
+There's details of the scheme including how to nominate someone [at this
+page](https://www.ed.ac.uk/human-resources/pay-reward/contribution/voucher-reward-scheme).
+The process is very fast and you can normally issue a reward within a
+week or two. The nominee will receive a letter and they need to collect
+their voucher from the cash office.
+
+# Recruitment
 
 ## Things to think about when recruiting an intern
 
@@ -174,32 +180,7 @@ If it is confirmed that sponsorship is available, you could then refer the indiv
 
 There are two types of visas: “global talent” and “skilled worker”. There are a few requisites: the appointees salary has to be over £24,000; they need proof that they have been taught in English or have English certification; they need to prove they have had a balance in their bank account of >£1,200 for a 3 month period. However, most pertinent for you is that (a) visas take at least 3 months to obtain and (b) it costs £2,400 for the employee visa plus any partner/dependent visa costs. More detailed information can be found [here](https://www.ed.ac.uk/global/staff-visas/overview-of-relevant-visa-routes).
 
-## Writing a reference
-
-_By Sue FW_
-
-\[needs content\]
-
-When you've finished, run your reference through this [gendered language
-checker](https://www.tomforth.co.uk/genderbias/).
-
-## What is the talent register and why should you care?
-
-_By Sue FW_
-
-The Talent Register provides anonymised details of staff available for
-redeployment to those who are recruiting for staff in the University.
-
-Staff are eligible for redeployment as a result of being at risk of
-redundancy, for health or medical reasons or when a position has been
-red-circled. If you are in the final five months of a UoE contract you
-can add your details to the register. Anyone recruiting to a new post is
-required to check the Talent Register first to see if there's an
-eligible person already listed. This is a great way to sustain
-employment at the University.
-
-You can find out more here:
-[https://www.ed.ac.uk/human-resources/recruitment/talent-register/redeployees](https://www.ed.ac.uk/human-resources/recruitment/talent-register/redeployees)
+# Internal Reviews
 
 ## What to expect from your Performance & Development Review (PandDR)
 
@@ -289,6 +270,24 @@ share progress updates throughout the year.
 * Your supervision team is expected to share some immediate indication
   of the review outcome (PhD-track, M-Phil/MRes track, or withdraw).
 
-The [postgraduate
-Wiki](https://www.wiki.ed.ac.uk/pages/viewpage.action?spaceKey=CPW&title=CCBS+Postgraduate+wiki)
-is a great place to look for more info if you are a student within CCBS.
+The [postgraduate Wiki](https://www.wiki.ed.ac.uk/pages/viewpage.action?spaceKey=CPW&title=CCBS+Postgraduate+wiki) is a great place to look for more info if you are a student within CCBS.
+
+# Managing People
+
+## Writing a reference
+
+_By Sue FW_
+
+\[needs content\]
+
+When you've finished, run your reference through this [gendered language checker](https://www.tomforth.co.uk/genderbias/).
+
+## What is the talent register and why should you care?
+
+_By Sue FW_
+
+The Talent Register provides anonymised details of staff available for redeployment to those who are recruiting for staff in the University.
+
+Staff are eligible for redeployment as a result of being at risk of redundancy, for health or medical reasons or when a position has been red-circled. If you are in the final five months of a UoE contract you can add your details to the register. Anyone recruiting to a new post is required to check the Talent Register first to see if there's an eligible person already listed. This is a great way to sustain employment at the University.
+
+You can find out more here: [https://www.ed.ac.uk/human-resources/recruitment/talent-register/redeployees](https://www.ed.ac.uk/human-resources/recruitment/talent-register/redeployees "https://www.ed.ac.uk/human-resources/recruitment/talent-register/redeployees")
