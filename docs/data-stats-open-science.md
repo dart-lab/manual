@@ -391,7 +391,7 @@ commands_
 * Information about the [FAIR principles of data
   science](https://www.go-fair.org/fair-principles/): data should be
   Findable, Accessible, Interoperable and Reuseable
-* \[Research Cultures Integrity, Reproducibility and Open Research event recording\](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/Shared Documents/Forms/AllItems.aspx?id=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation%2FRCWG December Event%2Emp4&parent=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation). Topics covered in this series of talks include: the role of research metrics, assessment and research practices and how these impact research culture, research integrity, and reproducibility
+* [Research Cultures Integrity, Reproducibility and Open Research event recording](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/Shared Documents/Forms/AllItems.aspx?id=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation%2FRCWG December Event%2Emp4&parent=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation). Topics covered in this series of talks include: the role of research metrics, assessment and research practices and how these impact research culture, research integrity, and reproducibility
 
 ## Quick intro to the Open Science Framework (OSF)
 
