@@ -34,7 +34,7 @@ This includes support and guidance for anyone seeking help with mental health is
 
 The [Advice Place](https://eusa.ed.ac.uk/adviceplace) is an independent and confidential advisory service for students on health and wellbeing, accommodation, finances and other related issues. They are part of the [Edinburgh University Students’ Association](https://www.eusa.ed.ac.uk/), and they can be contacted online, by phone or in person at Potterrow and King’s Buildings House.
 
-The University provides Counselling Services for [students](https://www.ed.ac.uk/student-counselling) and [staff](https://www.ed.ac.uk/counselling-services/staff) to support with work-related or personal issues. The [Chaplaincy](https://www.ed.ac.uk/chaplaincy) is another safe and open service that offers [Multifaith and Belief](https://www.ed.ac.uk/chaplaincy/multifaith-and-belief-spirituality "https://www.ed.ac.uk/chaplaincy/multifaith-and-belief-spirituality") provision, a [Listening service](https://www.ed.ac.uk/chaplaincy/the-listening-service "https://www.ed.ac.uk/chaplaincy/the-listening-service"), [events](https://www.ed.ac.uk/chaplaincy/events) and a [Mindfulness](https://www.ed.ac.uk/chaplaincy/mindfulness "https://www.ed.ac.uk/chaplaincy/mindfulness") programme.
+The University provides Counselling Services for [students](https://www.ed.ac.uk/student-counselling) and [staff](https://www.ed.ac.uk/counselling-services/staff) to support with work-related or personal issues. The [Chaplaincy](https://www.ed.ac.uk/chaplaincy) is another safe and open service that offers [Multifaith and Belief](https://www.ed.ac.uk/chaplaincy/multifaith-and-belief-spirituality "https://www.ed.ac.uk/chaplaincy/multifaith-and-belief-spirituality") provision, a [Listening service](https://www.ed.ac.uk/chaplaincy/the-listening-service "https://www.ed.ac.uk/chaplaincy/the-listening-service"), and a [Mindfulness](https://www.ed.ac.uk/chaplaincy/mindfulness "https://www.ed.ac.uk/chaplaincy/mindfulness") programme.
 
 #### Self-help
 
@@ -152,7 +152,7 @@ _by Shereen Sharaan_
   be contacted in an emergency
 * Follow sign-in and sign-out procedures
 
-####  Know your Personal Safety
+#### Know your Personal Safety
 
 * Identify a person based where you are with whom you can share
   details of your location, work plan, estimated time of leaving and
@@ -203,9 +203,9 @@ If you've researched the main regulatory authorities in that country (surfed the
 
 ### Differences: Language, Culture, and Social Norms
 
-You must be armed with some knowledge of language, culture, and social norms before visiting any country for the first time, let alone if you are visiting for research purposes, as its success depends on the support of the community. 
+You must be armed with some knowledge of language, culture, and social norms before visiting any country for the first time, let alone if you are visiting for research purposes, as its success depends on the support of the community.
 
-You would do well to identify beforehand whether the country generally adopts a high-context culture (implicit communication that relies heavily on context with value placed on interpersonal relationships) or a low-context culture (explicit verbal communication, and less close-knit). Joining community groups on social media and reading up on blogs from locals and travelers could certainly offer useful insights on that note (perhaps even touch on aspects of daily life like gift-giving, tips, etc.). 
+You would do well to identify beforehand whether the country generally adopts a high-context culture (implicit communication that relies heavily on context with value placed on interpersonal relationships) or a low-context culture (explicit verbal communication, and less close-knit). Joining community groups on social media and reading up on blogs from locals and travelers could certainly offer useful insights on that note (perhaps even touch on aspects of daily life like gift-giving, tips, etc.).
 
 While this maybe my own personal viewpoint (from my own experience), I do feel that it is imperative for a researcher to make the effort to engage in local language and social norms. Ask lots of questions and express interest. The effort does not go unnoticed and you are more likely to make meaningful connections.
 
