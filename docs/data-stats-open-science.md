@@ -4,14 +4,6 @@ title: Data, Stats and Open Science
 ---
 # Data, Stats and Open Science
 
-## Digital Research Services
-
-_By Reesha Zahir_
-
-The [Digital Research Services](https://www.digitalresearchservices.ed.ac.uk/ "Digital Research Services") page provides information about all of the data and computing services available to researchers at the University of Edinburgh. This includes resources for planning your research, data collection, data storage, analysis, data management, data sharing, publication, and much more.
-
-The UoE Digital Research Services team have also created a [Digital Research Toolkit](https://www.digitalresearchservices.ed.ac.uk/resources/digital-research-toolkit "Digital Research Toolkit"), which is a selection of tools and services designed to help accelerate digital research. Webinars about the tools and services available in this toolkit can be found [here.](https://media.ed.ac.uk/playlist/dedicated/169912561/1_iu5mrgh2/1_supsji1w "Digital Research Toolkit Webinars")
-
 ## Data storage systems and definitions
 
 _by Sue Fletcher-Watson_
@@ -79,8 +71,6 @@ in CCBS who might be able ot help if you have queries.
 ## Data Management & how to password protect and encrypt a file.
 
 _By Sue Fletcher-Watson_
-
-University resources on data protection and processing can be found at [https://www.ed.ac.uk/data-protection](https://www.ed.ac.uk/data-protection "https://www.ed.ac.uk/data-protection") and [https://uoe.sharepoint.com/sites/DataProcessingRegisters/](https://uoe.sharepoint.com/sites/DataProcessingRegisters/ "https://uoe.sharepoint.com/sites/DataProcessingRegisters/").
 
 ### Data Management: file types
 
@@ -384,18 +374,19 @@ commands_
 
 ## Open Science Resources
 
-* Information about the [FAIR principles of data science](https://www.go-fair.org/fair-principles/): data should be Findable, Accessible, Interoperable and Reuseable
-* A recording of the University's Research Cultures Integrity, Reproducibility, and Open Research event is \[available to watch online\](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/Shared Documents/Forms/AllItems.aspx?id=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared%20Documents%2FResearch%20Policy%2FResearch%20Evaluation%2FRCWG%20December%20Event%2Emp4&parent=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared%20Documents%2FResearch%20Policy%2FResearch%20Evaluation) (UoE staff/students only).
+* Information about the [FAIR principles of data
+  science](https://www.go-fair.org/fair-principles/): data should be
+  Findable, Accessible, Interoperable and Reuseable
 
-## Open Science Framework (OSF)
+## Quick intro to the Open Science Framework (OSF) 
 
-The [OSF](https://osf.io/ "OSF") is a free open-source software project that facilitates open collaboration in research. You can use it to pre-register your analysis plans, share preprints, collaboratively analyse and store data, and much more.
+### What is it? 
 
-The [OSF Support](https://help.osf.io/ "OSF Support") website has a comprehensive guidance on how to get started with using this platform for [your individual research](https://help.osf.io/article/338-starting-pathway-on-the-osf), or for [collaborative group research.](https://help.osf.io/article/413-getting-started-for-research-groups) You may find the following pages useful if you are planning on registering your analyses on the OSF:
+The OSF is a free open-source software project that facilitates open collaboration in science research. 
 
-* [Intro to registrations on OSF]()
-* [Creating a registration](https://help.osf.io/article/345-create-registrations)
-* [Registration templates]()
-* [Intro to updating your registration](https://help.osf.io/article/110-introduction-to-updating)
-* [Starting an update of your registration](https://help.osf.io/article/112-starting-an-update)
-* [Sharing registrations](https://help.osf.io/article/381-sharing-registrations)
+### What can you do with it? 
+
+* You can **pre-register** your research paper on the Open Science Framework. They have a variety of pre-registration templates suitable for all kinds of research. You can also pre-register your posters and presentations for conferences
+* You can **collaboratively work** on research projects. All the ongoing research projects in a lab can be managed through the OSF. The projects can be interlinked (or not), and the platform can store (in editable form) the data collected for each project, lab manuals, protocols, etc. 
+
+As a collaboration tool, OSF helps research teams work on projects privately or make the entire project publicly accessible for broad dissemination. As a workflow system, OSF enables connections to data, preprints, and data management and research planning that researchers already use, streamlining their process and increasing efficiency. Post your work, solicit feedback, and tag categories for others to find, comment on, and engage with you
