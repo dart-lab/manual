@@ -22,26 +22,6 @@ _by Sue Fletcher-Watson_
 
 We have our own SMRC letterhead, which is available in [this Teams folder](https://uoe.sharepoint.com/:f:/r/sites/DARTlab/Shared%20Documents/Admin%20and%20Resources/Images,%20logos%20%26%20headed%20paper?csf=1&web=1&e=pBU7Id) with the logos.
 
-## Ordering catering
-
-_by Sue Fletcher-Watson_
-
-_For most university sites* you can order Online Delivered Catering.
-Normally you can order food as close as 24 hours before an event though
-obviously it's safest to give a bit more notice._
-
-_There is_ [_information about the service at this page_](https://www.accom.ed.ac.uk/for-staff/delivered-catering/) and an online [_order form at this page_](https://www.catering.accom.ed.ac.uk/KxWebCatering/CurrentBookings.aspx). When you check out from the system there is a box for "Account Notes". This is a good place to list the cost centre and job code which you want billed for the catering \[see Expenses chapter for details on these terms\]. In Psychiatry the "person to be billed" and the "authorised by" will normally both be Ken O'Neill.
-
-If those links don't work for you, the best way to access the online catering form is to _[_log in to MyEd_](https://www.myed.ed.ac.uk/) and select Catering from the menu on the left hand side, or from the Services tab at the top of the page.
-
-_If you have queries about online delivered catering you can email_ [_accomoldcollege@ed.ac.uk_](mailto:accomoldcollege@ed.ac.uk) _or call 0131 667 1971_
-
-_However, **Online Delivered Catering will NOT deliver to Kennedy Tower!** For us you need to call to make your order. They will ask for an approved signatory -- Ken or Sue can both do this. They will send a form to print, sign, scan and return. You will need to return the signed form **ten days** before your event date._
-
-If you don't have ten days or object to the fact that our building doesn't get a catering service like other University sites, you can get catering locally. Normally this will mean purchasing yourself and claiming back the cost. In the past we have ordered food from the [M&S  online food-to-order service](https://www.marksandspencer.com/c/food-to-order/about-our-food-to-order-service), which can be collected for free from the shop on Morningside Road. In the 5th floor kitchen and other locations around the Tower (try the 3rd floor kitchen too) there are insulated jugs so you can provide a way to make teas and coffees for large groups.
-
-If you want to contribute to an on-going effort to get Kennedy Tower added to the list of locations for Online Delivered Catering, please email [_accomoldcollege@ed.ac.uk_](mailto:accomoldcollege@ed.ac.uk) _to request this._
-
 ## Toys & technology available to use
 
 _by Maggi Laurie_
