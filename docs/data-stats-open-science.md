@@ -387,6 +387,9 @@ The OSF is a free open-source software project that facilitates open collaborati
 ### What can you do with it? 
 
 * You can **pre-register** your research paper on the Open Science Framework. They have a variety of pre-registration templates suitable for all kinds of research. You can also pre-register your posters and presentations for conferences
-* You can **collaboratively work** on research projects. All the ongoing research projects in a lab can be managed through the OSF. The projects can be interlinked (or not), and the platform can store (in editable form) the data collected for each project, lab manuals, protocols, etc. 
+* You can **collaboratively work** on research projects. All the ongoing research projects in a lab can be managed through the OSF. The projects can be interlinked (or not), and the platform can store (in editable form) the data collected for each project, lab manuals, protocols, etc.
 
-As a collaboration tool, OSF helps research teams work on projects privately or make the entire project publicly accessible for broad dissemination. As a workflow system, OSF enables connections to data, preprints, and data management and research planning that researchers already use, streamlining their process and increasing efficiency. Post your work, solicit feedback, and tag categories for others to find, comment on, and engage with you
+### How do I pre-register my paper on OSF? 
+
+1. [Create an OSF account](https://help.osf.io/article/271-create-an-osf-account "Create an OSF account"). You can use your ORCID, institutional login, or any email address to create an account 
+2. 
