@@ -16,14 +16,16 @@ title: Building Information
 * If you go past the porthole-shaped art display with a lighthouse inside, you have gone too far!
 * Ring the doorbell and someone will come and let you in OR just call my mobile and I’ll come and get you: 07841 032 702.
 
-## Kennedy Tower FAQs
+## FAQs
 
-**Where is the colour printer?**
+**Where is the colour printer in Kennedy Tower?**
 
 You can find a colour printer on the 3rd floor of Kennedy Tower.
 
-**How do I book a room in the building?**
+**How do I book a room in Kennedy tower?**
 
-Email either one of the building servitors Alix Wilkinson a.wilkinson@ed.ac.uk or Patrice Delfils patrice.delfils@ed.ac.uk requesting to book a room for your preferred date/time. You can request to book a specific room or you could describe what you need the room for and they can help allocate a suitable one.
+Email either one of the building servitors Alix Wilkinson a.wilkinson@ed.ac.uk or Patrice Delfils [patrice.delfils@ed.ac.uk](patrice.delfils@ed.ac.uk) requesting to book a room for your preferred date/time. You can request to book a specific room or you could describe what you need the room for and they can help allocate a suitable one.
 
-You can also book a room at RHCYP. Please email Kate at [Child.Life.Health@ed.ac.uk](mailto:Child.Life.Health@ed.ac.uk) to request a booking. [See here](https://www.ed.ac.uk/inflammation-research/child-life-and-health/staff-students-only/room-booking) (EASE login required) for information on the rooms (with photos), capacity, AV-equipment.
+**How do I book a room in RHCYP?**
+
+Please email Kate at [Child.Life.Health@ed.ac.uk](mailto:Child.Life.Health@ed.ac.uk) to request a booking. [See here](https://www.ed.ac.uk/inflammation-research/child-life-and-health/staff-students-only/room-booking) (EASE login required) for information on the rooms (with photos), capacity, AV-equipment.
