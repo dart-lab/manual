@@ -6,7 +6,7 @@ title: Writing & Publishing
 
 \[needs content\]
 
-# Open Access 
+# Open Access
 
 ## How to Open Access Publish
 
@@ -92,3 +92,9 @@ When you have a paper accepted, forward the acceptance email to [ccbs-openaccess
 * if you would like media support, please let them know and give them a brief summary of your findings.
 
   Here is an [aide memoire](https://www.ed.ac.uk/files/atoms/files/ccbs_open_access_aide_memoire_v2.pdf) that you might want to pin up by your desk to help you remember.
+
+# Systematic Reviews 
+
+If you are looking for resources on how to write a systematic review for yourself or for a student, you can find plenty in this [DART lab Sharepoint folder](https://uoe.sharepoint.com/sites/DARTlab/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=4SKgNl&cid=e34c75dc%2Dc773%2D48ae%2Da627%2D9ed9534243c2&RootFolder=%2Fsites%2FDARTlab%2FShared%20Documents%2FAdmin%20and%20Resources%2F8%2E%20Undergrad%20supervision%2Fsystematic%20review%20templates%20for%20students&FolderCTID=0x01200062CA99FC3D8BF046B0C699BB419C06A0 "Systematic Review resources"). 
+
+You can also watch or signpost [this lecture by Sue FW](https://www.dropbox.com/s/oecucbdo9ruc902/SFW_systematic_review_lecture_Sept2020.mp4?dl=0 "Systematic Review lecture") on the systematic review process. This lecture was delivered to a group of PhD students, so the level of information _might_ be too elaborate if you are looking to signpost the resource to undergrad or Masters students. 
