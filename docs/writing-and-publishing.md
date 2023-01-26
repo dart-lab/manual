@@ -14,6 +14,12 @@ If you want to publish in an Open Access journal (also known as Open Access Gold
 2. Pay the fee from a University block grant, if your research has been funded by an eligible funder (currently UKRI, Wellcome, BHF & CRUK - see details [here](https://www.ed.ac.uk/information-services/research-support/publish-research/open-access/request-apc-payment))
 3. Publish in a journal where the University has an Open Access Agreement (for details, see [here](https://www.ed.ac.uk/information-services/research-support/publish-research/open-access/request-apc-payment/publisher-discounts))
 
+The UoE library has also announced a three year transitional agreement with Elsevier starting from 1st January 2022. Authors will now have the option to publish open access without paying a fee in participating Elsevier hybrid journals including the Lancet and Cell Press titles.
+
+To be eligible, corresponding authors must be from the University of Edinburgh, have an acceptance date from 1 January 2022 and be publishing an original research article. More information on the agreement can be found here [https://www.elsevier.com/open-access/agreements/jisc](https://www.elsevier.com/open-access/agreements/jisc "https://www.elsevier.com/open-access/agreements/jisc")
+
+For authors publishing in fully open access titles, Article Processing Charges (APC's) will still apply, however the library can continue to pay these APC's for authors funded by UKRI, Wellcome, CRUK and BHF
+
 If you are unsure, you can contact openaccess@ed.ac.uk for advice.
 
 If publishing in an Open Access Journal isn't an option, you may want to deposit a copy in an Open Access Repository (also known as Open Access Green). You can read more about this [here.](https://www.ed.ac.uk/information-services/research-support/publish-research/open-access/open-access)
