@@ -55,6 +55,8 @@ Key contacts for questions about this process are Jo-Anne Robertson and Chris Co
 
 ## Ethics Pathways
 
+_by Holly Sutherland_
+
 Aka: what the hell do I need to do and where the hell do I need to go?
 
 ### General Pathway
@@ -71,9 +73,17 @@ Aka: what the hell do I need to do and where the hell do I need to go?
 
 ## Ethics Committees
 
+Use the "where to go" flowchart to work out which one you need.
+
 ### EMREC Ethics
 
-\[need info\]
+_by Holly Sutherland_
+
+You should, ideally, try to go through Edinburgh Medical School Research Ethics Committee (EMREC) if possible. It's a lot easier than NHS ethics, and they're generally very fair and permissive with their opinions, and have a fast turnaround. Getting an ethics amendment is also very fast, which is great if you suddenly need to do something different mid-study.
+
+All EMREC ethics resources are listed under the [EMREC Sharepoint Site](https://uoe.sharepoint.com/sites/EMREC). They have a very good list of what you'll need to apply / what you'll need to send to who, so I won't repeat that here. They also have all the template documents you might need (for consent/information sheet examples, ask the lab; if there's not a protocol template on there, ask Sue).
+
+The best advice I have for EMREC is to fill out their protocol template first, and then use it to populate all the other things they ask of you - because the protocol is very comprehensive, and will make you think about mostly everything else you'll need to do. Also, on the EMREC form (different to the protocol!), if you've done the protocol really thoroughly you can say e.g. "See section 1.3 in the protocol for more information" if need be, which saves a lot of time.
 
 ### PPLS Ethics
 
@@ -102,11 +112,11 @@ People in the lab will also have sample ethics applications, information sheets,
 
 ### Collecting, transporting, storing and accessing your data during the study
 
-\[needs content\]
+\[do we really need this section? DPIA you'll have to do during ethics should cover it\]
 
 ### Publishing, sharing and archiving your data after the study
 
-\[needs content\]
+\[do we really need this section? DPIA you'll have to do during ethics should cover it\]
 
 ## Making information accessible to people with a learning disability
 
