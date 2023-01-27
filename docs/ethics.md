@@ -53,13 +53,29 @@ The **Caldicott Guardian** scheme is designed to make sure patient data collecte
 
 Key contacts for questions about this process are Jo-Anne Robertson and Chris Coner, both based in the ACCORD office which is the join University of Edinburgh and NHS Lothian sponsor.
 
-# Ethics Committees
+## Ethics Pathways
 
-## EMREC Ethics
+Aka: what the hell do I need to do and where the hell do I need to go?
+
+### General Pathway
+
+![](/uploads/pathway1.png)
+
+### "Where to go" flowchart
+
+![](/uploads/pathway-2.png)
+
+### Global Health Projects - governance flowchart
+
+![](/uploads/pathway3.png)
+
+## Ethics Committees
+
+### EMREC Ethics
 
 \[need info\]
 
-## PPLS Ethics
+### PPLS Ethics
 
 If your study fits under the Psychology umbrella (even if it involves imaging or biosamples) and if you have a supervisor / collaborator in PPLS, you might be able to submit your ethics in PPLS. In case of doubts, ask your supervisor / collaborator / the actual ethics committee. The Ethics application process in PPLS is quite quick and straight-forward.
 
@@ -68,11 +84,13 @@ If your study fits under the Psychology umbrella (even if it involves imaging or
 3. Once all the collaborators have signed the form, it goes to the ethics committee. The decision comes back within 2 weeks via email, with the Approval letter or with the Review Comments (once I submitted a form in the morning and got the letter on the same day in the afternoon).
 4. If you need to change some details based on the Review Comments, of if you need to make amendments later, you can easily access the form again in your PPLS Ethics account to edit the form and re-submit it. While doing so you can click on "Compare Previous" to keep track and compare the different versions of the form. You can also upload a document (on the same page as the other relevant documents) explaining to the committee the changes you've made, and/or answering the questions raised in the Review Comments.
 
-## NHS Ethics, ACCORD, etc.
+### NHS Ethics, ACCORD, etc.
 
 This path is required for imaging studies. It is long, it is complex, I'm still entirely unable to give you a nice flowchart of all the steps to follow. This Ethics path is fraught with pitfalls and is only surpassed by Frodo's journey to Mordor.
 
 tl;dr Godspeed.
+
+\[probably we should have some kind of better advice here\]
 
 # Ethics proposal advice & resources
 
