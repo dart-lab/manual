@@ -100,23 +100,20 @@ This path is required for imaging studies. It is long, it is complex, I'm still 
 
 tl;dr Godspeed.
 
-\[probably we should have some kind of better advice here\]
+Jokes aside, no one in the lab has done an NHS ethics application in years, so we have no good advice to give. Probably, the best idea is to 
+
+1. Look at the "General Pathway" and "'Where to go' flowchart" graphics above, to get a rough idea of what you're going to need.
+2. Make contact with ACCORD (ideally with a rough study protocol outline, like a 1-pager or something) to get their opinion on which pathway your application should take and make sure you _have_ to do NHS ethics.   
+   (e.g. If you have an email from ACCORD saying "this study is not our problem for approval, and also this can go to a University REC", EMREC will do ethics for you even if you'd usually assume otherwise based on content. I have done a study in a (non-NHS) social care setting with adults with intellectual disability, and that went through EMREC - even though the pathways initially indicated it would need NHS review - on the basis of ACCORD's say-so.)
+3. Take a look at the NHS Health Research Authority's website, specifically the "[Approvals & Ammendments]()" section that covers getting ethics approval from them / their ethics application process.
+4. Make your application via IRAS, which should hand-hold you through the decisions/documents needed - though if you e.g. need Caldicott Guardian or ACCORD sponsorship, those will need to be done separately.
+5. If in doubt, _ask_. ACCORD especially are good at pointing you to where you need to go.
 
 # Ethics proposal advice & resources
 
 Autistica have made a great Research Toolkit that contains sample information sheets, consent forms and other materials for sharing with research participants. You can [check it out here](https://www.autistica.org.uk/our-research/research-toolkit?dm_i=4U0R,DHXS,PHQC6,1JM2G,1).
 
 People in the lab will also have sample ethics applications, information sheets, consent forms etc. You can (and should) ask in Teams if anyone has an example similar to your study that you can use as a guide.
-
-## Your data management plan
-
-### Collecting, transporting, storing and accessing your data during the study
-
-\[do we really need this section? DPIA you'll have to do during ethics should cover it\]
-
-### Publishing, sharing and archiving your data after the study
-
-\[do we really need this section? DPIA you'll have to do during ethics should cover it\]
 
 ## Making information accessible to people with a learning disability
 
