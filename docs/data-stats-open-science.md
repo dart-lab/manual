@@ -22,6 +22,12 @@ You can also check out [these videos](https://media.ed.ac.uk/media/ResearchCompu
 
 In the sections below, we have included further information on the data storing systems that DART lab members frequently use.
 
+### Data Storage for Individual Researchers
+
+DataStore is a secure location for active research data (i.e. data that you are working with during the course of a project). All research staff and postgraduate research students have 500GB allocated to them for this purpose. You can find out more about accessing your DataStore [here](https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage "https://www.ed.ac.uk/information-services/computing/desktop-personal/connect-uni-file-storage").
+
+Please note that as a member of the university you will also have access to storage space via OneDrive. **This should not be used to store raw or identifiable research data.** Such data should be stored on DataStore or one of the shared drives discussed below.
+
 ### Shared Drives on the University Server
 
 The University Information Services can create shared folders on University servers. These are just like regular folders on your work computer, but they are also available on the desktops of other folder members. Folders need to be created by emailing the IS helpline. You should give them the UUN (University UserName) of anyone who you want to be able to access the folder -- access is by invitation only. Folders are not accessible outside the University -- though you will be able to access them at home / on your laptop if you link to the [VPN](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn).
@@ -181,7 +187,7 @@ documents via email; Enables users to control access to sensitive data
 using permissions; OneDrive allows you to store up to 1Tbyte of
 documents; Can be accessed from any computer.
 
-# GDPR 
+# GDPR
 
 ## What is it?
 
@@ -214,7 +220,7 @@ In general, make sure you **MINIMISE** what you collect. Collect strictly only
 3. [**R Ladies has an Edinburgh chapter**](https://www.meetup.com/rladies-edinburgh/), where you can go along to get advice and guidance, and swap tips, on using R:  
    R-Ladies Edinburgh welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. Supporting minority identity access to STEM skills & careers, the Free Software Movement, and contributing to the global R community!  
    (Just a note to say that despite the name, this group are very very inclusive: "We are pro-actively inclusive of queer, trans, and all minority identities, with additional sensitivity to intersectional identities. Our priority is to provide a safe community space for anyone identifying as a minority gender who is interested in and/or working with R.")
-4. **The** [**Research Data Service**](https://www.ed.ac.uk/information-services/research-support/research-data-service/training) run courses including Handling Data Using SPSS:   
+4. **The** [**Research Data Service**](https://www.ed.ac.uk/information-services/research-support/research-data-service/training) run courses including Handling Data Using SPSS:  
    Computer Lab-based, hands on workshop - No prior experience or preparation required. The aim of this half-day course is to show you how the facilities provided by SPSS can help with the management of your research data, demonstrating the benefits of using SPSS syntax-driven commands
 5. **Crispin Jordan** provides [stats support at a drop-in clinic](https://crispinjordan.weebly.com/data-analysis-help.html) - follow the link to see available dates and to book a slot.
 6. Places to approach for paid stats support for projects that have available budget include the [**Edinburgh Clinical Trials Unit**](https://www.ed.ac.uk/usher/edinburgh-clinical-trials) and the [**Edinburgh Clinical Research
@@ -255,7 +261,7 @@ In general, make sure you **MINIMISE** what you collect. Collect strictly only
 
 * Information about the [FAIR principles of data science](https://www.go-fair.org/fair-principles/): data should be
   Findable, Accessible, Interoperable and Reuseable
-* [Research Cultures Integrity, Reproducibility and Open Research event recording](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/Shared Documents/Forms/AllItems.aspx?id=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation%2FRCWG December Event%2Emp4&parent=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation). Topics covered in this series of talks include: the role of research metrics, assessment and research practices and how these impact research culture, research integrity, and reproducibility
+* \[Research Cultures Integrity, Reproducibility and Open Research event recording\](https://uoe.sharepoint.com/sites/ResearchSupportOfficeIntelligence/Shared Documents/Forms/AllItems.aspx?id=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation%2FRCWG December Event%2Emp4&parent=%2Fsites%2FResearchSupportOfficeIntelligence%2FShared Documents%2FResearch Policy%2FResearch Evaluation). Topics covered in this series of talks include: the role of research metrics, assessment and research practices and how these impact research culture, research integrity, and reproducibility
 * [Edinburgh ReproducibiliTEA](https://www.ed.ac.uk/information-services/about/organisation/library-and-collections/open-research/reproducibilitea) runs regular talks/discussion groups on open & reproducible science practices.
 
 ## Quick intro to the Open Science Framework (OSF)
